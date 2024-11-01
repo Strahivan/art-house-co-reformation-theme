@@ -262,3 +262,12 @@
   @media only screen and (min-width: 768px) {
     .slideshow-image--desktop {
       display: block; } }
+
+
+
+/* Steve Custom Design */ 
+
+.pseudo-h1 {
+  font-weight: 600;
+  color:#fff;
+}

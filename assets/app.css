@@ -3970,3 +3970,9 @@ input[type="radio"], .field label, .custom-checkbox[type="checkbox"], .custom-ch
   .section-header h2 {
     font-weight: var(--font-body-bold-weight, 600);
     margin-bottom: 0px; }
+
+/* Steve Custom Design */
+
+.shop-name{
+  display: none;
+}

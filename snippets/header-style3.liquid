@@ -2,7 +2,15 @@
 	{% render 'header-mobile-toggle', header_settings: header_settings, blocks: blocks %}
 </div>
 {% render 'header-full-menu', menu: header_settings.menu, blocks: blocks %}
+
 {% if header_settings.logo %}
+	
+	{% if template == "index" %}
+		<h1 class="shop-name">{{ shop.name }}</h1>
+	{% else %}
+		<div class="shop-name">{{ shop.name }}</div>
+	{% endif %}
+
 	<a class="logolink" href="{{ routes.root_url }}">
 		<img
 			src="{{ header_settings.logo | image_url }}"
@@ -27,8 +35,12 @@
 		>
 	</a>
 {% else %}
-	<a class="logolink text-logo" href="{{ routes.root_url }}">
-		{{ shop.name }}
-	</a>
+		<a class="logolink text-logo" href="{{ routes.root_url }}">
+		{% if template == "index" %}
+			<h1>{{ shop.name }}</h1>
+		{% else %}
+			<div>{{ shop.name }}</div>
+		{% endif %}
+		</a>
 {% endif %}
 {% render 'header-secondary-area', header_settings: header_settings %}

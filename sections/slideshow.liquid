@@ -147,7 +147,7 @@
 								<p class="subheading">{{ block.settings.subheading }}</p>
 							{% endif %}
 							{% if block.settings.heading != blank %}
-								<h1 class="split-text {{ block.settings.heading_size }}">{{ block.settings.heading | newline_to_br }}</h1>
+								<div class="pseudo-h1 split-text {{ block.settings.heading_size }}">{{ block.settings.heading | newline_to_br }}</div>
 							{% endif %}
 							{% if block.settings.content != blank %}
 							<p class="split-text description-size--{{ block.settings.description_size }}">{{ block.settings.content | newline_to_br }}</p>
