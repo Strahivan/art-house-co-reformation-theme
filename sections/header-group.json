@@ -64,7 +64,7 @@
             "promo_1_image": "shopify://shop_images/Mega_Menu_Olive_Lady_Overlay30.jpg",
             "promo_1_heading": "LATEST ADDITIONS",
             "promo_1_link_label": "BROWSE NEW RELEASES",
-            "promo_1_link": "",
+            "promo_1_link": "shopify://collections/new-releases",
             "promo_2_heading": "Promotion heading",
             "promo_2_link_label": "Shop",
             "promo_2_link": "",
@@ -99,13 +99,33 @@
           "type": "megamenu",
           "settings": {
             "position": "4",
-            "promo_1_image": "shopify://shop_images/Uneven_Ground_B_Black_SQ_be36fde8-6d7e-4678-9c3a-9e50acb36fcd.jpg",
-            "promo_1_heading": "Promotion heading",
-            "promo_1_link_label": "Shop",
-            "promo_1_link": "",
+            "promo_1_image": "shopify://shop_images/Mega_Menu_Image_Indigenous_Overly30.jpg",
+            "promo_1_heading": "INDIGENOUS ARTISTS",
+            "promo_1_link_label": "BROWSE COLLECTION",
+            "promo_1_link": "shopify://collections/aboriginal-artists",
             "promo_2_heading": "Promotion heading",
             "promo_2_link_label": "Shop",
             "promo_2_link": "",
+            "promo_3_heading": "Promotion heading",
+            "promo_3_link_label": "Shop",
+            "promo_3_link": "",
+            "promo_4_heading": "Promotion heading",
+            "promo_4_link_label": "Shop",
+            "promo_4_link": ""
+          }
+        },
+        "megamenu_Gb6erC": {
+          "type": "megamenu",
+          "settings": {
+            "position": "5",
+            "promo_1_image": "shopify://shop_images/Mega_Menu_DX_Print_and_Frame_Overlay30.jpg",
+            "promo_1_heading": "Print + Frame",
+            "promo_1_link_label": "ORDER NOW",
+            "promo_1_link": "https://arthouseco.com.au/collections/print-frame-services",
+            "promo_2_image": "shopify://shop_images/Mega_Menu_Print_Only2_Overlay30.jpg",
+            "promo_2_heading": "PRINT ONLY",
+            "promo_2_link_label": "ORDER NOW",
+            "promo_2_link": "shopify://products/print-only-service",
             "promo_3_heading": "Promotion heading",
             "promo_3_link_label": "Shop",
             "promo_3_link": "",
@@ -118,7 +138,8 @@
       "block_order": [
         "megamenu_JkyPma",
         "megamenu_hTPitc",
-        "megamenu_zHzNrd"
+        "megamenu_zHzNrd",
+        "megamenu_Gb6erC"
       ],
       "settings": {
         "sticky_header": true,
