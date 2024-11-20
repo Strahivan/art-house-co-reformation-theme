@@ -107,8 +107,13 @@
   .text-with-icons.icon-xlarge .text-with-icons__icon {
     height: 80px;
     width: 80px; }
-  .text-with-icons h6.body-font {
-    font-weight: var(--font-body-bold-weight, 600); }
+  .text-with-icons .body-font {
+    font-weight: var(--font-body-bold-weight, 600); 
+    font-size: 14px;
+    line-height: 1;
+    margin-bottom: 5px;
+    color: var(--color-heading, --color-accent);
+  }
   .text-with-icons.heading-large h6 {
     font-size: 20px; }
   .text-with-icons.heading-medium h6 {
