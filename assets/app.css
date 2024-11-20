@@ -1588,7 +1588,7 @@ table {
     border-bottom: 1px solid var(--color-border);
     padding: 17px 30px;
     height: 72px; }
-    .side-panel-header h4 {
+    .side-panel-header .h4 {
       margin: 0;
       line-height: 1;
       font-size: 0.9375rem;
