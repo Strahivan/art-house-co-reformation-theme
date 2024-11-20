@@ -107,11 +107,21 @@
   .gallery__item-content.content-bottom-right {
     justify-content: flex-end;
     align-items: flex-end; }
+  
   .gallery__item-content h4 {
     color: inherit;
-    margin-bottom: 8px; }
-    .gallery__item-content h4 + .button {
-      margin-top: 20px; }
+    margin-bottom: 8px;
+  }
+  
+  .gallery__item-content h4 + .button {
+    margin-top: 20px; 
+  }
+
+  .gallery__item-content .h2 {
+    color: inherit;
+    margin-bottom: 8px;
+  }
+
   .gallery__item-content p {
     margin-bottom: 30px; }
   .gallery__item-content p.subheading {
