@@ -344,7 +344,7 @@
     "166366563622039b3e": {
       "type": "featured-collection",
       "settings": {
-        "heading": "Featured Artist",
+        "heading": "Hayley Michelle",
         "heading_left": false,
         "description": "",
         "full_width": true,
@@ -353,7 +353,25 @@
         "product_limit": 8,
         "columns_desktop": 4,
         "show_view_all": true,
-        "mobile_swipe": false,
+        "mobile_swipe": true,
+        "show_progress_bar": false,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "featured_collection_7PETD6": {
+      "type": "featured-collection",
+      "settings": {
+        "heading": "Alexandra Plim",
+        "heading_left": false,
+        "description": "",
+        "full_width": true,
+        "collection": "alexandra-plim",
+        "display_type": "grid",
+        "product_limit": 4,
+        "columns_desktop": 4,
+        "show_view_all": true,
+        "mobile_swipe": true,
         "show_progress_bar": false,
         "disable_top_spacing": false,
         "disable_bottom_spacing": false
@@ -1071,6 +1089,7 @@
     "16614195534fb74bc3",
     "slideshow_naP83r",
     "166366563622039b3e",
+    "featured_collection_7PETD6",
     "image_with_text_yrQmhd",
     "featured_collection_LhFnNH",
     "image_with_text_BdPjFp",
