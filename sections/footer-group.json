@@ -11,45 +11,6 @@
   "type": "header",
   "name": "Footer group",
   "sections": {
-    "rich_text_WhfdJU": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_FzadVe": {
-          "type": "heading",
-          "settings": {
-            "text": "Customer Reviews",
-            "size": "h3"
-          }
-        }
-      },
-      "block_order": [
-        "heading_FzadVe"
-      ],
-      "settings": {
-        "section_width": "grid",
-        "text_width": "medium",
-        "text_position": "center",
-        "text_alignment": "center",
-        "color_bg": "rgba(0,0,0,0)",
-        "color_text": "#151515",
-        "color_links": "#151515",
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": true
-      }
-    },
-    "1720414451814a7b04": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_all_reviews_page_RJyP4h": {
-          "type": "shopify://apps/judge-me-reviews/blocks/all_reviews_page/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_all_reviews_page_RJyP4h"
-      ],
-      "settings": {}
-    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -115,8 +76,6 @@
     }
   },
   "order": [
-    "rich_text_WhfdJU",
-    "1720414451814a7b04",
     "footer"
   ]
 }

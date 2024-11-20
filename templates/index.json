@@ -139,7 +139,7 @@
         "color_text": "#151515",
         "color_links": "#151515",
         "disable_top_spacing": false,
-        "disable_bottom_spacing": false
+        "disable_bottom_spacing": true
       }
     },
     "spacer_ifgeMq": {
@@ -810,7 +810,7 @@
             "link_label": "BROWSE",
             "link": "shopify://collections/canvas-art",
             "use_text_button": true,
-            "block_link": "",
+            "block_link": "shopify://collections/canvas-art",
             "product_list": []
           }
         },
@@ -824,7 +824,7 @@
             "link_label": "BROWSE",
             "link": "shopify://collections/aboriginal-artists",
             "use_text_button": true,
-            "block_link": "",
+            "block_link": "shopify://collections/aboriginal-artists",
             "product_list": []
           }
         },
@@ -838,7 +838,7 @@
             "link_label": "BROWSE",
             "link": "shopify://collections/archival",
             "use_text_button": true,
-            "block_link": "",
+            "block_link": "shopify://collections/archival",
             "product_list": []
           }
         },
@@ -852,7 +852,7 @@
             "link_label": "BROWSE",
             "link": "shopify://collections/coastal",
             "use_text_button": true,
-            "block_link": "",
+            "block_link": "shopify://collections/coastal",
             "product_list": []
           }
         },
@@ -866,7 +866,7 @@
             "link_label": "BROWSE",
             "link": "shopify://collections/abstracts",
             "use_text_button": true,
-            "block_link": "",
+            "block_link": "shopify://collections/abstracts",
             "product_list": []
           }
         },
@@ -880,7 +880,7 @@
             "link_label": "browse",
             "link": "shopify://collections/mirrors",
             "use_text_button": true,
-            "block_link": "",
+            "block_link": "shopify://collections/mirrors",
             "product_list": []
           }
         }
@@ -905,7 +905,7 @@
         "overlay_color": "#000000",
         "overlay_opacity": 20,
         "disable_top_spacing": true,
-        "disable_bottom_spacing": false
+        "disable_bottom_spacing": true
       }
     },
     "rich_text_4KRFRk": {
@@ -984,15 +984,6 @@
       ],
       "settings": {}
     },
-    "1662459246bd099bb7": {
-      "type": "spacer",
-      "settings": {
-        "spacer_mobile": 50,
-        "spacer_desktop": 50,
-        "border_separator": true,
-        "border_separator_full": false
-      }
-    },
     "logo_list_kWgcgP": {
       "type": "logo-list",
       "blocks": {
@@ -1063,6 +1054,15 @@
         "center_align": true,
         "disable_top_spacing": false,
         "disable_bottom_spacing": false
+      }
+    },
+    "1662459246bd099bb7": {
+      "type": "spacer",
+      "settings": {
+        "spacer_mobile": 50,
+        "spacer_desktop": 50,
+        "border_separator": true,
+        "border_separator_full": false
       }
     },
     "17203954955247d757": {
@@ -1166,8 +1166,8 @@
     "rich_text_4KRFRk",
     "1661539188062a849e",
     "1720397038b6589c80",
-    "1662459246bd099bb7",
     "logo_list_kWgcgP",
+    "1662459246bd099bb7",
     "17203954955247d757",
     "16620983071df6eb29"
   ]
