@@ -63,11 +63,38 @@
             "button_2_link": "",
             "button_2_outline": false
           }
+        },
+        "slide_DgdFxa": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Rebecca_Linsey_Banners_Slim_1000x2880_2.jpg",
+            "slide_link": "shopify://collections/rebecca-x-lindsey",
+            "video_background": false,
+            "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "subheading": "TWIN PHOTOGRAPHERS",
+            "heading": "Rebecca X Lindsey",
+            "heading_size": "h1-xlarge",
+            "content": "Celebrating the female spirit \n - strength, beauty, curiosity & kinship.",
+            "description_size": "small",
+            "content_position": "middle-center",
+            "text_alignment": "center",
+            "content_size": "large",
+            "overlay_color": "#000000",
+            "overlay_opacity": 70,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.4) 100%)",
+            "button_1_text": "BROWSE COLLECTION",
+            "button_1_link": "shopify://collections/rebecca-x-lindsey",
+            "button_1_outline": true,
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_outline": false
+          }
         }
       },
       "block_order": [
         "164794776393e76b8e-2",
-        "slide_DbdrNU"
+        "slide_DbdrNU",
+        "slide_DgdFxa"
       ],
       "settings": {
         "desktop_height": "desktop-height-full",
