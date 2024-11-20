@@ -350,7 +350,7 @@
         "full_width": true,
         "collection": "hayley-michelle",
         "display_type": "carousel",
-        "product_limit": 8,
+        "product_limit": 12,
         "columns_desktop": 4,
         "show_view_all": true,
         "mobile_swipe": true,
@@ -367,8 +367,125 @@
         "description": "",
         "full_width": true,
         "collection": "alexandra-plim",
-        "display_type": "grid",
-        "product_limit": 4,
+        "display_type": "carousel",
+        "product_limit": 12,
+        "columns_desktop": 4,
+        "show_view_all": true,
+        "mobile_swipe": true,
+        "show_progress_bar": false,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "slideshow_TFtfBD": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_8VppWK": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Banners_Slim_1000x2880_aa0e0a38-f748-43bd-b312-6c56fadefe45.jpg",
+            "slide_link": "shopify://collections/ekaterina-zagorska",
+            "video_background": false,
+            "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "subheading": "Illustrator & fine artist",
+            "heading": "Ekaterina Zagorska",
+            "heading_size": "h1-xlarge",
+            "content": "\"I’m a Bulgarian artist. I observe.\"",
+            "description_size": "small",
+            "content_position": "middle-center",
+            "text_alignment": "center",
+            "content_size": "large",
+            "overlay_color": "#000000",
+            "overlay_opacity": 70,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.4) 100%)",
+            "button_1_text": "browse collection",
+            "button_1_link": "shopify://collections/ekaterina-zagorska",
+            "button_1_outline": true,
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_outline": false
+          }
+        },
+        "slide_xk8TPn": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Warlu_Banners_Slim_1000x2880_cecf9773-1852-468a-a4ee-64cb92b6be92.jpg",
+            "slide_link": "shopify://collections/aboriginal-artists",
+            "video_background": false,
+            "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "subheading": "FIRST NATIONS ART",
+            "heading": "Aboriginal Artists",
+            "heading_size": "h1-xlarge",
+            "content": "Sourced directly from First Nations Artists living and working in rural and remote communities across Australia and the Torres Straight region.",
+            "description_size": "small",
+            "content_position": "middle-center",
+            "text_alignment": "center",
+            "content_size": "large",
+            "overlay_color": "#000000",
+            "overlay_opacity": 70,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.4) 100%)",
+            "button_1_text": "BROWSE COLLECTION",
+            "button_1_link": "shopify://collections/aboriginal-artists",
+            "button_1_outline": true,
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_outline": false
+          }
+        },
+        "slide_W4Yxdr": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Nature_Setting_Slim.jpg",
+            "mobile_image": "shopify://shop_images/Promo_Green_Terrain.jpg",
+            "slide_link": "shopify://collections/new-releases",
+            "video_background": false,
+            "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "subheading": "BROWSE THE LATEST",
+            "heading": "New Releases",
+            "heading_size": "h1-xlarge",
+            "content": "Browse the latest Editions to our Fine Art Print Collections",
+            "description_size": "small",
+            "content_position": "middle-center",
+            "text_alignment": "center",
+            "content_size": "large",
+            "overlay_color": "#000000",
+            "overlay_opacity": 70,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.4) 100%)",
+            "button_1_text": "SHOP NEW",
+            "button_1_link": "shopify://collections/new-releases",
+            "button_1_outline": true,
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_outline": false
+          }
+        }
+      },
+      "block_order": [
+        "slide_8VppWK",
+        "slide_xk8TPn",
+        "slide_W4Yxdr"
+      ],
+      "settings": {
+        "desktop_height": "desktop-height-650",
+        "mobile_height": "mobile-height-500",
+        "full_width": true,
+        "autoplay": true,
+        "autoplay_length": 5,
+        "transition": "swipe",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "featured_collection_LhFnNH": {
+      "type": "featured-collection",
+      "settings": {
+        "heading": "Ekaterina Zagorska",
+        "heading_left": false,
+        "description": "",
+        "full_width": true,
+        "collection": "ekaterina-zagorska",
+        "display_type": "carousel",
+        "product_limit": 12,
         "columns_desktop": 4,
         "show_view_all": true,
         "mobile_swipe": true,
@@ -420,24 +537,6 @@
         "color_bg": "#f4f4f4",
         "color_text": "#151515",
         "color_border": "#e2e2e2",
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": false
-      }
-    },
-    "featured_collection_LhFnNH": {
-      "type": "featured-collection",
-      "settings": {
-        "heading": "Latest by Arthouse Co",
-        "heading_left": false,
-        "description": "",
-        "full_width": true,
-        "collection": "the-art-of-home",
-        "display_type": "carousel",
-        "product_limit": 12,
-        "columns_desktop": 4,
-        "show_view_all": true,
-        "mobile_swipe": false,
-        "show_progress_bar": false,
         "disable_top_spacing": false,
         "disable_bottom_spacing": false
       }
@@ -791,52 +890,6 @@
         "disable_bottom_spacing": false
       }
     },
-    "before_after_image_H83cmm": {
-      "type": "before-after-image",
-      "blocks": {
-        "image_GkrTwz": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Ombre_Blackberry_Tailored_Canvas_Black_Full.jpg",
-            "title": "Blackberry",
-            "heading_size": "h3",
-            "heading_position": "top",
-            "text_color": "#151515",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_Mbgyce": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Ombre_Hunter_Green_Tailored_Canvas_Black_Full.jpg",
-            "title": "Hunter Green",
-            "heading_size": "h3",
-            "heading_position": "top",
-            "text_color": "#151515",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_GkrTwz",
-        "image_Mbgyce"
-      ],
-      "disabled": true,
-      "settings": {
-        "heading": "Ombré",
-        "heading_left": false,
-        "description": "<p>Bespoke canvas artworks, conceptualized, designed and built by the master craftsman behind ARTHOUSco.</p>",
-        "desktop_height": "desktop-height-650",
-        "mobile_height": "mobile-height-500",
-        "full_width": true,
-        "initial_position": 55,
-        "line_color": "#ffffff",
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": false
-      }
-    },
     "rich_text_4KRFRk": {
       "type": "rich-text",
       "blocks": {
@@ -994,15 +1047,6 @@
         "disable_bottom_spacing": false
       }
     },
-    "spacer_rPQzyL": {
-      "type": "spacer",
-      "settings": {
-        "spacer_mobile": 50,
-        "spacer_desktop": 50,
-        "border_separator": true,
-        "border_separator_full": false
-      }
-    },
     "17203954955247d757": {
       "type": "apps",
       "blocks": {
@@ -1090,8 +1134,9 @@
     "slideshow_naP83r",
     "166366563622039b3e",
     "featured_collection_7PETD6",
-    "image_with_text_yrQmhd",
+    "slideshow_TFtfBD",
     "featured_collection_LhFnNH",
+    "image_with_text_yrQmhd",
     "image_with_text_BdPjFp",
     "image_with_text_c8wqax",
     "image_with_text_cyLirx",
@@ -1099,13 +1144,11 @@
     "gallery_LH8U6U",
     "rich_text_cb4rxk",
     "gallery_FhL4Li",
-    "before_after_image_H83cmm",
     "rich_text_4KRFRk",
     "1661539188062a849e",
     "1720397038b6589c80",
     "1662459246bd099bb7",
     "logo_list_kWgcgP",
-    "spacer_rPQzyL",
     "17203954955247d757",
     "16620983071df6eb29"
   ]

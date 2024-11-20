@@ -1,1 +1,122 @@
-{"type":"header","name":"Footer group","sections":{"rich_text_WhfdJU":{"type":"rich-text","blocks":{"heading_FzadVe":{"type":"heading","settings":{"text":"Customer Reviews","size":"h3"}}},"block_order":["heading_FzadVe"],"settings":{"section_width":"grid","text_width":"medium","text_position":"center","text_alignment":"center","color_bg":"transparent","color_text":"#151515","color_links":"#151515","disable_top_spacing":false,"disable_bottom_spacing":true}},"1720414451814a7b04":{"type":"apps","blocks":{"judge_me_reviews_all_reviews_page_RJyP4h":{"type":"shopify:\/\/apps\/judge-me-reviews\/blocks\/all_reviews_page\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8","settings":{}}},"block_order":["judge_me_reviews_all_reviews_page_RJyP4h"],"settings":{}},"footer":{"type":"footer","blocks":{"919dfa59-648f-4330-afcc-8bb0c24dab8f":{"type":"text","settings":{"column_size":"large","title":"CONNECT WITH US","text":"<p><strong>Phone:<\/strong> (02) 9516 1700 <strong>Email:<\/strong> store@arthouseco.com.au<\/p><p><strong>Hours:<\/strong> Mon-Fri 9am-5pm & Sat 10am-2pm<\/p><p><strong>Location:<\/strong> <a href=\"https:\/\/goo.gl\/maps\/XJ8H5cvCfiSmsRaC8\" target=\"_blank\" title=\"AHC on Google Maps\">79 Sydenham Rd Marrickville, NSW, Australia.<\/a><\/p>","text_size":"small","button_text":"","button_link":"","show_social_links":false}},"social_WxwnJr":{"type":"social","settings":{"column_size":"large","title":"FOLLOW US"}},"401e3886-6cb7-4742-8fda-45a0d97a26a3":{"type":"menu","settings":{"column_size":"medium","title":"CUSTOMER CARE","menu":"footer"}},"00a364e5-af4e-4073-871b-4d533bd4da06":{"type":"menu","settings":{"column_size":"medium","title":"INFO & SERVICES","menu":"old-menu_2"}},"a09a8a35-bedc-4119-aa04-3ce886faba9d":{"type":"menu","settings":{"column_size":"medium","title":"SHOP","menu":"footer-1"}}},"block_order":["919dfa59-648f-4330-afcc-8bb0c24dab8f","social_WxwnJr","401e3886-6cb7-4742-8fda-45a0d97a26a3","00a364e5-af4e-4073-871b-4d533bd4da06","a09a8a35-bedc-4119-aa04-3ce886faba9d"],"settings":{"full_width":true,"copyright_text":"All rights reserved.","show_language_switcher":true,"show_currency_switcher":true,"show_payment_icons":true,"enable_follow_on_shop":true}}},"order":["rich_text_WhfdJU","1720414451814a7b04","footer"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "header",
+  "name": "Footer group",
+  "sections": {
+    "rich_text_WhfdJU": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FzadVe": {
+          "type": "heading",
+          "settings": {
+            "text": "Customer Reviews",
+            "size": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FzadVe"
+      ],
+      "settings": {
+        "section_width": "grid",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "rgba(0,0,0,0)",
+        "color_text": "#151515",
+        "color_links": "#151515",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": true
+      }
+    },
+    "1720414451814a7b04": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_all_reviews_page_RJyP4h": {
+          "type": "shopify://apps/judge-me-reviews/blocks/all_reviews_page/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_all_reviews_page_RJyP4h"
+      ],
+      "settings": {}
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "919dfa59-648f-4330-afcc-8bb0c24dab8f": {
+          "type": "text",
+          "settings": {
+            "column_size": "large",
+            "title": "CONNECT WITH US",
+            "text": "<p><strong>Phone:</strong> (02) 9516 1700 <strong>Email:</strong> store@arthouseco.com.au</p><p><strong>Hours:</strong> Mon-Fri 9am-5pm & Sat 10am-2pm</p><p><strong>Location:</strong> <a href=\"https://goo.gl/maps/XJ8H5cvCfiSmsRaC8\" target=\"_blank\" title=\"AHC on Google Maps\">79 Sydenham Rd Marrickville, NSW, Australia.</a></p>",
+            "text_size": "small",
+            "button_text": "",
+            "button_link": "",
+            "show_social_links": false
+          }
+        },
+        "social_WxwnJr": {
+          "type": "social",
+          "settings": {
+            "column_size": "large",
+            "title": "FOLLOW US"
+          }
+        },
+        "401e3886-6cb7-4742-8fda-45a0d97a26a3": {
+          "type": "menu",
+          "settings": {
+            "column_size": "medium",
+            "title": "CUSTOMER CARE",
+            "menu": "footer"
+          }
+        },
+        "00a364e5-af4e-4073-871b-4d533bd4da06": {
+          "type": "menu",
+          "settings": {
+            "column_size": "medium",
+            "title": "INFO & SERVICES",
+            "menu": "old-menu_2"
+          }
+        },
+        "a09a8a35-bedc-4119-aa04-3ce886faba9d": {
+          "type": "menu",
+          "settings": {
+            "column_size": "medium",
+            "title": "SHOP",
+            "menu": "footer-1"
+          }
+        }
+      },
+      "block_order": [
+        "919dfa59-648f-4330-afcc-8bb0c24dab8f",
+        "social_WxwnJr",
+        "401e3886-6cb7-4742-8fda-45a0d97a26a3",
+        "00a364e5-af4e-4073-871b-4d533bd4da06",
+        "a09a8a35-bedc-4119-aa04-3ce886faba9d"
+      ],
+      "settings": {
+        "full_width": true,
+        "copyright_text": "All rights reserved.",
+        "show_language_switcher": true,
+        "show_currency_switcher": true,
+        "show_payment_icons": true,
+        "enable_follow_on_shop": true
+      }
+    }
+  },
+  "order": [
+    "rich_text_WhfdJU",
+    "1720414451814a7b04",
+    "footer"
+  ]
+}
