@@ -373,7 +373,7 @@
         "show_view_all": true,
         "mobile_swipe": true,
         "show_progress_bar": false,
-        "disable_top_spacing": false,
+        "disable_top_spacing": true,
         "disable_bottom_spacing": false
       }
     },
@@ -490,7 +490,25 @@
         "show_view_all": true,
         "mobile_swipe": true,
         "show_progress_bar": false,
-        "disable_top_spacing": false,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": false
+      }
+    },
+    "featured_collection_3FKtUx": {
+      "type": "featured-collection",
+      "settings": {
+        "heading": "Featured Collection",
+        "heading_left": false,
+        "description": "",
+        "full_width": true,
+        "collection": "ombre-collectiojn",
+        "display_type": "carousel",
+        "product_limit": 12,
+        "columns_desktop": 4,
+        "show_view_all": true,
+        "mobile_swipe": true,
+        "show_progress_bar": false,
+        "disable_top_spacing": true,
         "disable_bottom_spacing": false
       }
     },
@@ -537,8 +555,8 @@
         "color_bg": "#f4f4f4",
         "color_text": "#151515",
         "color_border": "#e2e2e2",
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": false
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
       }
     },
     "image_with_text_BdPjFp": {
@@ -695,12 +713,12 @@
           "settings": {
             "image": "shopify://shop_images/e182f657092481be547a74c05d0fc4d5-square.jpg",
             "subheading": "",
-            "title": "dan hobday",
+            "title": "Dan Hobday",
             "text": "",
             "link_label": "BROWSE",
             "link": "shopify://collections/dan-hobday",
             "use_text_button": true,
-            "block_link": "",
+            "block_link": "shopify://collections/dan-hobday",
             "product_list": []
           }
         },
@@ -709,12 +727,12 @@
           "settings": {
             "image": "shopify://shop_images/Scott_Square.jpg",
             "subheading": "",
-            "title": "scott petrie",
+            "title": "Scott Petrie",
             "text": "",
             "link_label": "BROWSE",
             "link": "shopify://collections/scott-petrie",
             "use_text_button": true,
-            "block_link": "",
+            "block_link": "shopify://collections/scott-petrie",
             "product_list": []
           }
         },
@@ -723,12 +741,12 @@
           "settings": {
             "image": "shopify://shop_images/Bio_Pic.jpg",
             "subheading": "",
-            "title": "rebecca X lindsey",
+            "title": "Rebecca X Lindsey",
             "text": "",
             "link_label": "BROWSE",
             "link": "shopify://collections/rebecca-x-lindsey",
             "use_text_button": true,
-            "block_link": "",
+            "block_link": "shopify://collections/rebecca-x-lindsey",
             "product_list": []
           }
         }
@@ -1136,6 +1154,7 @@
     "featured_collection_7PETD6",
     "slideshow_TFtfBD",
     "featured_collection_LhFnNH",
+    "featured_collection_3FKtUx",
     "image_with_text_yrQmhd",
     "image_with_text_BdPjFp",
     "image_with_text_c8wqax",
