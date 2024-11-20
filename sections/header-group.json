@@ -7,142 +7,141 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
- 
- {
-    "type": "header",
-    "name": "Header group",
-    "sections": {
-      "announcement-bar": {
-        "type": "announcement-bar",
-        "blocks": {
-          "5b1ab378-833d-4a94-a02e-8325ec1551d0": {
-            "type": "text",
-            "settings": {
-              "icon": "box",
-              "text": "FREE SHIPPING AUSTRALIA WIDE",
-              "link": ""
-            }
-          },
-          "text_9MRW9b": {
-            "type": "text",
-            "settings": {
-              "icon": "map_pin",
-              "text": "AUSTRALIAN OWNED & OPERATED",
-              "link": ""
-            }
-          },
-          "text_MiTzVM": {
-            "type": "text",
-            "settings": {
-              "icon": "heart",
-              "text": "MADE TO ORDER",
-              "link": ""
-            }
+{
+  "type": "header",
+  "name": "Header group",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "5b1ab378-833d-4a94-a02e-8325ec1551d0": {
+          "type": "text",
+          "settings": {
+            "icon": "box",
+            "text": "FREE SHIPPING AUSTRALIA WIDE",
+            "link": ""
           }
         },
-        "block_order": [
-          "5b1ab378-833d-4a94-a02e-8325ec1551d0",
-          "text_9MRW9b",
-          "text_MiTzVM"
-        ],
-        "settings": {
-          "announcement_bar": true,
-          "announcement_bar_homepage_only": false,
-          "announcement_bar_layout": "marquee",
-          "direction": "left",
-          "speed": "50s",
-          "autoplay": true,
-          "autoplay_length": 5
+        "text_9MRW9b": {
+          "type": "text",
+          "settings": {
+            "icon": "map_pin",
+            "text": "AUSTRALIAN OWNED & OPERATED",
+            "link": ""
+          }
+        },
+        "text_MiTzVM": {
+          "type": "text",
+          "settings": {
+            "icon": "heart",
+            "text": "MADE TO ORDER",
+            "link": ""
+          }
         }
       },
-      "header": {
-        "type": "header",
-        "blocks": {
-          "megamenu_hTPitc": {
-            "type": "megamenu",
-            "settings": {
-              "position": "3",
-              "promo_1_image": "shopify://shop_images/Ebb_Flow_B_Black_SQ.jpg",
-              "promo_1_heading": "Promotion heading",
-              "promo_1_link_label": "Shop",
-              "promo_1_link": "",
-              "promo_2_heading": "Promotion heading",
-              "promo_2_link_label": "Shop",
-              "promo_2_link": "",
-              "promo_3_heading": "Promotion heading",
-              "promo_3_link_label": "Shop",
-              "promo_3_link": "",
-              "promo_4_heading": "Promotion heading",
-              "promo_4_link_label": "Shop",
-              "promo_4_link": ""
-            }
-          },
-          "megamenu_JkyPma": {
-            "type": "megamenu",
-            "settings": {
-              "position": "2",
-              "promo_1_image": "shopify://shop_images/Milos_Setting_44160b17-f8df-42cb-b50b-1a68e5a56e6b.jpg",
-              "promo_1_heading": "Promotion heading",
-              "promo_1_link_label": "Shop",
-              "promo_1_link": "",
-              "promo_2_heading": "Promotion heading",
-              "promo_2_link_label": "Shop",
-              "promo_2_link": "",
-              "promo_3_heading": "Promotion heading",
-              "promo_3_link_label": "Shop",
-              "promo_3_link": "",
-              "promo_4_heading": "Promotion heading",
-              "promo_4_link_label": "Shop",
-              "promo_4_link": ""
-            }
-          },
-          "megamenu_zHzNrd": {
-            "type": "megamenu",
-            "settings": {
-              "position": "4",
-              "promo_1_image": "shopify://shop_images/Uneven_Ground_B_Black_SQ_be36fde8-6d7e-4678-9c3a-9e50acb36fcd.jpg",
-              "promo_1_heading": "Promotion heading",
-              "promo_1_link_label": "Shop",
-              "promo_1_link": "",
-              "promo_2_heading": "Promotion heading",
-              "promo_2_link_label": "Shop",
-              "promo_2_link": "",
-              "promo_3_heading": "Promotion heading",
-              "promo_3_link_label": "Shop",
-              "promo_3_link": "",
-              "promo_4_heading": "Promotion heading",
-              "promo_4_link_label": "Shop",
-              "promo_4_link": ""
-            }
-          }
-        },
-        "block_order": [
-          "megamenu_hTPitc",
-          "megamenu_JkyPma",
-          "megamenu_zHzNrd"
-        ],
-        "settings": {
-          "sticky_header": true,
-          "logo": "shopify://shop_images/Arthouse_Logo_Final.png",
-          "logo_height_range": 30,
-          "logo_height_range_mobile": 30,
-          "style": "style4",
-          "header_shadow": "header--shadow-small",
-          "menu": "main-menu",
-          "transparent_header": true,
-          "logo_light": "shopify://shop_images/Arthouse_Logo_Final.png",
-          "show_language_switcher": false,
-          "show_currency_switcher": true,
-          "mobile_secondary_menu": "",
-          "mobile_promo_image": "shopify://shop_images/Blackberry_WEB.jpg",
-          "mobile_promo_heading": "AUSTRALIAN OWNED & OPERATED | EOFY SALE NOW ON",
-          "mobile_promo_link_label": "Shop",
-          "mobile_promo_link": ""
-        }
+      "block_order": [
+        "5b1ab378-833d-4a94-a02e-8325ec1551d0",
+        "text_9MRW9b",
+        "text_MiTzVM"
+      ],
+      "settings": {
+        "announcement_bar": true,
+        "announcement_bar_homepage_only": false,
+        "announcement_bar_layout": "marquee",
+        "direction": "left",
+        "speed": "50s",
+        "autoplay": true,
+        "autoplay_length": 5
       }
     },
-    "order": [
-      "announcement-bar",
-      "header"
-    ]
-  }
+    "header": {
+      "type": "header",
+      "blocks": {
+        "megamenu_JkyPma": {
+          "type": "megamenu",
+          "settings": {
+            "position": "2",
+            "promo_1_image": "shopify://shop_images/Mega_Menu_Olive_Lady_Overlay30.jpg",
+            "promo_1_heading": "LATEST ADDITIONS",
+            "promo_1_link_label": "BROWSE NEW RELEASES",
+            "promo_1_link": "",
+            "promo_2_heading": "Promotion heading",
+            "promo_2_link_label": "Shop",
+            "promo_2_link": "",
+            "promo_3_heading": "Promotion heading",
+            "promo_3_link_label": "Shop",
+            "promo_3_link": "",
+            "promo_4_heading": "Promotion heading",
+            "promo_4_link_label": "Shop",
+            "promo_4_link": ""
+          }
+        },
+        "megamenu_hTPitc": {
+          "type": "megamenu",
+          "settings": {
+            "position": "3",
+            "promo_1_image": "shopify://shop_images/Mega_Menu_DX.jpg",
+            "promo_1_heading": "Featured Artist",
+            "promo_1_link_label": "DANIELLE X",
+            "promo_1_link": "shopify://collections/danielle-x",
+            "promo_2_heading": "Promotion heading",
+            "promo_2_link_label": "Shop",
+            "promo_2_link": "",
+            "promo_3_heading": "Promotion heading",
+            "promo_3_link_label": "Shop",
+            "promo_3_link": "",
+            "promo_4_heading": "Promotion heading",
+            "promo_4_link_label": "Shop",
+            "promo_4_link": ""
+          }
+        },
+        "megamenu_zHzNrd": {
+          "type": "megamenu",
+          "settings": {
+            "position": "4",
+            "promo_1_image": "shopify://shop_images/Uneven_Ground_B_Black_SQ_be36fde8-6d7e-4678-9c3a-9e50acb36fcd.jpg",
+            "promo_1_heading": "Promotion heading",
+            "promo_1_link_label": "Shop",
+            "promo_1_link": "",
+            "promo_2_heading": "Promotion heading",
+            "promo_2_link_label": "Shop",
+            "promo_2_link": "",
+            "promo_3_heading": "Promotion heading",
+            "promo_3_link_label": "Shop",
+            "promo_3_link": "",
+            "promo_4_heading": "Promotion heading",
+            "promo_4_link_label": "Shop",
+            "promo_4_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "megamenu_JkyPma",
+        "megamenu_hTPitc",
+        "megamenu_zHzNrd"
+      ],
+      "settings": {
+        "sticky_header": true,
+        "logo": "shopify://shop_images/Arthouse_Logo_Final.png",
+        "logo_height_range": 30,
+        "logo_height_range_mobile": 30,
+        "style": "style4",
+        "header_shadow": "header--shadow-small",
+        "menu": "main-menu",
+        "transparent_header": true,
+        "logo_light": "shopify://shop_images/Arthouse_Logo_Final.png",
+        "show_language_switcher": false,
+        "show_currency_switcher": true,
+        "mobile_secondary_menu": "",
+        "mobile_promo_image": "shopify://shop_images/Blackberry_WEB.jpg",
+        "mobile_promo_heading": "AUSTRALIAN OWNED & OPERATED | EOFY SALE NOW ON",
+        "mobile_promo_link_label": "Shop",
+        "mobile_promo_link": ""
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}
