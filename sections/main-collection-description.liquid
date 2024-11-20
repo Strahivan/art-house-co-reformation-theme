@@ -1,0 +1,13 @@
+<h1 class="collection-banner--title">{{ title }}</h1>
+
+{%- if collection.description != '' -%}
+<div class="collection-banner--description">
+    <p>{{ collection.description }}</p>
+</div>
+
+{% schema %}
+  {
+    "name": "Collection Description",
+    "settings": []
+  }
+{% endschema %}
