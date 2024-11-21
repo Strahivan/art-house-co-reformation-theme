@@ -142,15 +142,6 @@
         "disable_bottom_spacing": true
       }
     },
-    "spacer_ifgeMq": {
-      "type": "spacer",
-      "settings": {
-        "spacer_mobile": 25,
-        "spacer_desktop": 80,
-        "border_separator": true,
-        "border_separator_full": false
-      }
-    },
     "16614195534fb74bc3": {
       "type": "collection-tabs",
       "blocks": {
@@ -984,6 +975,15 @@
       ],
       "settings": {}
     },
+    "spacer_ifgeMq": {
+      "type": "spacer",
+      "settings": {
+        "spacer_mobile": 25,
+        "spacer_desktop": 80,
+        "border_separator": true,
+        "border_separator_full": false
+      }
+    },
     "logo_list_kWgcgP": {
       "type": "logo-list",
       "blocks": {
@@ -1147,7 +1147,6 @@
   "order": [
     "16479477632637c9a7",
     "rich_text_RtMDiN",
-    "spacer_ifgeMq",
     "16614195534fb74bc3",
     "slideshow_naP83r",
     "166366563622039b3e",
@@ -1166,6 +1165,7 @@
     "rich_text_4KRFRk",
     "1661539188062a849e",
     "1720397038b6589c80",
+    "spacer_ifgeMq",
     "logo_list_kWgcgP",
     "1662459246bd099bb7",
     "17203954955247d757",
