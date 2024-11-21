@@ -33,7 +33,7 @@
     "color_footer_bg": "#151515",
     "section_spacing_mobile": 30,
     "section_spacing_desktop": 40,
-    "button_border_radius": 3,
+    "button_border_radius": 0,
     "social_facebook_link": "https://www.facebook.com/arthouseco.com.au",
     "social_instagram_link": "https://www.instagram.com/arthouseco/",
     "social_pinterest_link": "https://www.pinterest.com.au/arthouse_co/",

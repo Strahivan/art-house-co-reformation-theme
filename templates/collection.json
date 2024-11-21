@@ -68,9 +68,9 @@
       ],
       "settings": {
         "full_width": false,
-        "products_per_page": 15,
+        "products_per_page": 20,
         "columns_desktop": 3,
-        "pagination_type": "loadmore",
+        "pagination_type": "paginated",
         "enable_filtering": true,
         "enable_sorting": true,
         "show_counts": false,
@@ -81,16 +81,24 @@
     "17204202797570359e": {
       "type": "apps",
       "blocks": {
-        "boost_ai_search_discovery_filter_product_list_ssr_jVcNeT": {
-          "type": "shopify://apps/boost-ai-search-discovery/blocks/filter-product-list-ssr/7fc998ae-a150-4367-bab8-505d8a4503f7",
+        "judge_me_reviews_all_reviews_text_VLFATM": {
+          "type": "shopify://apps/judge-me-reviews/blocks/all_reviews_text/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {}
         }
       },
       "block_order": [
-        "boost_ai_search_discovery_filter_product_list_ssr_jVcNeT"
+        "judge_me_reviews_all_reviews_text_VLFATM"
       ],
-      "disabled": true,
       "settings": {}
+    },
+    "spacer_jbxRx6": {
+      "type": "spacer",
+      "settings": {
+        "spacer_mobile": 50,
+        "spacer_desktop": 40,
+        "border_separator": false,
+        "border_separator_full": false
+      }
     }
   },
   "order": [
@@ -98,6 +106,7 @@
     "main_collection_description_WFHtwA",
     "rich_text_keiVrT",
     "product-grid",
-    "17204202797570359e"
+    "17204202797570359e",
+    "spacer_jbxRx6"
   ]
 }
