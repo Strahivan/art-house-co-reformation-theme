@@ -26,20 +26,6 @@
       "type": "main-collection-description",
       "settings": {}
     },
-    "rich_text_keiVrT": {
-      "type": "rich-text",
-      "settings": {
-        "section_width": "grid",
-        "text_width": "medium",
-        "text_position": "center",
-        "text_alignment": "center",
-        "color_bg": "rgba(0,0,0,0)",
-        "color_text": "#151515",
-        "color_links": "#151515",
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": false
-      }
-    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "blocks": {
@@ -99,14 +85,18 @@
         "border_separator": false,
         "border_separator_full": false
       }
+    },
+    "main_collection_h7dPgQ": {
+      "type": "main-collection",
+      "settings": {}
     }
   },
   "order": [
     "main-collection-banner",
     "main_collection_description_WFHtwA",
-    "rich_text_keiVrT",
     "product-grid",
     "17204202797570359e",
+    "main_collection_h7dPgQ",
     "spacer_jbxRx6"
   ]
 }
