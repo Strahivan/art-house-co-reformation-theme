@@ -41,6 +41,7 @@
     "product_aspect_ratio": "adapt",
     "products_hover_images_count": 1,
     "products_hover_dots": false,
+    "enable_quick_view": false,
     "show_products_rating": false,
     "size_options_limit": 5,
     "badge_corner_radius": 0,
