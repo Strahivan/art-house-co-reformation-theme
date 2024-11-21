@@ -22,6 +22,10 @@
         "overlay_opacity": 40
       }
     },
+    "main_collection_description_WFHtwA": {
+      "type": "main-collection-description",
+      "settings": {}
+    },
     "rich_text_keiVrT": {
       "type": "rich-text",
       "settings": {
@@ -45,16 +49,17 @@
             "promotion_collection": "",
             "promotion_position": 7,
             "promotion_width": "1",
-            "title": "PROMOTION BANNER",
-            "text": "Add your description text for promotion banner here.",
+            "image": "shopify://shop_images/Promo_Green_Terrain.jpg",
+            "title": "TOP PICKS",
+            "text": "Browse Exclusive Collaborations, Best Sellers & New Favourites",
             "link_label": "Explore",
-            "link": "",
+            "link": "shopify://collections/arthouseco-selects",
             "use_text_button": true,
-            "block_link": "",
+            "block_link": "shopify://collections/arthouseco-selects",
             "content_position": "middle-center",
             "text_alignment": "center",
             "overlay_color": "#000000",
-            "overlay_opacity": 15
+            "overlay_opacity": 40
           }
         }
       },
@@ -85,10 +90,6 @@
         "boost_ai_search_discovery_filter_product_list_ssr_jVcNeT"
       ],
       "disabled": true,
-      "settings": {}
-    },
-    "main_collection_description_WFHtwA": {
-      "type": "main-collection-description",
       "settings": {}
     }
   },
