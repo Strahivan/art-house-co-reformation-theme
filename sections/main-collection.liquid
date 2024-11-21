@@ -6,14 +6,13 @@
     <div class="small-12 columns">
       <div class="collection-title-wrapper">
         <div class="collection-banner--content text-center">
-          <h1 class="collection-title--main">{{ collection.title }}</h1>
-      </div>
-      {%- if collection.metafields.custom.collection_description_teaser != '' -%}
+      {%- if collection.description != '' -%}
       <div class="collection-description--main">
-      <p>{{ collection.metafields.custom.collection_description_teaser }}</p>
+      <p>{{ collection.description }}</p>
       </div>
       {% endif %}
       </div>
+    </div>
     </div>
   </div>
 </div>
@@ -25,12 +24,12 @@
 
 {% schema %}
   {
-    "name": "Collection Teaser",
+    "name": "Collection Description",
     "class": "collection-section",
     "settings": [],
      "presets": [
     {
-      "name": "Collection Teaser"
+      "name": "Collection Description"
     }
   ],
 	"enabled_on": {

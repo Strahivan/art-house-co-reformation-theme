@@ -1,0 +1,17 @@
+.custom-section-wrapper {
+    padding: 2%;
+}
+
+.collection-title-wrapper {
+    padding: 1%;
+}
+
+.collection-description--main{
+    text-align: left !important;
+}
+
+@media only screen and (max-width: 1068px) {
+    .custom-section-wrapper {
+        padding: 10%;
+    }
+}
