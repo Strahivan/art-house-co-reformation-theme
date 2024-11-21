@@ -154,9 +154,8 @@
         "show_language_switcher": false,
         "show_currency_switcher": true,
         "mobile_secondary_menu": "",
-        "mobile_promo_image": "shopify://shop_images/Blackberry_WEB.jpg",
-        "mobile_promo_heading": "AUSTRALIAN OWNED & OPERATED | EOFY SALE NOW ON",
-        "mobile_promo_link_label": "Shop",
+        "mobile_promo_heading": "",
+        "mobile_promo_link_label": "",
         "mobile_promo_link": ""
       }
     }
