@@ -129,18 +129,18 @@
           "settings": {
             "heading": "Print & Frame Specs",
             "open": false,
-            "content": "<p>Both <em>Unframed </em>and <em>Framed Prints </em>are Giclée printed on 260gsm matte paper. You can choose to include a 5cm Print Border around the image or have it printed 'edge to edge' with no border.<br/><br/><em>Framed Prints </em>are archivally mounted then framed in a high quality, sustainable Australian timber. The timber frame is 4cm in depth and has a 2cm face reveal. <br/><br/><em>Framed Canvas </em>are Giclée printed on 350gsm matte satin canvas and framed in our signature Canvas Float Frame. This specialty moulding has a 7mm face reveal and allows an elegant shadow line between the canvas and the frame. Canvas are printed 'edge to edge', with the image meeting the edge of the canvas.<br/><br/>All our products are made to order, by hand with love, in our Sydney workshop.</p>",
+            "content": "<p>The Iconic Archival Collection is a luxury print edition. Both <em>Unframed</em> and <em>Framed Prints</em> are Giclée printed on 250gsm Satin Lustre paper.</p><p><em>Framed Prints </em>are archivally mounted with a 7cm Matboard border and framed in a high quality, sustainable Australian timber. The timber frame is 4cm in depth and has a 2cm face reveal. </p><p><em>Framed Canvas</em> are Giclée printed on 350gsm matte satin canvas and framed in our signature Canvas Float Frame. This specialty moulding has a 7mm face reveal and allows an elegant shadow line between the canvas and the frame. Canvas are printed 'edge to edge', with the image meeting the edge of the canvas.</p><p>Framed Prints and Canvas are supplied ready to hang.</p>",
             "page": "",
             "custom_liquid": ""
           }
         },
-        "collapsible_tab_UAGWbF": {
+        "collapsible_tab_HAUpJt": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Border Option",
+            "heading": "Sizing",
             "open": false,
-            "content": "<p>With both <em>Unframed</em> and <em>Framed Prints</em> you may choose to include a PRINT border around the image. Print borders are an unprinted area surrounding the image.</p><p>Please note the border size is included in the overall size. Adding a border will reduce the size of your image, for example adding a 5cm border on a 50x70cm print means the image size will be reduced to 40x60cm.</p><p><em>Canvas</em> products are printed 'edge to edge' without a border, with the image meeting the edge of the canvas.</p>",
-            "page": "",
+            "content": "",
+            "page": "size-guide-iconic-archival",
             "custom_liquid": ""
           }
         },
@@ -167,7 +167,7 @@
       },
       "block_order": [
         "collapsible_tab_Qe4DKR",
-        "collapsible_tab_UAGWbF",
+        "collapsible_tab_HAUpJt",
         "collapsible_tab_7VWjyV",
         "collapsible_tab_qKdp7a"
       ],
