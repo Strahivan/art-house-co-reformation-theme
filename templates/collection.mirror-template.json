@@ -1,0 +1,102 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main-collection-banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_image": true,
+        "show_collection_description": true,
+        "show_subcollections": true,
+        "make_heading_uppercase": true,
+        "text_alignment": "center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 40
+      }
+    },
+    "main_collection_description_WFHtwA": {
+      "type": "main-collection-description",
+      "settings": {}
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "blocks": {
+        "2eb8e6da-98ad-442c-b31e-fcc9bc0532b9": {
+          "type": "promotion",
+          "settings": {
+            "promotion_collection": "",
+            "promotion_position": 7,
+            "promotion_width": "1",
+            "image": "shopify://shop_images/Promo_Green_Terrain.jpg",
+            "title": "TOP PICKS",
+            "text": "Browse exclusive collaborations, best sellers & new favourites",
+            "link_label": "Explore",
+            "link": "shopify://collections/arthouseco-selects",
+            "use_text_button": true,
+            "block_link": "shopify://collections/arthouseco-selects",
+            "content_position": "middle-center",
+            "text_alignment": "center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 40
+          }
+        }
+      },
+      "block_order": [
+        "2eb8e6da-98ad-442c-b31e-fcc9bc0532b9"
+      ],
+      "settings": {
+        "full_width": false,
+        "products_per_page": 20,
+        "columns_desktop": 3,
+        "pagination_type": "paginated",
+        "enable_filtering": true,
+        "enable_sorting": true,
+        "show_counts": false,
+        "filter_color_swatches": true,
+        "facets_desktop": "sidebar"
+      }
+    },
+    "17204202797570359e": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_all_reviews_text_VLFATM": {
+          "type": "shopify://apps/judge-me-reviews/blocks/all_reviews_text/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_all_reviews_text_VLFATM"
+      ],
+      "settings": {}
+    },
+    "spacer_jbxRx6": {
+      "type": "spacer",
+      "settings": {
+        "spacer_mobile": 50,
+        "spacer_desktop": 40,
+        "border_separator": false,
+        "border_separator_full": false
+      }
+    },
+    "main_collection_h7dPgQ": {
+      "type": "main-collection",
+      "settings": {}
+    }
+  },
+  "order": [
+    "main-collection-banner",
+    "main_collection_description_WFHtwA",
+    "product-grid",
+    "17204202797570359e",
+    "main_collection_h7dPgQ",
+    "spacer_jbxRx6"
+  ]
+}
