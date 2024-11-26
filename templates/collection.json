@@ -11,7 +11,6 @@
   "sections": {
     "main-collection-banner": {
       "type": "main-collection-banner",
-      "disabled": true,
       "settings": {
         "show_collection_image": true,
         "show_collection_description": true,
@@ -22,45 +21,17 @@
         "overlay_opacity": 40
       }
     },
-    "main_collection_description_WFHtwA": {
-      "type": "main-collection-description",
-      "settings": {}
-    },
     "product-grid": {
       "type": "main-collection-product-grid",
-      "blocks": {
-        "2eb8e6da-98ad-442c-b31e-fcc9bc0532b9": {
-          "type": "promotion",
-          "settings": {
-            "promotion_collection": "",
-            "promotion_position": 7,
-            "promotion_width": "1",
-            "image": "shopify://shop_images/Promo_Green_Terrain.jpg",
-            "title": "TOP PICKS",
-            "text": "Browse exclusive collaborations, best sellers & new favourites",
-            "link_label": "Explore",
-            "link": "shopify://collections/arthouseco-selects",
-            "use_text_button": true,
-            "block_link": "shopify://collections/arthouseco-selects",
-            "content_position": "middle-center",
-            "text_alignment": "center",
-            "overlay_color": "#000000",
-            "overlay_opacity": 40
-          }
-        }
-      },
-      "block_order": [
-        "2eb8e6da-98ad-442c-b31e-fcc9bc0532b9"
-      ],
       "settings": {
         "full_width": false,
         "products_per_page": 20,
         "columns_desktop": 3,
         "pagination_type": "paginated",
-        "enable_filtering": true,
-        "enable_sorting": true,
+        "enable_filtering": false,
+        "enable_sorting": false,
         "show_counts": false,
-        "filter_color_swatches": true,
+        "filter_color_swatches": false,
         "facets_desktop": "sidebar"
       }
     },
@@ -85,18 +56,12 @@
         "border_separator": false,
         "border_separator_full": false
       }
-    },
-    "main_collection_h7dPgQ": {
-      "type": "main-collection",
-      "settings": {}
     }
   },
   "order": [
     "main-collection-banner",
-    "main_collection_description_WFHtwA",
     "product-grid",
     "17204202797570359e",
-    "main_collection_h7dPgQ",
     "spacer_jbxRx6"
   ]
 }
