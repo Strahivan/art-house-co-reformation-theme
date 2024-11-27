@@ -53,7 +53,7 @@
           "type": "buy_buttons",
           "settings": {
             "show_quantity_selector": true,
-            "outline_button": true,
+            "outline_button": false,
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": false
           }
@@ -179,6 +179,18 @@
         "disable_bottom_spacing": false
       }
     },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "You May Also Like",
+        "heading_left": false,
+        "description": "",
+        "full_width": true,
+        "mobile_swipe": true,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
     "1663667029efc274af": {
       "type": "collapsible-content",
       "blocks": {
@@ -247,36 +259,6 @@
         "disable_top_spacing": false,
         "disable_bottom_spacing": false
       }
-    },
-    "1662552569cce2536d": {
-      "type": "spacer",
-      "settings": {
-        "spacer_mobile": 0,
-        "spacer_desktop": 5,
-        "border_separator": true,
-        "border_separator_full": true
-      }
-    },
-    "product-recommendations": {
-      "type": "product-recommendations",
-      "settings": {
-        "heading": "You May Also Like",
-        "heading_left": false,
-        "description": "",
-        "full_width": true,
-        "mobile_swipe": true,
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": false
-      }
-    },
-    "spacer_KVLLkz": {
-      "type": "spacer",
-      "settings": {
-        "spacer_mobile": 0,
-        "spacer_desktop": 5,
-        "border_separator": true,
-        "border_separator_full": true
-      }
     }
   },
   "order": [
@@ -284,9 +266,7 @@
     "main-product",
     "16623877721f33fb14",
     "collapsible_content_p4qxPC",
-    "1663667029efc274af",
-    "1662552569cce2536d",
     "product-recommendations",
-    "spacer_KVLLkz"
+    "1663667029efc274af"
   ]
 }
