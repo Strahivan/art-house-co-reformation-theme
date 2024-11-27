@@ -18,7 +18,7 @@
         "make_heading_uppercase": true,
         "text_alignment": "center",
         "overlay_color": "#000000",
-        "overlay_opacity": 40
+        "overlay_opacity": 29
       }
     },
     "product-grid": {
