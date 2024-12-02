@@ -39,10 +39,10 @@
             "color_picker_size": "large",
             "color_picker_use_variants": false,
             "variant_is_disabled": false,
-            "sizing_guide_variant": "Size",
+            "sizing_guide_variant": "Size:",
             "sizing_guide_text": "size guide",
             "sizing_guide_icon": "ruler",
-            "sizing_guide_page": "size-guide"
+            "sizing_guide_page": "size-guide-iconic-archival"
           }
         },
         "buy_buttons": {
