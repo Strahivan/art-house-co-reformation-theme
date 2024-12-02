@@ -45,10 +45,6 @@
             "sizing_guide_page": "size-guide"
           }
         },
-        "infinite_options_app_block_mzFdB7": {
-          "type": "shopify://apps/infinite-options/blocks/app-block/7e73b6f9-82b0-45f5-9b9b-04f446ba1a9b",
-          "settings": {}
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -92,7 +88,6 @@
         "e431a79e-9c7b-4a53-a79a-0cb918617ecf",
         "title",
         "variant_picker",
-        "infinite_options_app_block_mzFdB7",
         "buy_buttons",
         "95b7e00a-0453-4eb0-9cf0-1dae84d8b822",
         "4fd23485-293f-46a0-8a4c-34d0e25ea41b",
@@ -144,6 +139,16 @@
             "custom_liquid": ""
           }
         },
+        "collapsible_tab_Pqt6tH": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Borders",
+            "open": false,
+            "content": "<p><em>Framed Prints </em>are archivally mounted with a 7cm Matboard border.</p><p>Please note, as the sizes listed refer to the <em>image size</em>, adding a border will increase the overall size of your finished product.</p><p><em>Unframed Prints </em>are sold borderless.</p>",
+            "page": "",
+            "custom_liquid": ""
+          }
+        },
         "collapsible_tab_7VWjyV": {
           "type": "collapsible_tab",
           "settings": {
@@ -168,6 +173,7 @@
       "block_order": [
         "collapsible_tab_Qe4DKR",
         "collapsible_tab_HAUpJt",
+        "collapsible_tab_Pqt6tH",
         "collapsible_tab_7VWjyV",
         "collapsible_tab_qKdp7a"
       ],
