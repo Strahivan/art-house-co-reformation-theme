@@ -21,6 +21,26 @@
     "collapsible_content_KaPjwi": {
       "type": "collapsible-content",
       "blocks": {
+        "collapsible_tab_yJnAbM": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Who we are",
+            "open": false,
+            "content": "<p>We are the concept store to Art & Framing Co! A warehouse conversion into 300sqm light filled and airy space with Artworks, Furniture, Homewares & Events. We are one big family! We have only been here since September 2018 but Art & Framing has proudly been a part of the Newtown and Marrickville community in Sydney for over 20 years.</p>",
+            "page": "",
+            "custom_liquid": ""
+          }
+        },
+        "collapsible_tab_LmJG4X": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "What we do",
+            "open": false,
+            "content": "<p>We are one of the leading Picture Framers in Sydney with decades of experience working with local and international Artist and Industry Professionals. </p><p>We are experts in all facets of Archival, Gallery Grade Printing and Framing as well as Art Curation and Styling.</p><p>Here are just a few of our areas of expertise:</p><ul><li>Custom Framing</li><li>Canvas Stretching</li><li>Gallery Grade Printing</li><li>Art Curation & Consultations</li><li>Art Installation & Styling</li></ul><p>All our products are made to order, by hand, in our Marrickville Workshop by an experienced team of craftsman. </p><p>Quality and Sustainability is of the highest priority here at Arthouse co and we only use the highest grade of locally sourced materials.</p><p></p><p></p>",
+            "page": "",
+            "custom_liquid": ""
+          }
+        },
         "collapsible_tab_AggGnn": {
           "type": "collapsible_tab",
           "settings": {
@@ -73,6 +93,8 @@
         }
       },
       "block_order": [
+        "collapsible_tab_yJnAbM",
+        "collapsible_tab_LmJG4X",
         "collapsible_tab_AggGnn",
         "collapsible_tab_3XYBPk",
         "collapsible_tab_KPKbVk",
