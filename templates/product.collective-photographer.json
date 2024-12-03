@@ -42,7 +42,7 @@
             "sizing_guide_variant": "Size",
             "sizing_guide_text": "size guide",
             "sizing_guide_icon": "ruler",
-            "sizing_guide_page": "size-guide"
+            "sizing_guide_page": "size-guide-arthouse-co-collective-photographers"
           }
         },
         "infinite_options_app_block_mzFdB7": {
@@ -103,11 +103,11 @@
         "enable_sticky_info": true,
         "enable_sticky_add_to_cart": true,
         "show_taxes_included": false,
-        "media_layout": "list",
+        "media_layout": "thumbnails",
         "display_slider_pagination": true,
         "media_aspect_ratio": "adapt",
         "display_captions": false,
-        "hide_variants": true,
+        "hide_variants": false,
         "lightbox": true,
         "enable_video_looping": false
       }
@@ -150,7 +150,7 @@
             "heading": "Sizing",
             "open": false,
             "content": "",
-            "page": "general-print-collection-size-guide",
+            "page": "size-guide-arthouse-co-collective-photographers",
             "custom_liquid": ""
           }
         },
