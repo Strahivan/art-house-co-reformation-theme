@@ -22,7 +22,7 @@
             "subheading": "SYDNEY ARTIST & PHOTOGRAPHER",
             "heading": "Danielle X",
             "heading_size": "h1-xlarge",
-            "content": "“Art is about connection- connecting with the artwork, the artist and a moment in time”",
+            "content": "“Art is about connection, connecting with the artwork, the artist and a moment in time”",
             "description_size": "small",
             "content_position": "middle-center",
             "text_alignment": "center",
@@ -322,8 +322,8 @@
         "slide_zMJ3tj"
       ],
       "settings": {
-        "desktop_height": "desktop-height-650",
-        "mobile_height": "mobile-height-500",
+        "desktop_height": "desktop-height-image",
+        "mobile_height": "mobile-height-auto",
         "full_width": true,
         "autoplay": true,
         "autoplay_length": 5,
@@ -457,8 +457,8 @@
         "slide_W4Yxdr"
       ],
       "settings": {
-        "desktop_height": "desktop-height-650",
-        "mobile_height": "mobile-height-500",
+        "desktop_height": "desktop-height-image",
+        "mobile_height": "mobile-height-auto",
         "full_width": true,
         "autoplay": true,
         "autoplay_length": 5,
