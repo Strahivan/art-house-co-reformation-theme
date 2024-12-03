@@ -47,7 +47,7 @@
       "settings": {
         "announcement_bar": true,
         "announcement_bar_homepage_only": false,
-        "announcement_bar_layout": "marquee",
+        "announcement_bar_layout": "carousel",
         "direction": "left",
         "speed": "50s",
         "autoplay": true,
@@ -149,7 +149,7 @@
         "style": "style4",
         "header_shadow": "header--shadow-small",
         "menu": "main-menu",
-        "transparent_header": true,
+        "transparent_header": false,
         "logo_light": "shopify://shop_images/Arthouse_Logo_Final.png",
         "show_language_switcher": false,
         "show_currency_switcher": true,
