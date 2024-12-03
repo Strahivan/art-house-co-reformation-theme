@@ -984,85 +984,116 @@
         "border_separator_full": false
       }
     },
-    "logo_list_kWgcgP": {
-      "type": "logo-list",
+    "rich_text_aG6fkQ": {
+      "type": "rich-text",
       "blocks": {
-        "logo_LztyjX": {
-          "type": "logo",
+        "heading_tWJYdG": {
+          "type": "heading",
           "settings": {
-            "image": "shopify://shop_images/Block_Logo_Grey2_9413ff4c-2a87-4665-977b-d88fe7236cae.jpg",
-            "link": ""
-          }
-        },
-        "logo_U6beyG": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify://shop_images/Real_Living_Logo_Grey2_adb91192-0e88-43f7-bf68-2a1de581b811.jpg",
-            "link": ""
-          }
-        },
-        "logo_pdBxnr": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify://shop_images/Inside_Out_Logo_Grey2_b0230d64-e068-4878-acb1-da7da12af712.jpg",
-            "link": ""
-          }
-        },
-        "logo_irCBhk": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify://shop_images/Home_Beautiful_Logo_Grey2_1294ddc6-3e55-4338-8143-3a44c8bf0aa6.jpg",
-            "link": ""
-          }
-        },
-        "logo_Q6HFVD": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify://shop_images/Selling_Houses_Logo_Grey2_23a494c5-dc0d-4a34-8b69-109ddf204d54.jpg",
-            "link": ""
-          }
-        },
-        "logo_d3qg8E": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify://shop_images/House___Garden_Logo_Grey_96cd6af5-5c49-4302-8d04-6b2e22db2b6d.jpg",
-            "link": ""
-          }
-        },
-        "logo_Lk3HGb": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify://shop_images/Adore_Logo_Grey.jpg",
-            "link": ""
+            "text": "As Seen In",
+            "size": "h3"
           }
         }
       },
       "block_order": [
-        "logo_LztyjX",
-        "logo_U6beyG",
-        "logo_pdBxnr",
-        "logo_irCBhk",
-        "logo_Q6HFVD",
-        "logo_d3qg8E",
-        "logo_Lk3HGb"
+        "heading_tWJYdG"
       ],
       "settings": {
-        "heading": "As Seen in",
-        "description": "",
-        "columns": 4,
-        "mobile_swipe": true,
-        "center_align": true,
+        "section_width": "grid",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "transparent",
+        "color_text": "#151515",
+        "color_links": "#151515",
         "disable_top_spacing": false,
-        "disable_bottom_spacing": false
+        "disable_bottom_spacing": true
       }
     },
-    "1662459246bd099bb7": {
-      "type": "spacer",
+    "scrolling_images_xnAtiG": {
+      "type": "scrolling-images",
+      "blocks": {
+        "image_fBfqy7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Block_Logo_Grey2_10d560e0-3cff-4908-9759-0fde73f2430a.jpg",
+            "link": "",
+            "heading": "",
+            "text": ""
+          }
+        },
+        "image_8DFmgQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Real_Living_Logo_Grey2_adb91192-0e88-43f7-bf68-2a1de581b811.jpg",
+            "link": "",
+            "heading": "",
+            "text": ""
+          }
+        },
+        "image_w44jRT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Inside_Out_Logo_Grey2_95238565-14d5-4606-a185-442c7ed54b0b.jpg",
+            "link": "",
+            "heading": "",
+            "text": ""
+          }
+        },
+        "image_BEWeiN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Home_Beautiful_Logo_Grey2_732afedd-facd-4bd2-8b8e-ad8f05595478.jpg",
+            "link": "",
+            "heading": "",
+            "text": ""
+          }
+        },
+        "image_HMRQ8c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Selling_Houses_Logo_Grey2_32a666f1-39e0-4de3-934c-932f0b5704b6.jpg",
+            "link": "",
+            "heading": "",
+            "text": ""
+          }
+        },
+        "image_kHJcML": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/House___Garden_Logo_Grey2_03b6573f-4214-4c9c-a5e8-49785432bbe5.jpg",
+            "link": "",
+            "heading": "",
+            "text": ""
+          }
+        },
+        "image_bEnDNr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Adore_Logo_Grey2_e3e05018-b7c7-461b-8f78-0cb759fd60ec.jpg",
+            "link": "",
+            "heading": "",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_fBfqy7",
+        "image_8DFmgQ",
+        "image_w44jRT",
+        "image_BEWeiN",
+        "image_HMRQ8c",
+        "image_kHJcML",
+        "image_bEnDNr"
+      ],
       "settings": {
-        "spacer_mobile": 50,
-        "spacer_desktop": 50,
-        "border_separator": true,
-        "border_separator_full": false
+        "image_ratio": "adapt",
+        "column_spacing": "large",
+        "image_alignment": "center",
+        "direction": "left",
+        "speed": "50s",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
       }
     },
     "17203954955247d757": {
@@ -1166,8 +1197,8 @@
     "1661539188062a849e",
     "1720397038b6589c80",
     "spacer_ifgeMq",
-    "logo_list_kWgcgP",
-    "1662459246bd099bb7",
+    "rich_text_aG6fkQ",
+    "scrolling_images_xnAtiG",
     "17203954955247d757",
     "16620983071df6eb29"
   ]
