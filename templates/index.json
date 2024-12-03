@@ -1090,7 +1090,7 @@
         "image_ratio": "adapt",
         "column_spacing": "large",
         "image_alignment": "center",
-        "direction": "left",
+        "direction": "right",
         "speed": "50s",
         "disable_top_spacing": false,
         "disable_bottom_spacing": false
