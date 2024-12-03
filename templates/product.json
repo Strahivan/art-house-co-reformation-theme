@@ -144,6 +144,16 @@
             "custom_liquid": ""
           }
         },
+        "collapsible_tab_VYR8he": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Sizing",
+            "open": false,
+            "content": "",
+            "page": "general-print-collection-size-guide",
+            "custom_liquid": ""
+          }
+        },
         "collapsible_tab_7VWjyV": {
           "type": "collapsible_tab",
           "settings": {
@@ -168,6 +178,7 @@
       "block_order": [
         "collapsible_tab_Qe4DKR",
         "collapsible_tab_UAGWbF",
+        "collapsible_tab_VYR8he",
         "collapsible_tab_7VWjyV",
         "collapsible_tab_qKdp7a"
       ],
