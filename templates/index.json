@@ -97,8 +97,8 @@
         "slide_DgdFxa"
       ],
       "settings": {
-        "desktop_height": "desktop-height-full",
-        "mobile_height": "mobile-height-500",
+        "desktop_height": "desktop-height-auto",
+        "mobile_height": "mobile-height-auto",
         "full_width": true,
         "autoplay": true,
         "autoplay_length": 10,
@@ -1003,7 +1003,7 @@
         "text_width": "medium",
         "text_position": "center",
         "text_alignment": "center",
-        "color_bg": "transparent",
+        "color_bg": "rgba(0,0,0,0)",
         "color_text": "#151515",
         "color_links": "#151515",
         "disable_top_spacing": false,
