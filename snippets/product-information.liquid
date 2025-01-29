@@ -111,7 +111,7 @@
                   <modal-dialog id="PopupModal-{{ block.id }}" class="product-popup-modal">
                     <div role="dialog" aria-label="{{ block.settings.sizing_guide_text }}" aria-modal="true" class="product-popup-modal__content" tabindex="-1">
                       <div class="product-popup-modal__content-header">
-                        <h5>{{ block.settings.sizing_guide_page.title }}</h5>
+                        <div class="h5">{{ block.settings.sizing_guide_page.title }}</div>
                         <button id="ModalClose-{{ block.id }}" type="button" class="product-popup-modal__toggle" aria-label="{{ 'accessibility.close' | t }}">{% render 'svg-icons' with 'close' %}</button>
                       </div>
                       <scroll-shadow>
