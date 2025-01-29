@@ -13,8 +13,16 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover">
 	<meta name="theme-color" content="{{ settings.color_body_bg }}">
+	
+	{%- comment -%} custom indexation rule for product variants {%- endcomment -%}
+	{% if product.selected_variant.id %}
+		<meta name="robots" content="noindex, follow">
+	{% endif %}
+
+
 	<link rel="canonical" href="{{ canonical_url }}">
 	<link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
+	
 	{% render 'head-preload' %}
 
 	{% if settings.favicon != blank -%}
@@ -143,3 +151,5 @@
 	{%- endif -%}
   </body>
 </html>
+
+
