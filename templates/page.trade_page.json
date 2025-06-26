@@ -77,10 +77,11 @@
       "blocks": {
         "tab_kBakHg": {
           "type": "tab",
+          "name": "Discount",
           "settings": {
             "tab_label": "Exclusive Trade Discounts",
             "icon": "none",
-            "text": "<p>Add a short description for this tabbed section</p>",
+            "text": "<p>An Arthouse co Trade/Wholesale account unlocks exclusive Trade Only discounts across our website and instore.</p>",
             "text_columns": "1",
             "page": "",
             "custom_liquid": ""
@@ -88,10 +89,11 @@
         },
         "tab_DYnKG6": {
           "type": "tab",
+          "name": "Support",
           "settings": {
-            "tab_label": "Consultations",
+            "tab_label": "Dedicated Support",
             "icon": "none",
-            "text": "<p>Add a short description for this tabbed section</p>",
+            "text": "<p>Our expert staff are here to guide you through every aspect of your project, from Art Curation, , Custom Printing and Framing, Delivery and Installation.</p>",
             "text_columns": "1",
             "page": "",
             "custom_liquid": ""
@@ -99,10 +101,11 @@
         },
         "tab_wAd98F": {
           "type": "tab",
+          "name": "Custom",
           "settings": {
             "tab_label": "Bespoke & Custom Pieces",
             "icon": "none",
-            "text": "<p>Add a short description for this tabbed section</p>",
+            "text": "<p>We are experts in Custom Printing and Framing and we pride ourselves on bringing our clients vision to life!</p>",
             "text_columns": "1",
             "page": "",
             "custom_liquid": ""
@@ -110,6 +113,7 @@
         },
         "tab_Mfqqhi": {
           "type": "tab",
+          "name": "Delivery & Installation",
           "settings": {
             "tab_label": "Delivery & Installation",
             "icon": "none",
@@ -119,12 +123,13 @@
             "custom_liquid": ""
           }
         },
-        "tab_8xtt6C": {
+        "tab_ia9qWG": {
           "type": "tab",
+          "name": "Art Sourcing",
           "settings": {
-            "tab_label": "Dedicated Support",
-            "icon": "none",
-            "text": "<p>Add a short description for this tabbed section</p>",
+            "tab_label": "Art Sourcing",
+            "icon": "ruler",
+            "text": "<p>In addition to our extensive online catalogue, Arthouse co is part of a vast network of local and international artists giving us unique access to thousands of artworks. If you cant find what you're looking for, we can likely source it for you!</p>",
             "text_columns": "1",
             "page": "",
             "custom_liquid": ""
@@ -136,12 +141,12 @@
         "tab_DYnKG6",
         "tab_wAd98F",
         "tab_Mfqqhi",
-        "tab_8xtt6C"
+        "tab_ia9qWG"
       ],
       "name": "Tabbed content",
       "settings": {
         "heading": "Exclusive Trade Benefits",
-        "description": "<p>Learn more about the gold star service you receive as a valued trade or wholesale collaborator</p>",
+        "description": "<p>A Trade/Wholesale account unlocks exclusive trade discounts across or entire website and showroom.</p>",
         "text_width": "medium",
         "tab_alignment": "left",
         "text_alignment": "left",
@@ -190,7 +195,7 @@
         "text_width": "medium",
         "text_position": "center",
         "text_alignment": "center",
-        "color_bg": "rgba(0,0,0,0)",
+        "color_bg": "transparent",
         "color_text": "#151515",
         "color_links": "#151515",
         "disable_top_spacing": false,
@@ -291,7 +296,7 @@
         "text_width": "medium",
         "text_position": "center",
         "text_alignment": "center",
-        "color_bg": "rgba(0,0,0,0)",
+        "color_bg": "transparent",
         "color_text": "#151515",
         "color_links": "#151515",
         "disable_top_spacing": false,
@@ -414,7 +419,7 @@
         "text_width": "medium",
         "text_position": "center",
         "text_alignment": "center",
-        "color_bg": "rgba(0,0,0,0)",
+        "color_bg": "transparent",
         "color_text": "#151515",
         "color_links": "#151515",
         "disable_top_spacing": false,
@@ -503,7 +508,7 @@
         "text_width": "medium",
         "text_position": "center",
         "text_alignment": "center",
-        "color_bg": "rgba(0,0,0,0)",
+        "color_bg": "transparent",
         "color_text": "#151515",
         "color_links": "#151515",
         "disable_top_spacing": false,
@@ -520,24 +525,24 @@
             "form_settings": false,
             "font_color": "#000000",
             "size": 14,
-            "input_background_color": "#ffffff",
-            "input_background_color_focus": "#f4dada",
+            "input_background_color": "#FFF",
+            "input_background_color_focus": "#F4DADA",
             "input_border_radius": 1,
             "input_border_color": "#ebe9e9",
-            "input_border_color_focus": "#2d2727",
-            "input_font_color": "#3d3131",
+            "input_border_color_focus": "#2D2727",
+            "input_font_color": "#3D3131",
             "input_size": 14,
             "border_color": "#121212",
             "border_radius": 2,
             "border": 1,
-            "fill_color": "#ebe9e9",
+            "fill_color": "#EBE9E9",
             "padding": 35,
             "form_width": 600,
             "btn_text": "Submit",
-            "sub_btn_txt_color": "#f3f3f3",
-            "sub_btn_bg_color": "#3f3333",
+            "sub_btn_txt_color": "#F3F3F3",
+            "sub_btn_bg_color": "#3F3333",
             "sub_btn_font_size": 14,
-            "sub_btn_bdr_color": "#ffffff",
+            "sub_btn_bdr_color": "#FFFFFF",
             "sub_btn_bdr_rad": 3,
             "sub_btn_bdr_width": 1,
             "fonts": "Times New Roman"
@@ -561,7 +566,7 @@
         "heading_g6LK6B": {
           "type": "heading",
           "settings": {
-            "text": "GALLERY SPACE",
+            "text": "RETAIL GALLERY SPACE",
             "size": "h3"
           }
         },
@@ -585,7 +590,7 @@
         "text_width": "medium",
         "text_position": "center",
         "text_alignment": "center",
-        "color_bg": "rgba(0,0,0,0)",
+        "color_bg": "transparent",
         "color_text": "#151515",
         "color_links": "#151515",
         "disable_top_spacing": false,
