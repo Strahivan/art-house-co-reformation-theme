@@ -270,7 +270,8 @@
         "slide_9kAKV6": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Michelle_Canvas_Floats_Banner.jpg",
+            "image": "shopify://shop_images/Michell_Setting_Slim.jpg",
+            "mobile_image": "shopify://shop_images/Holding_the_Sky_Setting1_SQ_40963b71-8d3d-48d5-8912-ba9e982f1834.jpg",
             "slide_link": "shopify://collections/hayley-michelle",
             "video_background": false,
             "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
@@ -318,43 +319,15 @@
             "button_2_link": "",
             "button_2_outline": false
           }
-        },
-        "slide_zMJ3tj": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Ombre_Slim_V2.jpg",
-            "mobile_image": "shopify://shop_images/Ombre_Green_Setting1.jpg",
-            "slide_link": "shopify://collections/ombre-collectiojn",
-            "video_background": false,
-            "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "subheading": "EXCLUSIVE TO ARTHOUSE CO",
-            "heading": "Ombré",
-            "heading_size": "h1-xlarge",
-            "content": "bespoke canvas art from the Tailored Collection",
-            "description_size": "small",
-            "content_position": "middle-center",
-            "text_alignment": "center",
-            "content_size": "large",
-            "overlay_color": "#000000",
-            "overlay_opacity": 70,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.4) 100%)",
-            "button_1_text": "BROWSE COLLECTION",
-            "button_1_link": "shopify://collections/ombre-collectiojn",
-            "button_1_outline": true,
-            "button_2_text": "",
-            "button_2_link": "",
-            "button_2_outline": false
-          }
         }
       },
       "block_order": [
         "slide_9kAKV6",
-        "slide_ptw8jT",
-        "slide_zMJ3tj"
+        "slide_ptw8jT"
       ],
       "settings": {
-        "desktop_height": "desktop-height-image",
-        "mobile_height": "mobile-height-auto",
+        "desktop_height": "desktop-height-450",
+        "mobile_height": "mobile-height-400",
         "full_width": true,
         "autoplay": true,
         "autoplay_length": 5,
@@ -454,29 +427,54 @@
             "button_2_outline": false
           }
         },
-        "slide_W4Yxdr": {
+        "slide_TrhBBf": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Nature_Setting_Slim.jpg",
-            "mobile_image": "shopify://shop_images/Promo_Green_Terrain.jpg",
-            "slide_link": "shopify://collections/new-releases",
+            "image": "shopify://shop_images/Clulow_Banners_Slim_1000x2880_90fc4892-289b-4bd9-98ca-f6c3acbcf7f1.jpg",
+            "mobile_image": "shopify://shop_images/inez_1_768x768_2e6cc955-2708-42b3-9fda-54b97d057a01.jpg",
+            "slide_link": "shopify://collections/katie-clulow",
             "video_background": false,
             "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "subheading": "BROWSE THE LATEST",
-            "heading": "New Releases",
+            "subheading": "Botanical Photographer",
+            "heading": "Katie Clulow",
             "heading_size": "h1-xlarge",
-            "content": "Browse the latest Editions to our Fine Art Print Collections",
-            "description_size": "small",
+            "content": "Katie's passion for floral beauty and the natural world shines through in everything she creates.",
+            "description_size": "medium",
             "content_position": "middle-center",
             "text_alignment": "center",
-            "content_size": "large",
+            "content_size": "medium",
             "overlay_color": "#000000",
             "overlay_opacity": 70,
             "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.4) 100%)",
-            "button_1_text": "SHOP NEW",
-            "button_1_link": "shopify://collections/new-releases",
+            "button_1_text": "BROWSE COLLECTION",
+            "button_1_link": "shopify://collections/katie-clulow",
             "button_1_outline": true,
             "button_2_text": "",
+            "button_2_link": "",
+            "button_2_outline": false
+          }
+        },
+        "slide_DpWBJq": {
+          "type": "slide",
+          "settings": {
+            "slide_link": "",
+            "video_background": false,
+            "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "subheading": "Add a tagline",
+            "heading": "Slide Heading",
+            "heading_size": "h1-xlarge",
+            "content": "Add descriptive text for your slide here.",
+            "description_size": "medium",
+            "content_position": "middle-center",
+            "text_alignment": "center",
+            "content_size": "medium",
+            "overlay_color": "#000000",
+            "overlay_opacity": 70,
+            "overlay_gradient": "linear-gradient(180deg, rgba(0,0,0, 0.1), rgba(0, 0, 0, 0.4) 100%)",
+            "button_1_text": "Shop Now",
+            "button_1_link": "",
+            "button_1_outline": true,
+            "button_2_text": "Shop Now",
             "button_2_link": "",
             "button_2_outline": false
           }
@@ -485,11 +483,12 @@
       "block_order": [
         "slide_8VppWK",
         "slide_xk8TPn",
-        "slide_W4Yxdr"
+        "slide_TrhBBf",
+        "slide_DpWBJq"
       ],
       "settings": {
-        "desktop_height": "desktop-height-image",
-        "mobile_height": "mobile-height-auto",
+        "desktop_height": "desktop-height-450",
+        "mobile_height": "mobile-height-400",
         "full_width": true,
         "autoplay": true,
         "autoplay_length": 5,
