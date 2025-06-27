@@ -12,6 +12,33 @@
     "16479477632637c9a7": {
       "type": "slideshow",
       "blocks": {
+        "slide_YVBNGp": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/BF_AHC_Slim_1000x2880_43aba486-1e46-4153-9e94-a77f4dff2af9.jpg",
+            "mobile_image": "shopify://shop_images/Eofy_Mobile.jpg",
+            "slide_link": "",
+            "video_background": false,
+            "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "subheading": "",
+            "heading": "",
+            "heading_size": "h1-xlarge",
+            "content": "",
+            "description_size": "medium",
+            "content_position": "middle-center",
+            "text_alignment": "center",
+            "content_size": "medium",
+            "overlay_color": "rgba(0,0,0,0)",
+            "overlay_opacity": 0,
+            "overlay_gradient": "linear-gradient(180deg, rgba(NaN, NaN, NaN, 1), rgba(0, 0, 0, 0.4) 100%)",
+            "button_1_text": "",
+            "button_1_link": "shopify://collections/sale25",
+            "button_1_outline": true,
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_outline": false
+          }
+        },
         "slide_htjMEi": {
           "type": "slide",
           "settings": {
@@ -95,6 +122,7 @@
         }
       },
       "block_order": [
+        "slide_YVBNGp",
         "slide_htjMEi",
         "slide_x9R7LL",
         "slide_8trLW9"
