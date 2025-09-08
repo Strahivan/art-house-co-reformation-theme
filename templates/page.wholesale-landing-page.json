@@ -11,14 +11,337 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_page_title": false,
         "disable_top_spacing": false,
         "disable_bottom_spacing": false
       }
+    },
+    "image_with_text_cQcRwR": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_8XcCkp": {
+          "type": "subheading",
+          "settings": {
+            "text": "BECOME A VIP"
+          }
+        },
+        "heading_E6aMXJ": {
+          "type": "heading",
+          "settings": {
+            "text": "Designer Trade & Commercial Membership",
+            "heading_size": "h3"
+          }
+        },
+        "text_EBe6hn": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Here at Arthouse co, we specialize in working closely with interior designers, architects, property stylists, builders and commercial procurers who are seeking premium wall art services.</p><p>Our services are tailored to your needs, whether you require a complete refurbishment solution or a bespoke art curation. Collaborating with a global network of professionals, we deliver curated art solutions suited to projects of every scale—from luxury hotels and commercial offices to residential interiors and home staging.</p>",
+            "description_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_8XcCkp",
+        "heading_E6aMXJ",
+        "text_EBe6hn"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "image": "shopify://shop_images/Oak_Road_Setting12.jpg",
+        "use_video": false,
+        "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "video_controls": true,
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "section_width": "grid",
+        "layout": "image_first",
+        "content_position": "text-left",
+        "color_bg": "#ffffff",
+        "color_text": "#151515",
+        "color_border": "#e2e2e2",
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "multicolumn_6Drnan": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_X7CMUM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Silent_Echoes_Canvas_Setting4.jpg",
+            "image_full_width": false,
+            "retina": true,
+            "title": "Exclusive Trade Pricing",
+            "text": "<p>With an Arthouse  co Wholesale/ Trade account, you gain access to <em>Trade Only Discounts</em> across our entire website as well as in-store including unreleased artworks, exclusive collections and custom framing.<br/><br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_X83G4z": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Midnight_Coral_Frame_Setting9.jpg",
+            "image_full_width": false,
+            "retina": true,
+            "title": "Installation Services",
+            "text": "<p>Our experienced technicians manage projects of all scales, from private residences to high-end galleries and commercial spaces. </p><p>Each team member is highly trained in archival framing and the professional display of artworks, canvases, mirrors and three-dimensional pieces. <br/><br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_4UAKzA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Mouldings_Print_and_Frame_Moulding_Range.jpg",
+            "image_full_width": false,
+            "retina": true,
+            "title": "Dedicated Support",
+            "text": "<p>As a valued VIP trade client, you will receive dedicated support and expert guidance ensuring a seamless purchasing experience.</p><p>Our Trade Team are on call to assist and advice you on all facets of your job, from artwork selection and sourcing, custom framing options, timeframes, delivery and installation.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_U4AmnF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Luxe_Gallery_Wall_2.jpg",
+            "image_full_width": false,
+            "retina": true,
+            "title": "Art Sourcing",
+            "text": "<p>Arthouse co has exclusive access to a vast network of local and international artists. </p><p>Seen something you like elsewhere? We can source it for you! And if we cant find it, our Design Team might be able to create a bespoke piece that fits the brief.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_WMPc8P": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Vapor_I_Frame_Setting.jpg",
+            "image_full_width": false,
+            "retina": true,
+            "title": "Mock-Up Service",
+            "text": "<p>Sometimes choosing the right artwork for a particular space or client can be a little daunting. </p><p>Our <a href=\"https://arthouseco.com.au/pages/mockup-service\" target=\"_blank\" title=\"Arthouse Co Mockup Service\">Mockup Service</a> is a digital visualization tool designed to help ease the pressure of finding that perfect piece. </p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hiLhdz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/New_Site.jpg",
+            "image_full_width": false,
+            "retina": true,
+            "title": "Mood Boards",
+            "text": "<p>Our online <a href=\"https://arthouseco.com.au/pages/swym-wishlist?\" target=\"_blank\" title=\"Arthouse Co Wishlist\">Moodboards</a> allow you to collect and collate your artwork selections making it easier to manage your projects. </p><p>Moodboards are also a great tool for collaboration as you can share your moodboard with colleagues and clients.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_X7CMUM",
+        "column_X83G4z",
+        "column_4UAKzA",
+        "column_U4AmnF",
+        "column_WMPc8P",
+        "column_hiLhdz"
+      ],
+      "name": "Multicolumn",
+      "settings": {
+        "heading": "Your Benefits",
+        "heading_left": false,
+        "description": "<p>Discover the VIP treatment you unlock when you become an Arthouse co Wholesale/Trade member.</p>",
+        "full_width": true,
+        "display_type": "grid",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "text_alignment": "left",
+        "heading_size": "h5",
+        "mobile_swipe": false,
+        "show_progress_bar": true,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "collection_tabs_QUYFaC": {
+      "type": "collection-tabs",
+      "blocks": {
+        "collection_JGzw6a": {
+          "type": "collection",
+          "settings": {
+            "collection": "abstracts",
+            "enable_promotion": false,
+            "title": "Abstract Art",
+            "text": "",
+            "link_label": "Explore",
+            "content_position": "bottom-left",
+            "text_alignment": "left",
+            "link": "",
+            "use_text_button": false,
+            "block_link": "",
+            "overlay_color": "#000000",
+            "overlay_opacity": 70
+          }
+        },
+        "collection_FXmUig": {
+          "type": "collection",
+          "settings": {
+            "collection": "canvas-art",
+            "enable_promotion": false,
+            "image": "shopify://shop_images/Caution_to_the_Wind_Canvas_Setting.jpg",
+            "title": "Canvas Art",
+            "text": "Printed Stretched & Framed by us",
+            "link_label": "Explore",
+            "content_position": "bottom-left",
+            "text_alignment": "left",
+            "link": "",
+            "use_text_button": false,
+            "block_link": "",
+            "overlay_color": "#000000",
+            "overlay_opacity": 70
+          }
+        },
+        "collection_zPeiey": {
+          "type": "collection",
+          "settings": {
+            "collection": "photography",
+            "enable_promotion": false,
+            "title": "Photography",
+            "text": "",
+            "link_label": "Explore",
+            "content_position": "bottom-left",
+            "text_alignment": "left",
+            "link": "",
+            "use_text_button": false,
+            "block_link": "",
+            "overlay_color": "#000000",
+            "overlay_opacity": 70
+          }
+        },
+        "collection_DpTBqW": {
+          "type": "collection",
+          "settings": {
+            "collection": "coastal",
+            "enable_promotion": false,
+            "title": "Promotion heading",
+            "text": "Advertise a promotion or a sale",
+            "link_label": "Explore",
+            "content_position": "bottom-left",
+            "text_alignment": "left",
+            "link": "",
+            "use_text_button": false,
+            "block_link": "",
+            "overlay_color": "#000000",
+            "overlay_opacity": 70
+          }
+        }
+      },
+      "block_order": [
+        "collection_JGzw6a",
+        "collection_FXmUig",
+        "collection_zPeiey",
+        "collection_DpTBqW"
+      ],
+      "name": "Collection tabs",
+      "settings": {
+        "heading": "Popular Collections",
+        "heading_left": false,
+        "description": "<p>Browse Designer Favourites</p>",
+        "full_width": true,
+        "product_limit": 10,
+        "columns_desktop": 4,
+        "show_view_all": true,
+        "show_progress_bar": true,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "rich_text_nwLMBd": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8c4mgb": {
+          "type": "heading",
+          "settings": {
+            "text": "Apply for a Wholesale/ Trade Account",
+            "size": "h3"
+          }
+        },
+        "text_iMDU4k": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Apply for a wholesale/trade account with Arthouse co and unlock trade only pricing as we all access to exclusive collections and special events.</p><p>Complete the form below and our team will get in touch and let you know if your application was successful</p>",
+            "custom_liquid": "",
+            "size": "text-size-regular"
+          }
+        }
+      },
+      "block_order": [
+        "heading_8c4mgb",
+        "text_iMDU4k"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "section_width": "grid",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "transparent",
+        "color_text": "#151515",
+        "color_links": "#151515",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": true
+      }
+    },
+    "1757305902fea15d9d": {
+      "type": "apps",
+      "blocks": {
+        "hulk_form_builder_form_block_8k8rP3": {
+          "type": "shopify://apps/hulk-form-builder/blocks/form-block/b6b8dd14-356b-4725-a4ed-77232212b3c3",
+          "settings": {
+            "form_uuid": "BwP9f4hAfx82njRmKSYQkQ",
+            "form_settings": false,
+            "font_color": "#000000",
+            "size": 14,
+            "input_background_color": "#FFF",
+            "input_background_color_focus": "#F4DADA",
+            "input_border_radius": 1,
+            "input_border_color": "#ebe9e9",
+            "input_border_color_focus": "#2D2727",
+            "input_font_color": "#3D3131",
+            "input_size": 14,
+            "border_color": "#121212",
+            "border_radius": 2,
+            "border": 1,
+            "fill_color": "#EBE9E9",
+            "padding": 35,
+            "form_width": 600,
+            "btn_text": "Submit",
+            "sub_btn_txt_color": "#F3F3F3",
+            "sub_btn_bg_color": "#3F3333",
+            "sub_btn_font_size": 14,
+            "sub_btn_bdr_color": "#FFFFFF",
+            "sub_btn_bdr_rad": 3,
+            "sub_btn_bdr_width": 1,
+            "fonts": "Times New Roman"
+          }
+        }
+      },
+      "block_order": [
+        "hulk_form_builder_form_block_8k8rP3"
+      ],
+      "settings": {}
     }
   },
   "order": [
-    "main"
+    "main",
+    "image_with_text_cQcRwR",
+    "multicolumn_6Drnan",
+    "collection_tabs_QUYFaC",
+    "rich_text_nwLMBd",
+    "1757305902fea15d9d"
   ]
 }
