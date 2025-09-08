@@ -37,7 +37,7 @@
         "text_EBe6hn": {
           "type": "text",
           "settings": {
-            "text": "<p>Here at Arthouse co, we specialize in working closely with interior designers, architects, property stylists, builders and commercial procurers who are seeking premium wall art services.</p><p>Our services are tailored to your needs, whether you require a complete refurbishment solution or a bespoke art curation. Collaborating with a global network of professionals, we deliver curated art solutions suited to projects of every scale—from luxury hotels and commercial offices to residential interiors and home staging.</p>",
+            "text": "<p>Here at Arthouse co, we specialize in working closely with interior designers, architects, property stylists, builders and commercial procurers who are seeking premium wall art services.</p><p>Our services are tailored to your needs, whether you require a complete refurbishment solution or a bespoke art curation. </p><p>Collaborating with a global network of professionals, we deliver curated art solutions suited to projects of every scale — from luxury hotels and commercial offices to residential interiors and home staging.</p>",
             "description_size": "medium"
           }
         }
@@ -63,7 +63,7 @@
         "color_text": "#151515",
         "color_border": "#e2e2e2",
         "disable_top_spacing": true,
-        "disable_bottom_spacing": true
+        "disable_bottom_spacing": false
       }
     },
     "multicolumn_6Drnan": {
