@@ -139,7 +139,7 @@
           "settings": {
             "heading": "Border Option",
             "open": false,
-            "content": "<p>With both <em>Unframed</em> and <em>Framed Prints</em> you may choose to include a PRINT border around the image. Print borders are an unprinted area surrounding the image.</p><p>Please note the border size is included in the overall size. Adding a border will reduce the size of your image, for example adding a 5cm border on a 50x70cm print means the image size will be reduced to 40x60cm.</p><p><em>Canvas</em> products are printed 'edge to edge' without a border, with the image meeting the edge of the canvas.</p>",
+            "content": "<p>Canvas products are printed 'edge to edge' without a border, with the image meeting the edge of the canvas.</p>",
             "page": "",
             "custom_liquid": ""
           }
