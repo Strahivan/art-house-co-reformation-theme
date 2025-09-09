@@ -143,8 +143,8 @@
       ],
       "settings": {
         "sticky_header": true,
-        "logo": "shopify://shop_images/Arthouse_Logo_Final.png",
-        "logo_height_range": 30,
+        "logo": "shopify://shop_images/Arthouse_Logo_Black_Text.png",
+        "logo_height_range": 40,
         "logo_height_range_mobile": 30,
         "style": "style4",
         "header_shadow": "header--shadow-small",
