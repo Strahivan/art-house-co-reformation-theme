@@ -147,8 +147,8 @@
         "color_bg": "#ffffff",
         "color_text": "#151515",
         "color_border": "#e2e2e2",
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": false
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
       }
     },
     "multicolumn_JQBWdb": {
@@ -341,35 +341,11 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_hnxncM": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "retina": true,
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_TCLKQz": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "retina": true,
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "column_VExtY8",
-        "column_dUiYWB",
-        "column_hnxncM",
-        "column_TCLKQz"
+        "column_dUiYWB"
       ],
       "name": "Multicolumn",
       "settings": {
@@ -417,7 +393,7 @@
           "settings": {
             "image_full_width": false,
             "retina": true,
-            "title": "2. Save your file:",
+            "title": "2. Save your file",
             "text": "<p>We can print  from most file types; png, psd, jpeg, pdf or tiff. Our preferred file is tiff as it is a file type that holds the most information.  <br/><br/></p>",
             "link_label": "",
             "link": ""
@@ -527,7 +503,7 @@
         "text_dg3CgG": {
           "type": "text",
           "settings": {
-            "text": "<p> All our prints are handled with the utmost of care. From printing to packaging, our prints are scrutinized by our production team to ensure you receive a pristine product.   Your beautiful new print is very delicate and it is our recommendation that it should only be handled and removed from its packaging by your intended professional framer.   Any creases or imperfections are not the responsibility of ARTHOUSEco.<br/><br/></p>",
+            "text": "<p> All our prints are handled with the utmost of care. From printing to packaging, our prints are scrutinized by our production team to ensure you receive a pristine product.   Your beautiful new print is very delicate and it is our recommendation that it should only be handled and removed from its packaging by your intended professional framer.   Any creases or imperfections are not the responsibility of ARTHOUSEco.</p>",
             "custom_liquid": "",
             "size": "text-size-regular"
           }
