@@ -377,7 +377,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/Warlu_Banners_Slim_1000x2880_cecf9773-1852-468a-a4ee-64cb92b6be92.jpg",
-            "slide_link": "shopify://collections/aboriginal-artists",
+            "slide_link": "shopify://collections/indigenous-artists",
             "video_background": false,
             "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "subheading": "FIRST NATIONS",
@@ -392,7 +392,7 @@
             "overlay_opacity": 30,
             "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.4) 100%)",
             "button_1_text": "BROWSE COLLECTION",
-            "button_1_link": "shopify://collections/aboriginal-artists",
+            "button_1_link": "shopify://collections/indigenous-artists",
             "button_1_outline": true,
             "button_2_text": "",
             "button_2_link": "",
@@ -817,9 +817,9 @@
             "title": "Aboriginal Artists",
             "text": "",
             "link_label": "BROWSE",
-            "link": "shopify://collections/aboriginal-artists",
+            "link": "shopify://collections/indigenous-artists",
             "use_text_button": true,
-            "block_link": "shopify://collections/aboriginal-artists",
+            "block_link": "shopify://collections/indigenous-artists",
             "product_list": []
           }
         },
