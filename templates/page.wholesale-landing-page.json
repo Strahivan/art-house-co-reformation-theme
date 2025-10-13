@@ -167,121 +167,237 @@
         "disable_bottom_spacing": true
       }
     },
-    "collection_tabs_QUYFaC": {
-      "type": "collection-tabs",
+    "rich_text_hxrMBF": {
+      "type": "rich-text",
       "blocks": {
-        "collection_JGzw6a": {
-          "type": "collection",
+        "subheading_gijGwK": {
+          "type": "subheading",
           "settings": {
-            "collection": "abstracts",
-            "enable_promotion": false,
-            "title": "Abstract Art",
-            "text": "",
-            "link_label": "Explore",
-            "content_position": "bottom-left",
-            "text_alignment": "left",
-            "link": "",
-            "use_text_button": false,
-            "block_link": "",
-            "overlay_color": "#000000",
-            "overlay_opacity": 70
+            "text": "BROWSE"
           }
         },
-        "collection_FXmUig": {
-          "type": "collection",
+        "heading_jBDKfh": {
+          "type": "heading",
           "settings": {
-            "collection": "canvas-art",
-            "enable_promotion": false,
-            "image": "shopify://shop_images/Caution_to_the_Wind_Canvas_Setting.jpg",
-            "title": "Canvas Art",
-            "text": "Printed Stretched & Framed by us",
-            "link_label": "Explore",
-            "content_position": "bottom-left",
-            "text_alignment": "left",
-            "link": "",
-            "use_text_button": false,
-            "block_link": "",
-            "overlay_color": "#000000",
-            "overlay_opacity": 70
-          }
-        },
-        "collection_zPeiey": {
-          "type": "collection",
-          "settings": {
-            "collection": "photography",
-            "enable_promotion": false,
-            "title": "Photography",
-            "text": "",
-            "link_label": "Explore",
-            "content_position": "bottom-left",
-            "text_alignment": "left",
-            "link": "",
-            "use_text_button": false,
-            "block_link": "",
-            "overlay_color": "#000000",
-            "overlay_opacity": 70
-          }
-        },
-        "collection_DpTBqW": {
-          "type": "collection",
-          "settings": {
-            "collection": "coastal",
-            "enable_promotion": false,
-            "title": "Promotion heading",
-            "text": "Advertise a promotion or a sale",
-            "link_label": "Explore",
-            "content_position": "bottom-left",
-            "text_alignment": "left",
-            "link": "",
-            "use_text_button": false,
-            "block_link": "",
-            "overlay_color": "#000000",
-            "overlay_opacity": 70
+            "text": "Curated Collections",
+            "size": "h3"
           }
         }
       },
       "block_order": [
-        "collection_JGzw6a",
-        "collection_FXmUig",
-        "collection_zPeiey",
-        "collection_DpTBqW"
+        "subheading_gijGwK",
+        "heading_jBDKfh"
       ],
-      "name": "Collection tabs",
+      "name": "Rich text",
       "settings": {
-        "heading": "Popular Collections",
-        "heading_left": false,
-        "description": "<p>Browse Designer Favourites</p>",
-        "full_width": true,
-        "product_limit": 10,
-        "columns_desktop": 4,
-        "show_view_all": true,
-        "show_progress_bar": true,
+        "section_width": "grid",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "transparent",
+        "color_text": "#151515",
+        "color_links": "#151515",
         "disable_top_spacing": false,
+        "disable_bottom_spacing": true
+      }
+    },
+    "gallery_NKcgKG": {
+      "type": "gallery",
+      "blocks": {
+        "image_LMRXGQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Surfside_Setting.jpg",
+            "subheading": "",
+            "title": "coastal",
+            "text": "palm tress, white sand, beach resorts, The Amalfi Coast",
+            "link_label": "BROWSE",
+            "link": "shopify://collections/coastal",
+            "use_text_button": false,
+            "block_link": "shopify://collections/coastal",
+            "product_list": []
+          }
+        },
+        "image_zxPQQH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Come_Away_Setting4_SQ_79493703-532b-47ed-9cb7-0801ae6f84c5.jpg",
+            "subheading": "",
+            "title": "new additions",
+            "text": "new and exclusive",
+            "link_label": "BROWSE",
+            "link": "shopify://collections/new-releases",
+            "use_text_button": false,
+            "block_link": "shopify://collections/new-releases",
+            "product_list": []
+          }
+        },
+        "image_kLHQHb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Blackberry_Ombre_Setting_July2.jpg",
+            "subheading": "",
+            "title": "abstracts",
+            "text": "curated to meet the latest colour trends",
+            "link_label": "BROWSE",
+            "link": "shopify://collections/abstracts",
+            "use_text_button": false,
+            "block_link": "shopify://collections/abstracts",
+            "product_list": []
+          }
+        }
+      },
+      "block_order": [
+        "image_LMRXGQ",
+        "image_zxPQQH",
+        "image_kLHQHb"
+      ],
+      "name": "Gallery",
+      "settings": {
+        "columns_desktop": 3,
+        "section_width": "grid",
+        "mobile_swipe": false,
+        "image_ratio": "square",
+        "content_position": "bottom-left",
+        "text_alignment": "left",
+        "column_spacing": "small",
+        "heading_size": "h2",
+        "overlay_color": "#000000",
+        "overlay_opacity": 35,
+        "disable_top_spacing": true,
         "disable_bottom_spacing": false
       }
     },
-    "rich_text_nwLMBd": {
+    "rich_text_KpfWwD": {
       "type": "rich-text",
       "blocks": {
-        "heading_8c4mgb": {
+        "subheading_j4AiaN": {
+          "type": "subheading",
+          "settings": {
+            "text": "BROWSE"
+          }
+        },
+        "heading_WK7NcC": {
           "type": "heading",
           "settings": {
-            "text": "Apply for a Wholesale/ Trade Account",
+            "text": "Popular Artists",
+            "size": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_j4AiaN",
+        "heading_WK7NcC"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "section_width": "grid",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "transparent",
+        "color_text": "#151515",
+        "color_links": "#151515",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": true
+      }
+    },
+    "gallery_Af49Rd": {
+      "type": "gallery",
+      "blocks": {
+        "image_P3UMVN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Desire_Setting3.jpg",
+            "subheading": "",
+            "title": "Scott Petrie",
+            "text": "",
+            "link_label": "BROWSE",
+            "link": "shopify://collections/scott-petrie",
+            "use_text_button": false,
+            "block_link": "shopify://collections/coastal",
+            "product_list": []
+          }
+        },
+        "image_c3deRz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Meet_me_in_the_Garden_Setting6.jpg",
+            "subheading": "",
+            "title": "Hayley Michelle",
+            "text": "",
+            "link_label": "BROWSE",
+            "link": "shopify://collections/hayley-michelle",
+            "use_text_button": false,
+            "block_link": "shopify://collections/hayley-michelle",
+            "product_list": []
+          }
+        },
+        "image_hpdtNT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/The_Getaway_Setting_e82003e7-1eca-49f9-9d22-355ca70458ee.jpg",
+            "subheading": "",
+            "title": "Rebecca X Lindsey",
+            "text": "",
+            "link_label": "BROWSE",
+            "link": "shopify://collections/rebecca-x-lindsey",
+            "use_text_button": false,
+            "block_link": "shopify://collections/rebecca-x-lindsey",
+            "product_list": []
+          }
+        }
+      },
+      "block_order": [
+        "image_P3UMVN",
+        "image_c3deRz",
+        "image_hpdtNT"
+      ],
+      "name": "Gallery",
+      "settings": {
+        "columns_desktop": 3,
+        "section_width": "grid",
+        "mobile_swipe": false,
+        "image_ratio": "square",
+        "content_position": "bottom-left",
+        "text_alignment": "left",
+        "column_spacing": "small",
+        "heading_size": "h2",
+        "overlay_color": "#000000",
+        "overlay_opacity": 35,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": false
+      }
+    },
+    "rich_text_Qtk6HD": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_8xLKRF": {
+          "type": "subheading",
+          "settings": {
+            "text": "Like What you Hear?"
+          }
+        },
+        "heading_TbtGEH": {
+          "type": "heading",
+          "settings": {
+            "text": "Register Now!",
             "size": "h3"
           }
         },
-        "text_iMDU4k": {
+        "text_rKHy3c": {
           "type": "text",
           "settings": {
-            "text": "<p>Apply for a wholesale/trade account with Arthouse co and unlock trade only pricing as we all access to exclusive collections and special events.</p><p>Complete the form below and our team will get in touch and let you know if your application was successful</p>",
+            "text": "<p>Apply for a Wholesale Trade account now and unlock exclusive discounts and first access to our latest releases.</p>",
             "custom_liquid": "",
             "size": "text-size-regular"
           }
         }
       },
       "block_order": [
-        "heading_8c4mgb",
-        "text_iMDU4k"
+        "subheading_8xLKRF",
+        "heading_TbtGEH",
+        "text_rKHy3c"
       ],
       "name": "Rich text",
       "settings": {
@@ -306,24 +422,24 @@
             "form_settings": false,
             "font_color": "#000000",
             "size": 14,
-            "input_background_color": "#FFF",
-            "input_background_color_focus": "#F4DADA",
+            "input_background_color": "#ffffff",
+            "input_background_color_focus": "#f4dada",
             "input_border_radius": 1,
             "input_border_color": "#ebe9e9",
-            "input_border_color_focus": "#2D2727",
-            "input_font_color": "#3D3131",
+            "input_border_color_focus": "#2d2727",
+            "input_font_color": "#3d3131",
             "input_size": 14,
             "border_color": "#121212",
             "border_radius": 2,
             "border": 1,
-            "fill_color": "#EBE9E9",
+            "fill_color": "#ebe9e9",
             "padding": 35,
             "form_width": 600,
             "btn_text": "Submit",
-            "sub_btn_txt_color": "#F3F3F3",
-            "sub_btn_bg_color": "#3F3333",
+            "sub_btn_txt_color": "#f3f3f3",
+            "sub_btn_bg_color": "#3f3333",
             "sub_btn_font_size": 14,
-            "sub_btn_bdr_color": "#FFFFFF",
+            "sub_btn_bdr_color": "#ffffff",
             "sub_btn_bdr_rad": 3,
             "sub_btn_bdr_width": 1,
             "fonts": "Times New Roman"
@@ -340,8 +456,11 @@
     "main",
     "image_with_text_cQcRwR",
     "multicolumn_6Drnan",
-    "collection_tabs_QUYFaC",
-    "rich_text_nwLMBd",
+    "rich_text_hxrMBF",
+    "gallery_NKcgKG",
+    "rich_text_KpfWwD",
+    "gallery_Af49Rd",
+    "rich_text_Qtk6HD",
     "1757305902fea15d9d"
   ]
 }
