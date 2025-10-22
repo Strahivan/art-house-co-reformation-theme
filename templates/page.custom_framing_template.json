@@ -24,20 +24,20 @@
         "subheading_zybqBM": {
           "type": "subheading",
           "settings": {
-            "text": "HIGH END - GALLERY GRADE"
+            "text": "HIGH END - ARCHIVAL"
           }
         },
         "heading_cU3xX3": {
           "type": "heading",
           "settings": {
-            "text": "Giclée Printing",
+            "text": "Custom Framing",
             "heading_size": "h3"
           }
         },
         "text_RCxWAw": {
           "type": "text",
           "settings": {
-            "text": "<p>ARTHOUSEco has a dedicated print department whose sole purpose is to provide our customers with the highest standard of professional, archival quality printing.  <br/><br/>As proud owners of the latest in Epson large format printers, we can produce fine art archival prints of up to 64” (150cm) in width by almost any size in length. We use archival Epson inks which ensures all reproductions hold true to the artists vision, both in its clarity and vibrancy. </p>",
+            "text": "<p>Discover quality and excellence at ARTHOUSE CO, Sydney's premier Picture Framers and Fine Art Print Studio. Renowned for our expertise in high-end gallery-grade, archival printing and framing, we ensure your cherished artworks receive the utmost care and precision  </p><p>All framing work is completed on site in our Marrickville workshop by an experienced team of craftspeople who specialise in:</p><ul><li>Museum Grade / Archival Framing</li><li>Limited Editions  Large / Oversized Works</li><li>Photo Framing</li><li>Canvas Stretching and Canvas Float Framing</li><li>High end Printing services through our in-house PRINT|STUDIO</li><li>Fine Art Curation, Styling and Custom Framing Consultations    </li></ul>",
             "description_size": "medium"
           }
         }
@@ -49,24 +49,61 @@
       ],
       "name": "Image with text",
       "settings": {
-        "image": "shopify://shop_images/Print_Your_own_skater.jpg",
+        "image": "shopify://shop_images/Frame_Your_Own_Oak_Landscape_Border_2.jpg",
         "use_video": false,
         "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "video_autoplay": true,
         "video_controls": true,
         "height": "adapt",
         "desktop_image_width": "medium",
-        "section_width": "grid",
+        "section_width": "full-width-row-full",
         "layout": "image_first",
         "content_position": "text-left",
         "color_bg": "#ffffff",
         "color_text": "#151515",
         "color_border": "#e2e2e2",
         "disable_top_spacing": false,
-        "disable_bottom_spacing": false
+        "disable_bottom_spacing": true
       }
     },
-    "spacer_khtamT": {
+    "rich_text_QPg7HR": {
+      "type": "rich-text",
+      "blocks": {
+        "text_zcgXdk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Request a quote online or visit us instore for a free one-on-one consultation with one of our experienced Framers, here to give you expert advice on all facets of picture framing and printing.</p><p>Visit us instore and browse and select from our large range of Mouldings and Acid Free Mount Boards.* </p><p>We can accommodate almost any deadline with same day framing available (subject to availability). </p><p>No framing job is too difficult, we frame it all! </p>",
+            "custom_liquid": "",
+            "size": "text-size-regular"
+          }
+        },
+        "button_heRMtU": {
+          "type": "button",
+          "settings": {
+            "link_label": "GET A QUOTE",
+            "link": "https://arthouseco.com.au/pages/request-a-quote",
+            "button_outline": false
+          }
+        }
+      },
+      "block_order": [
+        "text_zcgXdk",
+        "button_heRMtU"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "section_width": "grid",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "transparent",
+        "color_text": "#151515",
+        "color_links": "#151515",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": true
+      }
+    },
+    "spacer_fNRdJW": {
       "type": "spacer",
       "name": "Spacer",
       "settings": {
@@ -76,73 +113,46 @@
         "border_separator_full": false
       }
     },
-    "rich_text_WAQQFH": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_iqdbKK": {
-          "type": "subheading",
-          "settings": {
-            "text": "learn more about"
-          }
-        },
-        "heading_AkQ8WH": {
-          "type": "heading",
-          "settings": {
-            "text": "Paper Stock, File Setup & Production",
-            "size": "h3"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_iqdbKK",
-        "heading_AkQ8WH"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "section_width": "grid",
-        "text_width": "medium",
-        "text_position": "center",
-        "text_alignment": "center",
-        "color_bg": "rgba(0,0,0,0)",
-        "color_text": "#151515",
-        "color_links": "#151515",
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": false
-      }
-    },
-    "image_with_text_Lz8rtU": {
+    "image_with_text_Hek49H": {
       "type": "image-with-text",
       "blocks": {
-        "heading_MeaYte": {
-          "type": "heading",
+        "subheading_HTAjgr": {
+          "type": "subheading",
           "settings": {
-            "text": "Paper Stock",
-            "heading_size": "h2"
+            "text": "Virtual"
           }
         },
-        "text_mxmiFJ": {
+        "heading_Jwt3fe": {
+          "type": "heading",
+          "settings": {
+            "text": "Consultations",
+            "heading_size": "h3"
+          }
+        },
+        "text_wrYJ8Y": {
           "type": "text",
           "settings": {
-            "text": "<p>The Art and Framing Company has hand selected print media from suppliers around the globe to insure all artwork is re-produced at its highest quality.  Our extensive range of heavy weight, gallery grade, archival printing stock includes:<br/></p>",
+            "text": "<p>Can't pop by for a face-2-face consultation? Take advantage of CUSTOM FRAMING Virtual Consultations with our team!  Here's how it works: </p><p><strong>1. Contactless Drop-off | Pick-up Service</strong></p><p>Click the GET A QUOTE button below and fill out our quote request form. Shortly, one of our amazing team members will get in touch and talk through your project with you, confirm your details and organise a time for your to drop off your items or have them collected by one of our drivers.</p><p>2. Virtual Consultation</p><p>We will then organize a formal, virtual consultation where we will discuss your project in detail and talk you through your custom framing options. Once the details are signed off and locked in we will then take a contactless payment.</p><p><strong>3. Contactless Collection | Delivery</strong></p><p>You will be contacted when your items are ready to collect from instore.  Alternatively, let us know if you need us to deliver straight to your door.   </p><p>Simple! Contactless, Door-to-door and ready to hang!</p>",
             "description_size": "medium"
           }
         }
       },
       "block_order": [
-        "heading_MeaYte",
-        "text_mxmiFJ"
+        "subheading_HTAjgr",
+        "heading_Jwt3fe",
+        "text_wrYJ8Y"
       ],
       "name": "Image with text",
       "settings": {
-        "image": "shopify://shop_images/Hahnemuhle_Pearl_Corner_Lifted_b56fcea5-ca8e-41d3-bfc6-418f0f77dacd.jpg",
+        "image": "shopify://shop_images/Frame_Memories_Oak_Portrait.jpg",
         "use_video": false,
         "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "video_autoplay": true,
         "video_controls": true,
         "height": "adapt",
         "desktop_image_width": "medium",
-        "section_width": "grid",
-        "layout": "image_first",
+        "section_width": "full-width-row-full",
+        "layout": "text_first",
         "content_position": "text-left",
         "color_bg": "#ffffff",
         "color_text": "#151515",
@@ -151,431 +161,20 @@
         "disable_bottom_spacing": true
       }
     },
-    "multicolumn_JQBWdb": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_WnEVJz": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "retina": true,
-            "title": "Photo Matte Paper | 240gsm    ",
-            "text": "<p>A beautiful uncoated matte finish stock that allows high ink absorption, perfect for letting the natural quality of an image to speak for itself. True to colour, this product is popular with both artists and galleries and is a personal favourite of The Art and Framing Company.<br/></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_QhkC3P": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "retina": true,
-            "title": "Hahnemuhle Photo Rag Ultra Smooth | 305gsm",
-            "text": "<p> An especially smooth and silky soft paper for high-quality FineArt inkjet printing. The white cotton art paper has a discreet, very finely textured surface with a strikingly silky feel. The matte premium inkjet coating guarantees extraordinary print results with impressive reproduction of colour, detail and very deep black. Photo Rag® Ultra Smooth is versatile and produces impressive results for FineArt photography as well as art reproductions. The acid- and lignin-free all-rounder meets the most exacting requirements in terms of age resistance and is perfect for high-quality black and white FineArt prints.<br/><br/></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_BBBQrV": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "retina": true,
-            "title": "Hahnemuhle Photo Rag Baryta | 315gsm",
-            "text": "<p> A pure cotton paper with an inkjet coating that has been perfectly optimised for the needs of FineArt applications. The natural white paper comes in a pleasant, warm shade of white and contains no optical brighteners. The exquisite surface texture gives the paper a lovely, delicate feel while at the same time lending it an artistic note. In combination with the high-gloss premium inkjet coating, it produces stunning print results with outstanding reproduction of colour and detail, deep blacks and perfect contrasts. The barium sulphate in the coating makes Photo Rag® Baryta a popular alternative to analogue baryta paper. The combination of the cotton artist paper and the high-gloss inkjet coating lends FineArt prints a striking character with a beautiful, elegant sheen, without glare. Photo Rag® Baryta is acid- and lignin-free and meets the most exacting requirements in terms of age resistance.<br/><br/></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_pU9QqN": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "retina": true,
-            "title": "Hahnemuhle Fineart Baryta | 325gsm",
-            "text": "<p>A bright white, cellulose-based FineArt inkjet paper with an inkjet coating specially tailored for FineArt use. The clearly visible, exquisite felt structure lends the paper its lovely soft feel and tactile surface texture to produce prints with a stunning three-dimensional quality and depth. The high-gloss premium inkjet coating guarantees outstanding print results with perfect reproduction of colour and detail, deep blacks and striking contrasts. The barium sulphate within the coating gives FineArt Baryta the feel of a traditional analogue baryta paper and makes it a popular alternative for inkjet printing. The acid- and lignin-free FineArt inkjet paper meets the most exacting requirements for age resistance. FineArt Baryta is a versatile classic for FineArt applications and sets standards in the printing of both black and white and colour photographs.<br/><br/></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_wdWnMQ": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "retina": true,
-            "title": " Hahnemuhle German Etching (Textured) | 310gsm",
-            "text": "<p>A traditional mould-made copperplate printing paper, complete with an inkjet coating designed especially for FineArt applications. The white art paper made from 100% alpha cellulose is characterised by its extraordinary velvety tactile feel and its fine, clearly defined felt structure. The unique surface texture adds a very special touch to images, showcasing them in all their splendour with impressive three-dimensional effect and depth. The premium matt inkjet coating guarantees outstanding print results with excellent reproduction of colour and detail, deep black and optimum contrasts. German Etching is acid- and lignin-free and meets the most exacting requirements in terms of age resistance. This heavyweight FineArt inkjet paper is one of the most popular paper for FineArt prints and art reproductions thanks to its characteristic tactile feel and surface texture<br/><br/></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_9jVTEm": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "retina": true,
-            "title": "Hahnemuhle Photo Rag Satin | 310gsm",
-            "text": "<p>An exceptional highlight to the Photo Rag® range and lends FineArt prints a highly individual character. The white cotton paper features the classic Photo Rag® surface with a delicate felt structure and a beautifully soft feel. In combination with the satin-gloss premium inkjet coating, it produces outstanding prints with a beautiful sense of depth and three-dimensional quality. Colours and details are perfectly reproduced, the depth of the black truly stands out and contrasts are reproduced with stunning effect. Photo Rag® Satin is characterised by its very unique coating. The printed areas have a soft sheen, while the unprinted areas remain matt to beautifully accentuate brilliance. Photo Rag® Satin is acid- and lignin-free which meet the most exacting requirements in terms of age resistance.<br/><br/></p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_WnEVJz",
-        "column_QhkC3P",
-        "column_BBBQrV",
-        "column_pU9QqN",
-        "column_wdWnMQ",
-        "column_9jVTEm"
-      ],
-      "name": "Multicolumn",
-      "settings": {
-        "heading": "Matt Paper Stock",
-        "heading_left": false,
-        "description": "",
-        "full_width": true,
-        "display_type": "grid",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "text_alignment": "left",
-        "heading_size": "h5",
-        "mobile_swipe": false,
-        "show_progress_bar": true,
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": false
-      }
-    },
-    "multicolumn_DYbka4": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_X7RafG": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "retina": true,
-            "title": "ILFORD GALERIE Satin Photo | 260gsm",
-            "text": "<p>With a subtle satin sheen, this stock is perfect for clarity and depth of colour.  </p><p> GALERIE Satin Photo 260gsm is a heavy weight, high quality inkjet photo paper offering accurate reproductive qualities, extended longevity and a robust surface for exceptional yet durable prints. As with its gloss equivalent, this paper is created using the very latest universal inkjet coating technology. The satin surface is perfect for every type of image genre from stunning portraits and scenic landscapes to wildlife.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_Vp6i6R": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "retina": true,
-            "title": "ILFORD GALERIE Glossy Photo | 260gsm",
-            "text": "<p>This high gloss stock is perfect for images that require vivid colours and intense blacks.  </p><p> GALERIE Glossy Photo 260gsm is a heavy weight, high quality inkjet photo paper offering accurate reproductive qualities, extended longevity and a robust surface for exceptional yet durable prints. As with its lustre equivalent, this paper is created using the very latest universal inkjet coating technology. The gloss surface is perfect for every type of image genre from stunning mono conversions, abstracts, macros or architecture.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_w3QjHh": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "retina": true,
-            "title": "ILFORD GALERIE Metallic Gloss | 260gsm ",
-            "text": "<p> A premium stock with a unique iridium finish that gives every image a three-dimensional look ensuring that each print truly comes to life. </p><p> This resin coated paper is 260gsm and is suitable for creating display and exhibition prints or alternatively prints can be added to photo albums or portfolio work to create additional impact.   Although the media adds an additional creative angle to portrait and studio photography, it also lends itself perfectly to enhancing mechanical, industrial or architectural images.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_WWqafU": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "retina": true,
-            "title": "ILFORD GALERIE Gold Fibre Gloss | 310gsm",
-            "text": "<p>An ultra-smooth, super white, high gloss stock that has the look and feel of a traditional silver halide photo paper. A throwback to a bygone era, this traditional fibre-base photo paper is ideal for high quality black and white printing and offers an exceptional wide gamut for color, detail and tonality. In developing GALERIE Gold Fibre Gloss, ILFORD has taken into account all the elements that make the perfect traditional photo paper, reminiscent of papers produced for the darkroom. With no optical brighteners, and a seamless transition between contrast, shadow detail and highlight areas, this stunning addition to the GALERIE range is a sure winner with fine artists and photographers alike.<br/><br/></p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_X7RafG",
-        "column_Vp6i6R",
-        "column_w3QjHh",
-        "column_WWqafU"
-      ],
-      "name": "Multicolumn",
-      "settings": {
-        "heading": "Gloss. Satin & Metallics",
-        "heading_left": false,
-        "description": "",
-        "full_width": true,
-        "display_type": "grid",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "text_alignment": "left",
-        "heading_size": "h5",
-        "mobile_swipe": false,
-        "show_progress_bar": true,
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": false
-      }
-    },
-    "multicolumn_fg6cwp": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_VExtY8": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "retina": true,
-            "title": "Hahnemuhle Daguerre Canvas Matt | 400gm ",
-            "text": "<p>A matt coated, poly-cotton inkjet canvas with a fine, uniform surface texture. The bright white canvas is characterised by its high degree of whiteness. When combined with the premium matt inkjet coating, it produces clean, fresh colours, fine details and black and white reproductions that are rich in contrast. Daguerre Canvas is acid- and lignin-free and meets the most exacting requirements in terms of age resistance. Despite its high grammage, the canvas has excellent stretch properties and is ideal for mounting on canvas stretcher frames.<br/><br/></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_dUiYWB": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "retina": true,
-            "title": "ILFORD Décor Canvas Bright White | 380gsm",
-            "text": "<p>ILFORD GALERIE Décor Canvas Bright White is a cotton/polyester blend canvas with a bright white tint designed to offer high performance professional photographic and décor art reproduction. The matt structure of the surface produces a more decorative effect by enhancing details such as texture.  Perfect for stretching and framing with its superior stretchability and resistance to folding cra<br/><br/></p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_VExtY8",
-        "column_dUiYWB"
-      ],
-      "name": "Multicolumn",
-      "settings": {
-        "heading": "Canvas Stock",
-        "heading_left": false,
-        "description": "",
-        "full_width": true,
-        "display_type": "grid",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "text_alignment": "left",
-        "heading_size": "h5",
-        "mobile_swipe": false,
-        "show_progress_bar": true,
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": false
-      }
-    },
-    "spacer_7QWEJp": {
-      "type": "spacer",
-      "name": "Spacer",
-      "settings": {
-        "spacer_mobile": 50,
-        "spacer_desktop": 100,
-        "border_separator": true,
-        "border_separator_full": false
-      }
-    },
-    "multicolumn_CANF7n": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_F7HnBr": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "retina": true,
-            "title": "1. Prepare your File",
-            "text": "<p>The professional standard for file resolution is 300 dpi ( Dots Per Inch or Pixels Per Inch). We advise that you stick to this resolution and set your file up to your desired size.<br/><br/></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_VKUcpc": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "retina": true,
-            "title": "2. Save your file",
-            "text": "<p>We can print  from most file types; png, psd, jpeg, pdf or tiff. Our preferred file is tiff as it is a file type that holds the most information.  <br/><br/></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_cYUPBC": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "retina": true,
-            "title": "3. Upload your file",
-            "text": "<p>Upload your file by clicking the upload button in the <em>Print Your Own </em>service or provide a link to your files in the <em>Print Order Form</em>. </p><p>Still not sure how to set up your file or if your image is of a high enough quality to print? Don’t panic! Our team is always available to give you advice and help you get print ready. </p><p><a href=\"https://artandframingco.com.au/pages/contact-us\" target=\"_blank\">Contact us now</a></p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_F7HnBr",
-        "column_VKUcpc",
-        "column_cYUPBC"
-      ],
-      "name": "Multicolumn",
-      "settings": {
-        "heading": "Preparing your Artwork for Print",
-        "heading_left": false,
-        "description": "<p>Need something printed or printed and framed and unsure where or how to start? Use these steps below as a guide or contact our team. Whether over the phone, via email or a face to face consultation, our staff will be able to talk you through your options and help you get your project started.</p>",
-        "full_width": true,
-        "display_type": "grid",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "text_alignment": "left",
-        "heading_size": "h5",
-        "mobile_swipe": false,
-        "show_progress_bar": true,
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": false
-      }
-    },
-    "multicolumn_kQMnkL": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_NkTVLq": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "retina": true,
-            "title": "Production",
-            "text": "<p>Once we’ve received your files and your order has been finalized, we get to work. We aim to provide our customers with a speedy turn around but please be aware that we may be restricted by demand on our service or the nature of the stock used.  We do not offer same day printing as archival prints require a minimum of 24hrs to cure. If your order involves printing and framing, please allow an additional 2-3 for productio<br/><br/></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_MXJPQ8": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "retina": true,
-            "title": "Finishing",
-            "text": "<p>Prints orders are carefully rolled in acid free wrapping and tubed. Print and Frame orders are wrapped in bubble wrap for in-store pickups or boxed for shipping. Please let us know if you require shipping or if you intend to pick up in store so we can invoice and process your order accordingly. Once your order has been completed you will be notified by our team. <br/><br/></p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_NkTVLq",
-        "column_MXJPQ8"
-      ],
-      "name": "Multicolumn",
-      "settings": {
-        "heading": "What Happens Next",
-        "heading_left": false,
-        "description": "",
-        "full_width": true,
-        "display_type": "grid",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "text_alignment": "left",
-        "heading_size": "h5",
-        "mobile_swipe": false,
-        "show_progress_bar": true,
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": false
-      }
-    },
-    "spacer_J8xMwp": {
-      "type": "spacer",
-      "name": "Spacer",
-      "settings": {
-        "spacer_mobile": 0,
-        "spacer_desktop": 0,
-        "border_separator": true,
-        "border_separator_full": false
-      }
-    },
-    "rich_text_eWfFBV": {
+    "rich_text_KftKtY": {
       "type": "rich-text",
       "blocks": {
-        "heading_jewUNE": {
-          "type": "heading",
-          "settings": {
-            "text": "Print Handling & Care",
-            "size": "h3"
-          }
-        },
-        "text_dg3CgG": {
-          "type": "text",
-          "settings": {
-            "text": "<p> All our prints are handled with the utmost of care. From printing to packaging, our prints are scrutinized by our production team to ensure you receive a pristine product.   Your beautiful new print is very delicate and it is our recommendation that it should only be handled and removed from its packaging by your intended professional framer.   Any creases or imperfections are not the responsibility of ARTHOUSEco.</p>",
-            "custom_liquid": "",
-            "size": "text-size-regular"
-          }
-        }
-      },
-      "block_order": [
-        "heading_jewUNE",
-        "text_dg3CgG"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "section_width": "grid",
-        "text_width": "medium",
-        "text_position": "center",
-        "text_alignment": "center",
-        "color_bg": "rgba(0,0,0,0)",
-        "color_text": "#151515",
-        "color_links": "#151515",
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": false
-      }
-    },
-    "spacer_rVgmbw": {
-      "type": "spacer",
-      "name": "Spacer",
-      "settings": {
-        "spacer_mobile": 0,
-        "spacer_desktop": 0,
-        "border_separator": true,
-        "border_separator_full": false
-      }
-    },
-    "rich_text_DWVMYw": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_faQrYN": {
-          "type": "heading",
-          "settings": {
-            "text": "Order Your Prints",
-            "size": "h3"
-          }
-        },
-        "text_dgCwYW": {
-          "type": "text",
-          "settings": {
-            "text": "<p>There are many different ways to organize having your images, artwork and photographs professionally printed by us. We recommend our easy to use ONLINE PRINT SERVICE. For more complex jobs, email us at store@arthouseco.com.au or click on the ARTIST ORDER PORTAL link, fill out our form and our Print Team will get in touch.<br/><br/></p>",
-            "custom_liquid": "",
-            "size": "text-size-regular"
-          }
-        },
-        "button_hjcUYM": {
+        "button_rA8ydn": {
           "type": "button",
           "settings": {
-            "link_label": "ONLINE PRINT SERVICE",
-            "link": "shopify://products/print-only-service",
+            "link_label": "GET A QUOTE",
+            "link": "https://arthouseco.com.au/pages/request-a-quote",
             "button_outline": false
           }
-        },
-        "button_GE3nHN": {
-          "type": "button",
-          "settings": {
-            "link_label": "Artist order portal",
-            "link": "shopify://pages/artist-order-portal",
-            "button_outline": true
-          }
         }
       },
       "block_order": [
-        "heading_faQrYN",
-        "text_dgCwYW",
-        "button_hjcUYM",
-        "button_GE3nHN"
+        "button_rA8ydn"
       ],
       "name": "Rich text",
       "settings": {
@@ -583,10 +182,10 @@
         "text_width": "medium",
         "text_position": "center",
         "text_alignment": "center",
-        "color_bg": "rgba(0,0,0,0)",
+        "color_bg": "transparent",
         "color_text": "#151515",
         "color_links": "#151515",
-        "disable_top_spacing": false,
+        "disable_top_spacing": true,
         "disable_bottom_spacing": false
       }
     }
@@ -594,18 +193,9 @@
   "order": [
     "main",
     "image_with_text_iYGBUD",
-    "spacer_khtamT",
-    "rich_text_WAQQFH",
-    "image_with_text_Lz8rtU",
-    "multicolumn_JQBWdb",
-    "multicolumn_DYbka4",
-    "multicolumn_fg6cwp",
-    "spacer_7QWEJp",
-    "multicolumn_CANF7n",
-    "multicolumn_kQMnkL",
-    "spacer_J8xMwp",
-    "rich_text_eWfFBV",
-    "spacer_rVgmbw",
-    "rich_text_DWVMYw"
+    "rich_text_QPg7HR",
+    "spacer_fNRdJW",
+    "image_with_text_Hek49H",
+    "rich_text_KftKtY"
   ]
 }
