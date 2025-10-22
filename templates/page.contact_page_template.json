@@ -18,6 +18,37 @@
         "disable_bottom_spacing": false
       }
     },
+    "contact_form_KmynPt": {
+      "type": "contact-form",
+      "blocks": {
+        "text_ML7pCa": {
+          "type": "text",
+          "settings": {
+            "heading": "Visit Us",
+            "text": "<p><a href=\"https://maps.app.goo.gl/MnDCbMSGjvnXRM6N9\" target=\"_blank\" title=\"https://maps.app.goo.gl/MnDCbMSGjvnXRM6N9\">79 Sydenham Rd, Marrickville NSW 2204</a><br/>Monday to Friday 9am-5pm<br/>Saturday 10am-2pm<br/>Sunday CLOSED<br/></p>"
+          }
+        },
+        "text_zqXxCk": {
+          "type": "text",
+          "settings": {
+            "heading": "Contact Us",
+            "text": "<p><a href=\"https://www.google.com/search?q=arthouse+co+sydney&rlz=1C1CHBF_en-GBAU1085AU1085&oq=art&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIGCAEQRRg5MgwIAhAjGCcYgAQYigUyBggDEEUYPDIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMTkwNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#\">(02) 9516 1700</a><br/>store@arthouseco.com.au</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_ML7pCa",
+        "text_zqXxCk"
+      ],
+      "name": "Contact form",
+      "settings": {
+        "heading": "Get in Touch",
+        "description": "<p>Send as a message and our team will get back to you!</p>",
+        "show_phone_number": true,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
     "map_TKRb8W": {
       "type": "map",
       "blocks": {
@@ -50,42 +81,11 @@
         "disable_top_spacing": false,
         "disable_bottom_spacing": false
       }
-    },
-    "contact_form_KmynPt": {
-      "type": "contact-form",
-      "blocks": {
-        "text_ML7pCa": {
-          "type": "text",
-          "settings": {
-            "heading": "Visit Us",
-            "text": "<p><a href=\"https://maps.app.goo.gl/MnDCbMSGjvnXRM6N9\" target=\"_blank\" title=\"https://maps.app.goo.gl/MnDCbMSGjvnXRM6N9\">79 Sydenham Rd, Marrickville NSW 2204</a><br/>Monday to Friday 9am-5pm<br/>Saturday 10am-2pm<br/>Sunday CLOSED<br/></p>"
-          }
-        },
-        "text_zqXxCk": {
-          "type": "text",
-          "settings": {
-            "heading": "Contact Us",
-            "text": "<p><a href=\"https://www.google.com/search?q=arthouse+co+sydney&rlz=1C1CHBF_en-GBAU1085AU1085&oq=art&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIGCAEQRRg5MgwIAhAjGCcYgAQYigUyBggDEEUYPDIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMTkwNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#\">(02) 9516 1700</a><br/>store@arthouseco.com.au</p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_ML7pCa",
-        "text_zqXxCk"
-      ],
-      "name": "Contact form",
-      "settings": {
-        "heading": "Get in Touch",
-        "description": "<p>Send as a message and our team will get back to you!</p>",
-        "show_phone_number": true,
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": false
-      }
     }
   },
   "order": [
     "main",
-    "map_TKRb8W",
-    "contact_form_KmynPt"
+    "contact_form_KmynPt",
+    "map_TKRb8W"
   ]
 }
