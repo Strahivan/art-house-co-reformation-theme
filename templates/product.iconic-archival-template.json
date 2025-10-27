@@ -102,7 +102,7 @@
         "display_slider_pagination": true,
         "media_aspect_ratio": "adapt",
         "display_captions": false,
-        "hide_variants": true,
+        "hide_variants": false,
         "lightbox": true,
         "enable_video_looping": false
       }
