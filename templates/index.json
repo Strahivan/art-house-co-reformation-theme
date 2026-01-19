@@ -12,27 +12,27 @@
     "16479477632637c9a7": {
       "type": "slideshow",
       "blocks": {
-        "slide_htjMEi": {
+        "slide_8trLW9": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/BF_AHC_Vignette_Setting.jpg",
-            "mobile_image": "shopify://shop_images/Mobile_Banner_Vignette.jpg",
-            "slide_link": "shopify://collections/the-vignette-1",
+            "image": "shopify://shop_images/HM_2026_Slim_1000x2880_d48fe3ed-f366-4a93-8142-afdd18c775f3.jpg",
+            "mobile_image": "shopify://shop_images/HM_2026_Mobile_Banner.jpg",
+            "slide_link": "",
             "video_background": false,
             "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "subheading": "a touch of elegance & sophistication",
-            "heading": "The Vignette",
-            "heading_size": "h1-xlarge",
-            "content": "",
+            "subheading": "",
+            "heading": "New Releases",
+            "heading_size": "h1",
+            "content": "Browse our Latest Editions",
             "description_size": "medium",
             "content_position": "middle-center",
             "text_alignment": "center",
             "content_size": "medium",
             "overlay_color": "#000000",
-            "overlay_opacity": 65,
+            "overlay_opacity": 20,
             "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.4) 100%)",
-            "button_1_text": "SHOP STYLE",
-            "button_1_link": "shopify://collections/the-vignette-1",
+            "button_1_text": "SHOP NEW",
+            "button_1_link": "",
             "button_1_outline": true,
             "button_2_text": "",
             "button_2_link": "",
@@ -66,27 +66,27 @@
             "button_2_outline": false
           }
         },
-        "slide_8trLW9": {
+        "slide_htjMEi": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/AHC_Michelle_Slim_Banner_a4dc5540-2852-4351-80c2-99e75a582833.jpg",
-            "mobile_image": "shopify://shop_images/Tranquil_Reflections_Setting1_SQ.jpg",
-            "slide_link": "",
+            "image": "shopify://shop_images/BF_AHC_Vignette_Setting.jpg",
+            "mobile_image": "shopify://shop_images/Mobile_Banner_Vignette.jpg",
+            "slide_link": "shopify://collections/the-vignette-1",
             "video_background": false,
             "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "subheading": "",
-            "heading": "New Releases",
-            "heading_size": "h1",
-            "content": "Browse our Latest Editions",
+            "subheading": "a touch of elegance & sophistication",
+            "heading": "The Vignette",
+            "heading_size": "h1-xlarge",
+            "content": "",
             "description_size": "medium",
             "content_position": "middle-center",
             "text_alignment": "center",
             "content_size": "medium",
             "overlay_color": "#000000",
-            "overlay_opacity": 20,
+            "overlay_opacity": 65,
             "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.4) 100%)",
-            "button_1_text": "SHOP NEW",
-            "button_1_link": "",
+            "button_1_text": "SHOP STYLE",
+            "button_1_link": "shopify://collections/the-vignette-1",
             "button_1_outline": true,
             "button_2_text": "",
             "button_2_link": "",
@@ -95,16 +95,16 @@
         }
       },
       "block_order": [
-        "slide_htjMEi",
+        "slide_8trLW9",
         "slide_x9R7LL",
-        "slide_8trLW9"
+        "slide_htjMEi"
       ],
       "settings": {
         "desktop_height": "desktop-height-450",
         "mobile_height": "mobile-height-400",
         "full_width": true,
         "autoplay": true,
-        "autoplay_length": 10,
+        "autoplay_length": 7,
         "transition": "swipe",
         "disable_top_spacing": true,
         "disable_bottom_spacing": true
