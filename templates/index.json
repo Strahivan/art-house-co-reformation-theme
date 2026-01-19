@@ -76,7 +76,7 @@
             "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "subheading": "",
             "heading": "New Releases",
-            "heading_size": "h1-xlarge",
+            "heading_size": "h1",
             "content": "Browse our Latest Editions",
             "description_size": "medium",
             "content_position": "middle-center",
@@ -474,11 +474,11 @@
     "featured_collection_LhFnNH": {
       "type": "featured-collection",
       "settings": {
-        "heading": "Ekaterina Zagorska",
+        "heading": "Bella Eve",
         "heading_left": false,
         "description": "",
         "full_width": true,
-        "collection": "ekaterina-zagorska",
+        "collection": "bella-eve",
         "display_type": "carousel",
         "product_limit": 12,
         "columns_desktop": 4,
