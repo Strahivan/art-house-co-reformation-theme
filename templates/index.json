@@ -311,7 +311,7 @@
     "166366563622039b3e": {
       "type": "featured-collection",
       "settings": {
-        "heading": "Hayley Michelle",
+        "heading": "Latest by Hayley Michelle",
         "heading_left": false,
         "description": "",
         "full_width": true,
@@ -329,7 +329,7 @@
     "featured_collection_7PETD6": {
       "type": "featured-collection",
       "settings": {
-        "heading": "Alexandra Plim",
+        "heading": "Featured Artist | Alexandra Plim",
         "heading_left": false,
         "description": "",
         "full_width": true,
@@ -347,32 +347,6 @@
     "slideshow_TFtfBD": {
       "type": "slideshow",
       "blocks": {
-        "slide_8VppWK": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Banners_Slim_1000x2880_aa0e0a38-f748-43bd-b312-6c56fadefe45.jpg",
-            "slide_link": "shopify://collections/ekaterina-zagorska",
-            "video_background": false,
-            "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "subheading": "Illustrator & fine artist",
-            "heading": "Ekaterina Zagorska",
-            "heading_size": "h1-xlarge",
-            "content": "\"I’m a Bulgarian artist. I observe.\"",
-            "description_size": "small",
-            "content_position": "middle-center",
-            "text_alignment": "center",
-            "content_size": "large",
-            "overlay_color": "#000000",
-            "overlay_opacity": 20,
-            "overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.4) 100%)",
-            "button_1_text": "browse collection",
-            "button_1_link": "shopify://collections/ekaterina-zagorska",
-            "button_1_outline": true,
-            "button_2_text": "",
-            "button_2_link": "",
-            "button_2_outline": false
-          }
-        },
         "slide_xk8TPn": {
           "type": "slide",
           "settings": {
@@ -455,7 +429,6 @@
         }
       },
       "block_order": [
-        "slide_8VppWK",
         "slide_xk8TPn",
         "slide_TrhBBf",
         "slide_DpWBJq"
@@ -474,11 +447,11 @@
     "featured_collection_LhFnNH": {
       "type": "featured-collection",
       "settings": {
-        "heading": "Bella Eve",
+        "heading": "Featured Artist | Dan Hobday",
         "heading_left": false,
         "description": "",
         "full_width": true,
-        "collection": "bella-eve",
+        "collection": "dan-hobday",
         "display_type": "carousel",
         "product_limit": 12,
         "columns_desktop": 4,
@@ -492,7 +465,7 @@
     "featured_collection_3FKtUx": {
       "type": "featured-collection",
       "settings": {
-        "heading": "Featured Collection",
+        "heading": "Featured Collection | Ombré",
         "heading_left": false,
         "description": "",
         "full_width": true,
@@ -577,7 +550,7 @@
         "text_eQGWyG"
       ],
       "settings": {
-        "image": "shopify://shop_images/Custom_Smaller_72f25a3f-3274-4949-bd24-58c062e636cd.jpg",
+        "image": "shopify://shop_images/Custom_Square.jpg",
         "use_video": false,
         "video": "",
         "video_autoplay": true,
@@ -617,7 +590,7 @@
         "text_nwKwzA"
       ],
       "settings": {
-        "image": "shopify://shop_images/Brown_Tube_Canvas_Print_1_smaller.jpg",
+        "image": "shopify://shop_images/Brown_Tube_Canvas_Print_1_smaller_Square.jpg",
         "use_video": false,
         "video": "",
         "video_autoplay": true,
