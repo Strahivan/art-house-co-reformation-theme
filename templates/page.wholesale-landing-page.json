@@ -66,6 +66,16 @@
         "disable_bottom_spacing": false
       }
     },
+    "spacer_pH8K3x": {
+      "type": "spacer",
+      "name": "Spacer",
+      "settings": {
+        "spacer_mobile": 50,
+        "spacer_desktop": 50,
+        "border_separator": true,
+        "border_separator_full": false
+      }
+    },
     "multicolumn_6Drnan": {
       "type": "multicolumn",
       "blocks": {
@@ -483,6 +493,7 @@
   "order": [
     "main",
     "image_with_text_cQcRwR",
+    "spacer_pH8K3x",
     "multicolumn_6Drnan",
     "rich_text_hxrMBF",
     "gallery_NKcgKG",
