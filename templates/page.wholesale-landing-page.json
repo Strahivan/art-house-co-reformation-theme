@@ -188,7 +188,7 @@
         "subheading_gijGwK",
         "heading_jBDKfh"
       ],
-      "name": "Rich text",
+      "name": "Collections Heading",
       "settings": {
         "section_width": "grid",
         "text_width": "medium",
@@ -252,7 +252,7 @@
         "image_zxPQQH",
         "image_kLHQHb"
       ],
-      "name": "Gallery",
+      "name": "Collections",
       "settings": {
         "columns_desktop": 3,
         "section_width": "grid",
@@ -289,7 +289,7 @@
         "subheading_j4AiaN",
         "heading_WK7NcC"
       ],
-      "name": "Rich text",
+      "name": "Artists Heading",
       "settings": {
         "section_width": "grid",
         "text_width": "medium",
@@ -353,7 +353,7 @@
         "image_c3deRz",
         "image_hpdtNT"
       ],
-      "name": "Gallery",
+      "name": "Artists",
       "settings": {
         "columns_desktop": 3,
         "section_width": "grid",
@@ -399,7 +399,7 @@
         "heading_TbtGEH",
         "text_rKHy3c"
       ],
-      "name": "Rich text",
+      "name": "Register Heading",
       "settings": {
         "section_width": "grid",
         "text_width": "medium",
@@ -466,7 +466,7 @@
       "block_order": [
         "text_nhTaLk"
       ],
-      "name": "Rich text",
+      "name": "Disclaimer",
       "settings": {
         "section_width": "grid",
         "text_width": "medium",
