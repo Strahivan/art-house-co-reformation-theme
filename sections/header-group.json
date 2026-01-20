@@ -61,7 +61,7 @@
           "type": "megamenu",
           "name": "New Releases",
           "settings": {
-            "position": "1",
+            "position": "2",
             "promo_1_image": "shopify://shop_images/Soft_Horizon_Setting_cc78580b-8c2a-4a69-bfd6-1abfb6a3c952.jpg",
             "promo_1_heading": "LATEST ADDITIONS",
             "promo_1_link_label": "BROWSE NEW RELEASES",
@@ -81,7 +81,7 @@
           "type": "megamenu",
           "name": "Shop Artist",
           "settings": {
-            "position": "2",
+            "position": "3",
             "promo_1_image": "shopify://shop_images/Mega_Menu_DX.jpg",
             "promo_1_heading": "Featured Artist",
             "promo_1_link_label": "DANIELLE X",
