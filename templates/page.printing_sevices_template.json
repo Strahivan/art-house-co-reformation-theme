@@ -269,7 +269,8 @@
         "column_w3QjHh": {
           "type": "column",
           "settings": {
-            "image_full_width": false,
+            "image": "shopify://shop_images/ilford_metallic_stock.jpg",
+            "image_full_width": true,
             "retina": true,
             "title": "ILFORD GALERIE Metallic Gloss | 260gsm ",
             "text": "<p> A premium stock with a unique iridium finish that gives every image a three-dimensional look ensuring that each print truly comes to life. </p><p> This resin coated paper is 260gsm and is suitable for creating display and exhibition prints or alternatively prints can be added to photo albums or portfolio work to create additional impact.   Although the media adds an additional creative angle to portrait and studio photography, it also lends itself perfectly to enhancing mechanical, industrial or architectural images.</p>",
@@ -280,10 +281,23 @@
         "column_WWqafU": {
           "type": "column",
           "settings": {
-            "image_full_width": false,
+            "image": "shopify://shop_images/ilford_gold_gloss_stock_00edd2ca-f797-4548-aa26-dc32db7bb76b.jpg",
+            "image_full_width": true,
             "retina": true,
             "title": "ILFORD GALERIE Gold Fibre Gloss | 310gsm",
             "text": "<p>An ultra-smooth, super white, high gloss stock that has the look and feel of a traditional silver halide photo paper. A throwback to a bygone era, this traditional fibre-base photo paper is ideal for high quality black and white printing and offers an exceptional wide gamut for color, detail and tonality. In developing GALERIE Gold Fibre Gloss, ILFORD has taken into account all the elements that make the perfect traditional photo paper, reminiscent of papers produced for the darkroom. With no optical brighteners, and a seamless transition between contrast, shadow detail and highlight areas, this stunning addition to the GALERIE range is a sure winner with fine artists and photographers alike.<br/><br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_CRfWc6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/HM_baryta_stock.jpg",
+            "image_full_width": true,
+            "retina": true,
+            "title": "HAHNEMÜHLE Photo Rag Baryta | 315gsm",
+            "text": "<p>A bright white, cellulose-based FineArt inkjet paper with an inkjet coating specially tailored for FineArt use. Theclearly visible, exquisite felt structure lends the paper its lovely soft feel and tactile surface texture to produce printswith a stunning three-dimensional quality and depth. The high-gloss premium inkjet coating guaranteesoutstanding print results with perfect reproduction of colour and detail, deep blacks and striking contrasts. Thebarium sulphate within the coating gives FineArt Baryta the feel of a traditional analogue baryta paper and makesit a popular alternative for inkjet printing. The acid- and lignin-free FineArt inkjet paper meets the most exactingrequirements for age resistance. FineArt Baryta is a versatile classic for FineArt applications and sets standards inthe printing of both black and white and colour photographs.<br/><br/></p>",
             "link_label": "",
             "link": ""
           }
@@ -293,7 +307,8 @@
         "column_X7RafG",
         "column_Vp6i6R",
         "column_w3QjHh",
-        "column_WWqafU"
+        "column_WWqafU",
+        "column_CRfWc6"
       ],
       "name": "Gloss Paper",
       "settings": {
@@ -330,7 +345,7 @@
         "column_dUiYWB": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Rolled_Canvas_Roll_Out2_smaller.jpg",
+            "image": "shopify://shop_images/ilford_canvas_stock.jpg",
             "image_full_width": true,
             "retina": true,
             "title": "ILFORD Décor Canvas Bright White | 380gsm",
@@ -436,7 +451,8 @@
         "column_NkTVLq": {
           "type": "column",
           "settings": {
-            "image_full_width": false,
+            "image": "shopify://shop_images/print_production.jpg",
+            "image_full_width": true,
             "retina": true,
             "title": "Production",
             "text": "<p>Once we’ve received your files and your order has been finalized, we get to work. We aim to provide our customers with a speedy turn around but please be aware that we may be restricted by demand on our service or the nature of the stock used.  We do not offer same day printing as archival prints require a minimum of 24hrs to cure. If your order involves printing and framing, please allow an additional 2-3 for productio<br/><br/></p>",
@@ -447,7 +463,8 @@
         "column_MXJPQ8": {
           "type": "column",
           "settings": {
-            "image_full_width": false,
+            "image": "shopify://shop_images/tube_send.jpg",
+            "image_full_width": true,
             "retina": true,
             "title": "Finishing",
             "text": "<p>Prints orders are carefully rolled in acid free wrapping and tubed. Print and Frame orders are wrapped in bubble wrap for in-store pickups or boxed for shipping. Please let us know if you require shipping or if you intend to pick up in store so we can invoice and process your order accordingly. Once your order has been completed you will be notified by our team. <br/><br/></p>",
