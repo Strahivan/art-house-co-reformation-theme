@@ -49,7 +49,7 @@
       ],
       "name": "Image with text",
       "settings": {
-        "image": "shopify://shop_images/Print_Your_own_skater.jpg",
+        "image": "shopify://shop_images/Print_Only_Portrait_Home_Page3.jpg",
         "use_video": false,
         "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "video_autoplay": true,
@@ -157,7 +157,8 @@
         "column_WnEVJz": {
           "type": "column",
           "settings": {
-            "image_full_width": false,
+            "image": "shopify://shop_images/phot_matt_stock.jpg",
+            "image_full_width": true,
             "retina": true,
             "title": "Photo Matte Paper | 240gsm    ",
             "text": "<p>A beautiful uncoated matte finish stock that allows high ink absorption, perfect for letting the natural quality of an image to speak for itself. True to colour, this product is popular with both artists and galleries and is a personal favourite of The Art and Framing Company.<br/></p>",
@@ -168,7 +169,8 @@
         "column_QhkC3P": {
           "type": "column",
           "settings": {
-            "image_full_width": false,
+            "image": "shopify://shop_images/HM_stock.jpg",
+            "image_full_width": true,
             "retina": true,
             "title": "Hahnemuhle Photo Rag Ultra Smooth | 305gsm",
             "text": "<p> An especially smooth and silky soft paper for high-quality FineArt inkjet printing. The white cotton art paper has a discreet, very finely textured surface with a strikingly silky feel. The matte premium inkjet coating guarantees extraordinary print results with impressive reproduction of colour, detail and very deep black. Photo Rag® Ultra Smooth is versatile and produces impressive results for FineArt photography as well as art reproductions. The acid- and lignin-free all-rounder meets the most exacting requirements in terms of age resistance and is perfect for high-quality black and white FineArt prints.<br/><br/></p>",
@@ -176,24 +178,26 @@
             "link": ""
           }
         },
-        "column_BBBQrV": {
+        "column_QdCGKe": {
           "type": "column",
           "settings": {
-            "image_full_width": false,
+            "image": "shopify://shop_images/ilford_smooth_stock.png",
+            "image_full_width": true,
             "retina": true,
-            "title": "Hahnemuhle Photo Rag Baryta | 315gsm",
-            "text": "<p> A pure cotton paper with an inkjet coating that has been perfectly optimised for the needs of FineArt applications. The natural white paper comes in a pleasant, warm shade of white and contains no optical brighteners. The exquisite surface texture gives the paper a lovely, delicate feel while at the same time lending it an artistic note. In combination with the high-gloss premium inkjet coating, it produces stunning print results with outstanding reproduction of colour and detail, deep blacks and perfect contrasts. The barium sulphate in the coating makes Photo Rag® Baryta a popular alternative to analogue baryta paper. The combination of the cotton artist paper and the high-gloss inkjet coating lends FineArt prints a striking character with a beautiful, elegant sheen, without glare. Photo Rag® Baryta is acid- and lignin-free and meets the most exacting requirements in terms of age resistance.<br/><br/></p>",
+            "title": "ILFORD Smooth Cotton Rag | 310gsm",
+            "text": "<p>Smooth Cotton Rag is offered as the perfect choice for<br/>crisp detail.</p><p>The new GALERIE 100% Cotton fourdriner-made rag<br/>papers lead the way within the range in meeting the<br/>needs of professional fine art printers. Photographers<br/>and print-makers alike can rely on these new papers to<br/>produce the highest quality images they have come to<br/>know and love from ILFORD. With no optical brighteners<br/>and the longevity, image stability and a clean matt<br/>surface required for the very best in fine art printing.</p>",
             "link_label": "",
             "link": ""
           }
         },
-        "column_pU9QqN": {
+        "column_iCPhMz": {
           "type": "column",
           "settings": {
-            "image_full_width": false,
+            "image": "shopify://shop_images/ilford_textured_rag_stock.png",
+            "image_full_width": true,
             "retina": true,
-            "title": "Hahnemuhle Fineart Baryta | 325gsm",
-            "text": "<p>A bright white, cellulose-based FineArt inkjet paper with an inkjet coating specially tailored for FineArt use. The clearly visible, exquisite felt structure lends the paper its lovely soft feel and tactile surface texture to produce prints with a stunning three-dimensional quality and depth. The high-gloss premium inkjet coating guarantees outstanding print results with perfect reproduction of colour and detail, deep blacks and striking contrasts. The barium sulphate within the coating gives FineArt Baryta the feel of a traditional analogue baryta paper and makes it a popular alternative for inkjet printing. The acid- and lignin-free FineArt inkjet paper meets the most exacting requirements for age resistance. FineArt Baryta is a versatile classic for FineArt applications and sets standards in the printing of both black and white and colour photographs.<br/><br/></p>",
+            "title": "ILFORD Textured Cotton Rag | 310gsm",
+            "text": "<p>Textured Cotton range features a contoured surface for<br/>enhanced creative expression.</p><p>The new GALERIE 100% Cotton fourdriner-made rag<br/>papers lead the way within the range in meeting the<br/>needs of professional fine art printers. Photographers<br/>and print-makers alike can rely on these new papers to<br/>produce the highest quality images they have come to<br/>know and love from ILFORD. With no optical brighteners<br/>and the longevity, image stability and a clean matt<br/>surface required for the very best in fine art printing.</p>",
             "link_label": "",
             "link": ""
           }
@@ -201,21 +205,11 @@
         "column_wdWnMQ": {
           "type": "column",
           "settings": {
-            "image_full_width": false,
+            "image": "shopify://shop_images/HM_german_etch_stock.jpg",
+            "image_full_width": true,
             "retina": true,
-            "title": " Hahnemuhle German Etching (Textured) | 310gsm",
+            "title": "Hahnemuhle German Etching (Textured) | 310gsm",
             "text": "<p>A traditional mould-made copperplate printing paper, complete with an inkjet coating designed especially for FineArt applications. The white art paper made from 100% alpha cellulose is characterised by its extraordinary velvety tactile feel and its fine, clearly defined felt structure. The unique surface texture adds a very special touch to images, showcasing them in all their splendour with impressive three-dimensional effect and depth. The premium matt inkjet coating guarantees outstanding print results with excellent reproduction of colour and detail, deep black and optimum contrasts. German Etching is acid- and lignin-free and meets the most exacting requirements in terms of age resistance. This heavyweight FineArt inkjet paper is one of the most popular paper for FineArt prints and art reproductions thanks to its characteristic tactile feel and surface texture<br/><br/></p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_9jVTEm": {
-          "type": "column",
-          "settings": {
-            "image_full_width": false,
-            "retina": true,
-            "title": "Hahnemuhle Photo Rag Satin | 310gsm",
-            "text": "<p>An exceptional highlight to the Photo Rag® range and lends FineArt prints a highly individual character. The white cotton paper features the classic Photo Rag® surface with a delicate felt structure and a beautifully soft feel. In combination with the satin-gloss premium inkjet coating, it produces outstanding prints with a beautiful sense of depth and three-dimensional quality. Colours and details are perfectly reproduced, the depth of the black truly stands out and contrasts are reproduced with stunning effect. Photo Rag® Satin is characterised by its very unique coating. The printed areas have a soft sheen, while the unprinted areas remain matt to beautifully accentuate brilliance. Photo Rag® Satin is acid- and lignin-free which meet the most exacting requirements in terms of age resistance.<br/><br/></p>",
             "link_label": "",
             "link": ""
           }
@@ -224,12 +218,11 @@
       "block_order": [
         "column_WnEVJz",
         "column_QhkC3P",
-        "column_BBBQrV",
-        "column_pU9QqN",
-        "column_wdWnMQ",
-        "column_9jVTEm"
+        "column_QdCGKe",
+        "column_iCPhMz",
+        "column_wdWnMQ"
       ],
-      "name": "Multicolumn",
+      "name": "Matt Paper",
       "settings": {
         "heading": "Matt Paper Stock",
         "heading_left": false,
@@ -252,7 +245,8 @@
         "column_X7RafG": {
           "type": "column",
           "settings": {
-            "image_full_width": false,
+            "image": "shopify://shop_images/ilford_satin_stock.jpg",
+            "image_full_width": true,
             "retina": true,
             "title": "ILFORD GALERIE Satin Photo | 260gsm",
             "text": "<p>With a subtle satin sheen, this stock is perfect for clarity and depth of colour.  </p><p> GALERIE Satin Photo 260gsm is a heavy weight, high quality inkjet photo paper offering accurate reproductive qualities, extended longevity and a robust surface for exceptional yet durable prints. As with its gloss equivalent, this paper is created using the very latest universal inkjet coating technology. The satin surface is perfect for every type of image genre from stunning portraits and scenic landscapes to wildlife.</p>",
@@ -263,7 +257,8 @@
         "column_Vp6i6R": {
           "type": "column",
           "settings": {
-            "image_full_width": false,
+            "image": "shopify://shop_images/ilford_gloss_stock.jpg",
+            "image_full_width": true,
             "retina": true,
             "title": "ILFORD GALERIE Glossy Photo | 260gsm",
             "text": "<p>This high gloss stock is perfect for images that require vivid colours and intense blacks.  </p><p> GALERIE Glossy Photo 260gsm is a heavy weight, high quality inkjet photo paper offering accurate reproductive qualities, extended longevity and a robust surface for exceptional yet durable prints. As with its lustre equivalent, this paper is created using the very latest universal inkjet coating technology. The gloss surface is perfect for every type of image genre from stunning mono conversions, abstracts, macros or architecture.</p>",
@@ -300,7 +295,7 @@
         "column_w3QjHh",
         "column_WWqafU"
       ],
-      "name": "Multicolumn",
+      "name": "Gloss Paper",
       "settings": {
         "heading": "Gloss. Satin & Metallics",
         "heading_left": false,
@@ -323,7 +318,8 @@
         "column_VExtY8": {
           "type": "column",
           "settings": {
-            "image_full_width": false,
+            "image": "shopify://shop_images/Rolled_Canvas_Roll_Out3_Smaller.jpg",
+            "image_full_width": true,
             "retina": true,
             "title": "Hahnemuhle Daguerre Canvas Matt | 400gm ",
             "text": "<p>A matt coated, poly-cotton inkjet canvas with a fine, uniform surface texture. The bright white canvas is characterised by its high degree of whiteness. When combined with the premium matt inkjet coating, it produces clean, fresh colours, fine details and black and white reproductions that are rich in contrast. Daguerre Canvas is acid- and lignin-free and meets the most exacting requirements in terms of age resistance. Despite its high grammage, the canvas has excellent stretch properties and is ideal for mounting on canvas stretcher frames.<br/><br/></p>",
@@ -334,7 +330,8 @@
         "column_dUiYWB": {
           "type": "column",
           "settings": {
-            "image_full_width": false,
+            "image": "shopify://shop_images/Rolled_Canvas_Roll_Out2_smaller.jpg",
+            "image_full_width": true,
             "retina": true,
             "title": "ILFORD Décor Canvas Bright White | 380gsm",
             "text": "<p>ILFORD GALERIE Décor Canvas Bright White is a cotton/polyester blend canvas with a bright white tint designed to offer high performance professional photographic and décor art reproduction. The matt structure of the surface produces a more decorative effect by enhancing details such as texture.  Perfect for stretching and framing with its superior stretchability and resistance to folding cra<br/><br/></p>",
@@ -347,7 +344,7 @@
         "column_VExtY8",
         "column_dUiYWB"
       ],
-      "name": "Multicolumn",
+      "name": "Canvas Stock",
       "settings": {
         "heading": "Canvas Stock",
         "heading_left": false,
