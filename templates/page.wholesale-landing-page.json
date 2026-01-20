@@ -150,12 +150,12 @@
         "column_WMPc8P",
         "column_hiLhdz"
       ],
-      "name": "Multicolumn",
+      "name": "Benefits",
       "settings": {
         "heading": "Your Benefits",
         "heading_left": false,
         "description": "<p>Discover the VIP treatment you unlock when you become an Arthouse co Wholesale/Trade member.</p>",
-        "full_width": true,
+        "full_width": false,
         "display_type": "grid",
         "image_ratio": "square",
         "columns_desktop": 3,
