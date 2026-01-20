@@ -17,7 +17,7 @@
         "5b1ab378-833d-4a94-a02e-8325ec1551d0": {
           "type": "text",
           "settings": {
-            "icon": "box",
+            "icon": "none",
             "text": "FREE SHIPPING AUSTRALIA WIDE",
             "link": ""
           }
@@ -25,7 +25,7 @@
         "text_9MRW9b": {
           "type": "text",
           "settings": {
-            "icon": "map_pin",
+            "icon": "none",
             "text": "AUSTRALIAN OWNED & OPERATED",
             "link": ""
           }
@@ -33,7 +33,7 @@
         "text_MiTzVM": {
           "type": "text",
           "settings": {
-            "icon": "heart",
+            "icon": "none",
             "text": "MADE TO ORDER",
             "link": ""
           }
