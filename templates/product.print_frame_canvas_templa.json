@@ -139,8 +139,8 @@
           "settings": {
             "heading": "Sizing",
             "open": false,
-            "content": "",
-            "page": "general-print-collection-size-guide",
+            "content": "<p>Please note* the above sizes refers to the <strong>Canvas Size</strong>. Please see below for Framed <strong>Canvas Size:</strong></p><p>50 x 50cm = 53 x 53cm framed</p><p>60 x 60cm = 63 x 63cm framed</p><p>70 x 70cm = 73 x 73cm framed</p><p>80 x 80cm = 83 x 83cm framed</p><p>90 x 90cm = 93 x 93cm framed</p><p>100 x  100cm = 103 x 103cm framed</p><p></p><p>60 x 90cm = 63 x 93cm framed</p><p>70 x 100cm = 73 x 103cm framed</p><p>80 x 110cm = 83 x 113cm framed</p><p>90 x 130cm = 93 x 133cm framed</p><p>100 x 150cm = 103 x 153cm framed</p>",
+            "page": "",
             "custom_liquid": ""
           }
         },
