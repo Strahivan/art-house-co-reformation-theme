@@ -32,6 +32,17 @@
             "custom_liquid": ""
           }
         },
+        "collapsible_tab_LmJG4X": {
+          "type": "collapsible_tab",
+          "name": "What we do",
+          "settings": {
+            "heading": "What we do",
+            "open": false,
+            "content": "<p>We are one of the leading Picture Framers and Art Curators in Sydney with decades of experience working with Artist and Industry Professionals. </p><p>We are experts in all facets of Archival, Gallery Grade Printing and Framing as well as Art Curation and Styling.</p><p>Here are just a few of our areas of expertise:</p><ul><li>Custom Framing</li><li>Canvas Stretching</li><li>Gallery Grade Printing</li><li>Art Curation & Consultations</li><li>Art Installation & Styling</li></ul><p>All printing and framing is completed on site in our Sydney workshop using only high grade, sustainably sourced materials.</p><p></p><p></p>",
+            "page": "",
+            "custom_liquid": ""
+          }
+        },
         "collapsible_tab_fHNEyt": {
           "type": "collapsible_tab",
           "name": "Get in Touch",
@@ -39,17 +50,6 @@
             "heading": "How to Get in Touch",
             "open": false,
             "content": "<p>Got a question or want to say hello?Reach us on (02) 9516 1700 or drop us a line at store@arthouseco.com.au — our friendly team will be happy to help.</p>",
-            "page": "",
-            "custom_liquid": ""
-          }
-        },
-        "collapsible_tab_LmJG4X": {
-          "type": "collapsible_tab",
-          "name": "What we do",
-          "settings": {
-            "heading": "What we do",
-            "open": false,
-            "content": "<p>We are one of the leading Picture Framers and Art Curators in Sydney with decades of experience working with local and international Artist and Industry Professionals. </p><p>We are experts in all facets of Archival, Gallery Grade Printing and Framing as well as Art Curation and Styling.</p><p>Here are just a few of our areas of expertise:</p><ul><li>Custom Framing</li><li>Canvas Stretching</li><li>Gallery Grade Printing</li><li>Art Curation & Consultations</li><li>Art Installation & Styling</li></ul><p>All printing and framing is completed on site in our Sydney workshop using only high grade, sustainably sourced materials.</p><p></p><p></p>",
             "page": "",
             "custom_liquid": ""
           }
@@ -71,7 +71,7 @@
           "settings": {
             "heading": "I have put an order through online. What happens next?",
             "open": false,
-            "content": "<p>Once your order is placed, our processing team reviews it before sending it to production, where our skilled framers and printers begin creating your piece. Production typically takes 5–14 business days, depending on the complexity of your order.</p><ul><li>Print Orders: Ship approximately 5 business days from the order date.</li><li>Framed Orders: Ship approximately 14 business days from the order date.</li><li>Specialist Products (including Artist Print Collections): Allow 2–4 weeks for delivery within Australia, and approximately 4 weeks for international destinations.</li></ul><p>All products are made to order in-house using locally sourced materials, and turnaround times may vary depending on material availability.</p>",
+            "content": "<p>Our processing team will review your order before sending it to our workshop, where our skilled framers and printers begin creating your piece. </p><p>Production typically takes 5–14 business days, depending on the complexity of your order.</p><p>All products are made to order in-house using locally sourced materials, and turnaround times may vary depending on material availability.</p>",
             "page": "",
             "custom_liquid": ""
           }
@@ -93,7 +93,7 @@
           "settings": {
             "heading": "How long will my order take?",
             "open": false,
-            "content": "<p>All products are made to order, in-house using locally sourced materials and have a production time of between 5-14 working days not including delivery. Please be aware, turnaround time can be subject to delays related to availability of materials. </p><p><em>Print orders</em> ship approximately 5 business days from the order date.</p><p><em>Frame orders </em>ship approximately 14 business days from the order date. </p><p>Specialist products, such as our <em>Artist Print Collections</em> take approximately 2-4 weeks for delivery in Australia and approximately 4 weeks for international destinations.</p><p>Shipping times vary depending on your location. Please allow 1-3 days for delivery in Sydney Metro areas and 5-7 for interstate and rural areas. </p><p>Don't hesitate to contact us if your order is time sensitive and we will do our best to accommodate.</p>",
+            "content": "<p>All products are made to order, in-house using locally sourced materials and have a production time of between 5-14 working days not including delivery. Please be aware, turnaround time can be subject to delays related to availability of materials. </p><p><em>Print orders</em> ship approximately 5 business days from the order date.</p><p><em>Frame orders </em>ship approximately 14 business days from the order date. </p><p>Specialist products, such as our <em>Artist Print Collections</em> take approximately 2-4 weeks for delivery in Australia and approximately 4 weeks for international destinations.</p><p>Shipping times vary depending on your location. Please allow 1-3 days for delivery in Sydney Metro areas and 5-7 for interstate and rural areas. </p><p>If your order is time-sensitive, please contact us — we’ll do our utmost to accommodate your deadline.</p>",
             "page": "",
             "custom_liquid": ""
           }
@@ -104,7 +104,7 @@
           "settings": {
             "heading": "Do you provide custom framing?",
             "open": false,
-            "content": "<p>Absolutely. We frame it all — jerseys, memorabilia, photographic prints, art prints, and mirrors. There’s no framing project too specific or unusual for our experienced team.</p><p>Learn More about our <a href=\"https://arthouseco.com.au/pages/custom-framing-services\" target=\"_blank\" title=\"Custom Framing Services\">Custom Framing Services</a></p><p>or <a href=\"https://arthouseco.com.au/pages/request-a-quote\" target=\"_blank\" title=\"Request a Quote\">Request a Quote</a></p>",
+            "content": "<p>Absolutely. We frame it all — jerseys, memorabilia, photographic prints, art prints, and mirrors. There’s no framing project too specific or unusual for our experienced team.</p><p>Learn More about our <a href=\"https://arthouseco.com.au/pages/custom-framing-services\" target=\"_blank\" title=\"Custom Framing Services\">Custom Framing Services </a>or <a href=\"https://arthouseco.com.au/pages/request-a-quote\" target=\"_blank\" title=\"Request a Quote\">Request a Quote</a></p>",
             "page": "",
             "custom_liquid": ""
           }
@@ -126,7 +126,7 @@
           "settings": {
             "heading": "Do You Offer Styling Services?",
             "open": false,
-            "content": "<p>We sure do. Our team of artwork curators and advisors can help you style your space with ease.</p><p>We also offer a complimentary Mockup Service to all clients — you can access this service <a href=\"https://arthouseco.com.au/pages/mock-up-service\" title=\"FREE Mockup Service\">HERE</a></p>",
+            "content": "<p>We sure do! Our team of artwork curators and advisors can help you style your space with ease.</p><p>We also offer a complimentary Mockup Service to all clients — you can access this service <a href=\"https://arthouseco.com.au/pages/mock-up-service\" title=\"FREE Mockup Service\">HERE</a></p>",
             "page": "",
             "custom_liquid": ""
           }
@@ -145,8 +145,8 @@
       },
       "block_order": [
         "collapsible_tab_yJnAbM",
-        "collapsible_tab_fHNEyt",
         "collapsible_tab_LmJG4X",
+        "collapsible_tab_fHNEyt",
         "collapsible_tab_fw7VaN",
         "collapsible_tab_AggGnn",
         "collapsible_tab_DGaR6y",
