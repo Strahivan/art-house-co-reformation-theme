@@ -103,7 +103,7 @@
         "enable_sticky_info": true,
         "enable_sticky_add_to_cart": true,
         "show_taxes_included": false,
-        "media_layout": "thumbnails",
+        "media_layout": "collage",
         "display_slider_pagination": true,
         "media_aspect_ratio": "adapt",
         "display_captions": false,
@@ -139,7 +139,7 @@
           "settings": {
             "heading": "Border Option",
             "open": false,
-            "content": "<p>Vignettes are framed with a generous matboard border.</p><p>Please see below to find out the size your image/photo:</p><p>30x30cm  = 12x12cm Image Size</p><p>40x40cm  = 17x17cm Image Size</p><p>50x50cm = 20x20cm Image Size</p><p>60x60cm  = 25x25cm Image Size</p><p>70x70cm  = 30x30cm Image Size<br/><br/></p>",
+            "content": "<p>Vignettes are framed with a generous matboard border.</p><p>Please see below to find out the size of your image/photo:</p><p>30x30cm  = 12x12cm Image Size</p><p>40x40cm  = 17x17cm Image Size</p><p>50x50cm = 20x20cm Image Size</p><p>60x60cm  = 25x25cm Image Size</p><p>70x70cm  = 30x30cm Image Size<br/><br/></p>",
             "page": "",
             "custom_liquid": ""
           }
