@@ -137,9 +137,9 @@
         "collapsible_tab_UAGWbF": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Border Option",
+            "heading": "'Bottom Heavy' Borders",
             "open": false,
-            "content": "<p>Framed Prints come with the option to add a <em>Print Border</em> around your image.</p><p>Canvas products are printed without a border, or 'edge to edge', where the image meets the edge of the canvas.</p>",
+            "content": "<p>Our 'Bottom Heavy' prints come with a Print Border around the image that is slimmer on the top and sides and thicker at the bottom, giving it that modern look.</p>",
             "page": "",
             "custom_liquid": ""
           }
