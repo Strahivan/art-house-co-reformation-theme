@@ -1,1 +1,222 @@
-{"sections":{"breadcrumbs":{"type":"breadcrumbs","settings":{}},"main-product":{"type":"main-product","blocks":{"e431a79e-9c7b-4a53-a79a-0cb918617ecf":{"type":"text","settings":{"text":"{{ product.vendor }}","text_style":"style_vendor"}},"title":{"type":"title","settings":{"uppercase":true,"show_products_rating":true}},"0b3e272b-c86a-4dba-946c-c6912251371c":{"type":"description","settings":{}},"variant_picker":{"type":"variant_picker","settings":{"picker_type":"button","color_picker":true,"color_picker_size":"large","color_picker_use_variants":false,"variant_is_disabled":true,"sizing_guide_variant":"Size","sizing_guide_text":"Sizing guide","sizing_guide_icon":"ruler","sizing_guide_page":""}},"infinite_options_app_block_mzFdB7":{"type":"shopify:\/\/apps\/infinite-options\/blocks\/app-block\/7e73b6f9-82b0-45f5-9b9b-04f446ba1a9b","settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{"show_quantity_selector":true,"show_dynamic_checkout":true,"show_gift_card_recipient":false}},"95b7e00a-0453-4eb0-9cf0-1dae84d8b822":{"type":"side_panel","settings":{"side_panel_1_label":"Materials","side_panel_1_icon":"leather","side_panel_1_content":"","side_panel_1_page":"","side_panel_2_label":"Shipping & Returns","side_panel_2_icon":"box","side_panel_2_content":"","side_panel_2_page":"","side_panel_3_label":"Care Guide","side_panel_3_icon":"washing","side_panel_3_content":"","side_panel_3_page":""}},"4fd23485-293f-46a0-8a4c-34d0e25ea41b":{"type":"share","settings":{}}},"block_order":["e431a79e-9c7b-4a53-a79a-0cb918617ecf","title","0b3e272b-c86a-4dba-946c-c6912251371c","variant_picker","infinite_options_app_block_mzFdB7","buy_buttons","95b7e00a-0453-4eb0-9cf0-1dae84d8b822","4fd23485-293f-46a0-8a4c-34d0e25ea41b"],"settings":{"full_width":true,"enable_sticky_info":false,"enable_sticky_add_to_cart":false,"show_taxes_included":false,"media_layout":"list","display_slider_pagination":true,"media_aspect_ratio":"square","display_captions":false,"hide_variants":true,"lightbox":true,"enable_video_looping":false}},"16623877721f33fb14":{"type":"spacer","settings":{"spacer_mobile":35,"spacer_desktop":90,"border_separator":false,"border_separator_full":false}},"1663667029efc274af":{"type":"collapsible-content","blocks":{"1663667029f86d6497-0":{"type":"collapsible_tab","settings":{"heading":"Print & Frame Specs","open":false,"content":"<p>The Iconic Archival Collection is a luxury print edition. Both <em>Unframed<\/em> and <em>Framed Prints<\/em> are Giclée printed on 250gsm Satin Lustre paper.<\/p><p><em>Framed Prints <\/em>are archivally mounted with a 7cm Matboard border and framed in a high quality, sustainable Australian timber. The timber frame is 4cm in depth and has a 2cm face reveal. <\/p><p><em>Framed Canvas<\/em> are Giclée printed on 350gsm matte satin canvas and framed in our signature Canvas Float Frame. This specialty moulding has a 7mm face reveal and allows an elegant shadow line between the canvas and the frame. Canvas are printed 'edge to edge', with the image meeting the edge of the canvas.<\/p><p>Framed Prints and Canvas are supplied ready to hang.<\/p>","page":""}},"1663667029f86d6497-1":{"type":"collapsible_tab","settings":{"heading":"Sizing","open":false,"content":"<p><em>** Sizes listed in the above drop-down are based on the IMAGE size. Please carefully read the table below to see the finished size of your chosen product before making your selection **<\/em><\/p><p>If you require a custom size let us know as everything we produce is made to order, by hand, and is printed and framed in-house.<\/p>","page":"size-guide-iconic-archival"}},"1663667029f86d6497-2":{"type":"collapsible_tab","settings":{"heading":"Shipping","open":false,"content":"<p>All our products are made to order and have a production time of between 5-14 working days not including delivery. Please be aware, as all our products are made to order, turnaround time can be subject to delays related to availability of materials. <br\/><br\/><em>Print orders<\/em> ship approximately 5 business days from the order date.<\/p><p><em>Frame orders <\/em>ship approximately 14 business days from the order date. Don't hesitate to contact us if your order is time sensitive and we will do our best to accommodate.<\/p><p><\/p><p><strong>Transit Times:*<\/strong><\/p><p>Metro Areas within Australia: 1-3 business days<\/p><p>Non-Metro Areas within Australia: 3-10 business days<\/p><p>International: <a href=\"mailto:store@arthouseco.com.au\">contact our team<\/a><\/p><p><strong><br\/>Packaging:<br\/><\/strong>Posters, photographs and art prints are carefully rolled with protective paper to protect against dust before being packaged in a tube. <\/p><p>Framed items and Canvas items are first bubble wrapped then placed in cardboard shipping carton custom fit to each order.<\/p><p><strong>Tracking:<\/strong><br\/>As soon as your order is dispatched, you will receive a confirmation email that includes a tracking number. Tracking is not provided for international standard shipments. All orders will be labelled with an Authority to Leave notice.<\/p>","page":""}},"collapsible_tab_kg3Tp7":{"type":"collapsible_tab","settings":{"heading":"Click & Collect","open":false,"content":"<p>Frame orders take approximately 14 business days to complete, whilst Print orders take around 5 business days. On completion, you will be notified by our team that your order is ready to collect.<br\/><br\/>Please be aware, as all our products are made to order, turnaround time can be subject to delays related to availability of materials. <br\/><br\/><strong>Don't hesitate to contact us if your order is time sensitive and we will do our best to accommodate.<\/strong><\/p>","page":""}}},"block_order":["1663667029f86d6497-0","1663667029f86d6497-1","1663667029f86d6497-2","collapsible_tab_kg3Tp7"],"settings":{"heading":"FAQs","description":"<p>+ Product Information<\/p>","uppercase_heading":true,"disable_top_spacing":false,"disable_bottom_spacing":false}},"1662552569cce2536d":{"type":"spacer","settings":{"spacer_mobile":0,"spacer_desktop":5,"border_separator":true,"border_separator_full":true}},"product-recommendations":{"type":"product-recommendations","settings":{"heading":"You May Also Like","heading_left":true,"description":"","full_width":true,"mobile_swipe":true,"disable_top_spacing":false,"disable_bottom_spacing":false}},"spacer_KVLLkz":{"type":"spacer","settings":{"spacer_mobile":0,"spacer_desktop":5,"border_separator":true,"border_separator_full":true}}},"order":["breadcrumbs","main-product","16623877721f33fb14","1663667029efc274af","1662552569cce2536d","product-recommendations","spacer_KVLLkz"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "breadcrumbs": {
+      "type": "breadcrumbs",
+      "settings": {}
+    },
+    "main-product": {
+      "type": "main-product",
+      "blocks": {
+        "e431a79e-9c7b-4a53-a79a-0cb918617ecf": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "style_vendor"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "uppercase": true,
+            "show_products_rating": true,
+            "show_custom_badges": true
+          }
+        },
+        "0b3e272b-c86a-4dba-946c-c6912251371c": {
+          "type": "description",
+          "settings": {
+            "seo_text_max_height": 1000,
+            "seo_text_read_more": "Read more",
+            "seo_text_read_less": "Read less"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "color_picker": true,
+            "color_picker_size": "large",
+            "color_picker_use_variants": false,
+            "variant_is_disabled": true,
+            "sizing_guide_variant": "Size",
+            "sizing_guide_text": "Sizing guide",
+            "sizing_guide_icon": "ruler",
+            "sizing_guide_page": ""
+          }
+        },
+        "infinite_options_app_block_mzFdB7": {
+          "type": "shopify://apps/infinite-options/blocks/app-block/7e73b6f9-82b0-45f5-9b9b-04f446ba1a9b",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "outline_button": true,
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "95b7e00a-0453-4eb0-9cf0-1dae84d8b822": {
+          "type": "side_panel",
+          "settings": {
+            "side_panel_1_label": "Materials",
+            "side_panel_1_icon": "leather",
+            "side_panel_1_content": "",
+            "side_panel_1_page": "",
+            "side_panel_2_label": "Shipping & Returns",
+            "side_panel_2_icon": "box",
+            "side_panel_2_content": "",
+            "side_panel_2_page": "",
+            "side_panel_3_label": "Care Guide",
+            "side_panel_3_icon": "washing",
+            "side_panel_3_content": "",
+            "side_panel_3_page": ""
+          }
+        },
+        "4fd23485-293f-46a0-8a4c-34d0e25ea41b": {
+          "type": "share",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "e431a79e-9c7b-4a53-a79a-0cb918617ecf",
+        "title",
+        "0b3e272b-c86a-4dba-946c-c6912251371c",
+        "variant_picker",
+        "infinite_options_app_block_mzFdB7",
+        "buy_buttons",
+        "95b7e00a-0453-4eb0-9cf0-1dae84d8b822",
+        "4fd23485-293f-46a0-8a4c-34d0e25ea41b"
+      ],
+      "settings": {
+        "full_width": true,
+        "enable_sticky_info": false,
+        "enable_sticky_add_to_cart": false,
+        "show_taxes_included": false,
+        "media_layout": "collage",
+        "display_slider_pagination": true,
+        "media_aspect_ratio": "square",
+        "display_captions": false,
+        "hide_variants": true,
+        "lightbox": true,
+        "enable_video_looping": false
+      }
+    },
+    "16623877721f33fb14": {
+      "type": "spacer",
+      "settings": {
+        "spacer_mobile": 35,
+        "spacer_desktop": 90,
+        "border_separator": false,
+        "border_separator_full": false
+      }
+    },
+    "1663667029efc274af": {
+      "type": "collapsible-content",
+      "blocks": {
+        "1663667029f86d6497-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Print & Frame Specs",
+            "open": false,
+            "content": "<p>The Iconic Archival Collection is a luxury print edition. Both <em>Unframed</em> and <em>Framed Prints</em> are Giclée printed on 250gsm Satin Lustre paper.</p><p><em>Framed Prints </em>are archivally mounted with a 7cm Matboard border and framed in a high quality, sustainable Australian timber. The timber frame is 4cm in depth and has a 2cm face reveal. </p><p><em>Framed Canvas</em> are Giclée printed on 350gsm matte satin canvas and framed in our signature Canvas Float Frame. This specialty moulding has a 7mm face reveal and allows an elegant shadow line between the canvas and the frame. Canvas are printed 'edge to edge', with the image meeting the edge of the canvas.</p><p>Framed Prints and Canvas are supplied ready to hang.</p>",
+            "page": "",
+            "custom_liquid": ""
+          }
+        },
+        "1663667029f86d6497-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Sizing",
+            "open": false,
+            "content": "<p><em>** Sizes listed in the above drop-down are based on the IMAGE size. Please carefully read the table below to see the finished size of your chosen product before making your selection **</em></p><p>If you require a custom size let us know as everything we produce is made to order, by hand, and is printed and framed in-house.</p>",
+            "page": "size-guide-iconic-archival",
+            "custom_liquid": ""
+          }
+        },
+        "1663667029f86d6497-2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shipping",
+            "open": false,
+            "content": "<p>All our products are made to order and have a production time of between 5-14 working days not including delivery. Please be aware, as all our products are made to order, turnaround time can be subject to delays related to availability of materials. <br/><br/><em>Print orders</em> ship approximately 5 business days from the order date.</p><p><em>Frame orders </em>ship approximately 14 business days from the order date. Don't hesitate to contact us if your order is time sensitive and we will do our best to accommodate.</p><p></p><p><strong>Transit Times:*</strong></p><p>Metro Areas within Australia: 1-3 business days</p><p>Non-Metro Areas within Australia: 3-10 business days</p><p>International: <a href=\"mailto:store@arthouseco.com.au\">contact our team</a></p><p><strong><br/>Packaging:<br/></strong>Posters, photographs and art prints are carefully rolled with protective paper to protect against dust before being packaged in a tube. </p><p>Framed items and Canvas items are first bubble wrapped then placed in cardboard shipping carton custom fit to each order.</p><p><strong>Tracking:</strong><br/>As soon as your order is dispatched, you will receive a confirmation email that includes a tracking number. Tracking is not provided for international standard shipments. All orders will be labelled with an Authority to Leave notice.</p>",
+            "page": "",
+            "custom_liquid": ""
+          }
+        },
+        "collapsible_tab_kg3Tp7": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Click & Collect",
+            "open": false,
+            "content": "<p>Frame orders take approximately 14 business days to complete, whilst Print orders take around 5 business days. On completion, you will be notified by our team that your order is ready to collect.<br/><br/>Please be aware, as all our products are made to order, turnaround time can be subject to delays related to availability of materials. <br/><br/><strong>Don't hesitate to contact us if your order is time sensitive and we will do our best to accommodate.</strong></p>",
+            "page": "",
+            "custom_liquid": ""
+          }
+        }
+      },
+      "block_order": [
+        "1663667029f86d6497-0",
+        "1663667029f86d6497-1",
+        "1663667029f86d6497-2",
+        "collapsible_tab_kg3Tp7"
+      ],
+      "settings": {
+        "heading": "FAQs",
+        "description": "<p>+ Product Information</p>",
+        "uppercase_heading": true,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "1662552569cce2536d": {
+      "type": "spacer",
+      "settings": {
+        "spacer_mobile": 0,
+        "spacer_desktop": 5,
+        "border_separator": true,
+        "border_separator_full": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "You May Also Like",
+        "heading_left": true,
+        "description": "",
+        "full_width": true,
+        "mobile_swipe": true,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "spacer_KVLLkz": {
+      "type": "spacer",
+      "settings": {
+        "spacer_mobile": 0,
+        "spacer_desktop": 5,
+        "border_separator": true,
+        "border_separator_full": true
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs",
+    "main-product",
+    "16623877721f33fb14",
+    "1663667029efc274af",
+    "1662552569cce2536d",
+    "product-recommendations",
+    "spacer_KVLLkz"
+  ]
+}
