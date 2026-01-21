@@ -1,0 +1,278 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "breadcrumbs": {
+      "type": "breadcrumbs",
+      "settings": {}
+    },
+    "main-product": {
+      "type": "main-product",
+      "blocks": {
+        "e431a79e-9c7b-4a53-a79a-0cb918617ecf": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "style_vendor"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "uppercase": true,
+            "show_products_rating": true,
+            "show_custom_badges": true
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "color_picker": true,
+            "color_picker_size": "large",
+            "color_picker_use_variants": false,
+            "variant_is_disabled": false,
+            "sizing_guide_variant": "Size",
+            "sizing_guide_text": "size guide",
+            "sizing_guide_icon": "ruler",
+            "sizing_guide_page": "size-guide"
+          }
+        },
+        "mighty_image_uploader_app_block_T3Tz8D": {
+          "type": "shopify://apps/mighty-image-uploader/blocks/app-block/1fd42d45-f36c-4cd4-a281-183fed7894d3",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "outline_button": false,
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "95b7e00a-0453-4eb0-9cf0-1dae84d8b822": {
+          "type": "side_panel",
+          "settings": {
+            "side_panel_1_label": "Shipping",
+            "side_panel_1_icon": "box",
+            "side_panel_1_content": "",
+            "side_panel_1_page": "shipping",
+            "side_panel_2_label": "Returns Policy",
+            "side_panel_2_icon": "return",
+            "side_panel_2_content": "",
+            "side_panel_2_page": "refund-policy",
+            "side_panel_3_label": "Size Guides",
+            "side_panel_3_icon": "ruler",
+            "side_panel_3_content": "",
+            "side_panel_3_page": "size-guide"
+          }
+        },
+        "0b3e272b-c86a-4dba-946c-c6912251371c": {
+          "type": "description",
+          "settings": {
+            "seo_text_max_height": 1000,
+            "seo_text_read_more": "Read more",
+            "seo_text_read_less": "Read less"
+          }
+        },
+        "4fd23485-293f-46a0-8a4c-34d0e25ea41b": {
+          "type": "share",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "e431a79e-9c7b-4a53-a79a-0cb918617ecf",
+        "title",
+        "variant_picker",
+        "mighty_image_uploader_app_block_T3Tz8D",
+        "buy_buttons",
+        "95b7e00a-0453-4eb0-9cf0-1dae84d8b822",
+        "0b3e272b-c86a-4dba-946c-c6912251371c",
+        "4fd23485-293f-46a0-8a4c-34d0e25ea41b"
+      ],
+      "settings": {
+        "full_width": false,
+        "enable_sticky_info": true,
+        "enable_sticky_add_to_cart": true,
+        "show_taxes_included": false,
+        "media_layout": "list",
+        "display_slider_pagination": true,
+        "media_aspect_ratio": "adapt",
+        "display_captions": false,
+        "hide_variants": true,
+        "lightbox": true,
+        "enable_video_looping": false
+      }
+    },
+    "16623877721f33fb14": {
+      "type": "spacer",
+      "settings": {
+        "spacer_mobile": 35,
+        "spacer_desktop": 90,
+        "border_separator": true,
+        "border_separator_full": false
+      }
+    },
+    "collapsible_content_p4qxPC": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_tab_Qe4DKR": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Print & Frame Specs",
+            "open": false,
+            "content": "<p>Both <em>Unframed </em>and <em>Framed Prints </em>are Giclée printed on 260gsm matte paper.</p><p>Inspired by culturally rich Havana, Cuba, this authentic burl veneer evokes the character of gently aged wood.</p><p>The Havana frame measures 28mm on the face and 18mm on the side profile. <br/><br/>All our products are made to order, by hand with love, in our Sydney workshop.</p>",
+            "page": "",
+            "custom_liquid": ""
+          }
+        },
+        "collapsible_tab_UAGWbF": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Border Option",
+            "open": false,
+            "content": "<p>Havana orders are framed with a premium matboard border</p>",
+            "page": "",
+            "custom_liquid": ""
+          }
+        },
+        "collapsible_tab_7VWjyV": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shipping",
+            "open": false,
+            "content": "<p>All our products are made to order and have a production time of between 5-14 working days not including delivery. Please be aware, as all our products are made to order, turnaround time can be subject to delays related to availability of materials. <br/><br/><em>Print orders</em> ship approximately 5 business days from the order date.</p><p><em>Frame orders </em>ship approximately 14 business days from the order date. Don't hesitate to contact us if your order is time sensitive and we will do our best to accommodate.</p><p></p><p><strong>Transit Times:*</strong></p><p>Metro Areas within Australia: 1-3 business days</p><p>Non-Metro Areas within Australia: 3-10 business days</p><p>International: <a href=\"mailto:store@arthouseco.com.au\">contact our team</a></p><p><strong><br/>Packaging:<br/></strong>Posters, photographs and art prints are carefully rolled with protective paper to protect against dust before being packaged in a tube. </p><p>Framed items and Canvas items are first bubble wrapped then placed in cardboard shipping carton custom fit to each order.</p><p><strong>Tracking:</strong><br/>As soon as your order is dispatched, you will receive a confirmation email that includes a tracking number. Tracking is not provided for international standard shipments. All orders will be labelled with an Authority to Leave notice.</p>",
+            "page": "",
+            "custom_liquid": ""
+          }
+        },
+        "collapsible_tab_qKdp7a": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Click & Collect",
+            "open": false,
+            "content": "<p>Frame orders take approximately 14 business days to complete, whilst Print orders take around 5 business days. On completion, you will be notified by our team that your order is ready to collect.<br/><br/>Please be aware, as all our products are made to order, turnaround time can be subject to delays related to availability of materials. <br/><br/><strong>Don't hesitate to contact us if your order is time sensitive and we will do our best to accommodate.</strong></p>",
+            "page": "",
+            "custom_liquid": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_tab_Qe4DKR",
+        "collapsible_tab_UAGWbF",
+        "collapsible_tab_7VWjyV",
+        "collapsible_tab_qKdp7a"
+      ],
+      "settings": {
+        "heading": "Product Info",
+        "description": "",
+        "uppercase_heading": false,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "heading": "You May Also Like",
+        "heading_left": false,
+        "description": "",
+        "full_width": true,
+        "mobile_swipe": true,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "1663667029efc274af": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_tab_QwyjRm": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "I have put an order through online. What happens next?",
+            "open": false,
+            "content": "<p>Once your order has been placed our processing team will send it through for production. Our production team will then get busy printing and framing your order. The production of your order can take between 5-14 working days to complete.</p><p>If you are picking up in store, one of our staff will notify you to let you know when it is ready to collect. If you require shipping, our dispatch team with box your order and organize delivery. You will then be notified by email and will be provided with the shipping information and tracking. Shipping time varies depending on your location.</p>",
+            "page": "",
+            "custom_liquid": ""
+          }
+        },
+        "collapsible_tab_4YhKyp": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "How long will my order take?",
+            "open": false,
+            "content": "<p>All products are made to order, in-house using locally sourced materials and have a production time of between 5-14 working days not including delivery. Please be aware, turnaround time can be subject to delays related to availability of materials. </p><p><em>Print orders</em> ship approximately 5 business days from the order date.</p><p><em>Frame orders </em>ship approximately 14 business days from the order date. </p><p>Specialist products, such as our <em>Artist Print Collections</em> take approximately 2-4 weeks for delivery in Australia and approximately 4 weeks for international destinations.</p><p>Shipping times vary depending on your location. Please allow 1-3 days for delivery in Sydney Metro areas and 5-7 for interstate and rural areas</p><p>Don't hesitate to contact us if your order is time sensitive and we will do our best to accommodate.</p>",
+            "page": "",
+            "custom_liquid": ""
+          }
+        },
+        "collapsible_tab_z4fgXM": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Do you provide custom framing?",
+            "open": false,
+            "content": "<p>Absolutely! We frame it all; jerseys, memorabilia, photographic prints, art prints, mirrors. There is no framing job too specific or unusual. </p><p></p><p>Learn More about our <a href=\"https://arthouseco.com.au/pages/custom-framing-services\" target=\"_blank\" title=\"Custom Framing Services\">Custom Framing Services</a></p><p>or <a href=\"/pages/request-a-quote\" target=\"_blank\" title=\"Request a Quote\">Request a Quote</a></p>",
+            "page": "",
+            "custom_liquid": ""
+          }
+        },
+        "collapsible_tab_y6cwH4": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Do you offer custom print sizing?",
+            "open": false,
+            "content": "<p>Yes we do! We print and frame in house, let us know which print you are interested in changing and what size you desire and we will see what we can do.</p>",
+            "page": "",
+            "custom_liquid": ""
+          }
+        },
+        "collapsible_tab_gtdw7U": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "I need help styling my house with my artworks, do you offer styling services?",
+            "open": false,
+            "content": "<p>We sure do! We have a dedicated team of in Artwork curators and advisors that will be happy to help you style your space. Learn more about our <a href=\"/pages/artwork-curation\" target=\"_blank\" title=\"Artwork Curation\">Artwork Consultation and Curation Service</a></p><p></p><p>We also offer a FREE Mockup Service to all clients and you can access this service <a href=\"https://arthouseco.com.au/pages/mock-up-service\" title=\"FREE Mockup Service\">HERE</a></p>",
+            "page": "",
+            "custom_liquid": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_tab_QwyjRm",
+        "collapsible_tab_4YhKyp",
+        "collapsible_tab_z4fgXM",
+        "collapsible_tab_y6cwH4",
+        "collapsible_tab_gtdw7U"
+      ],
+      "settings": {
+        "heading": "FAQs",
+        "description": "",
+        "uppercase_heading": false,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "176895637571d9613c": {
+      "type": "apps",
+      "settings": {}
+    }
+  },
+  "order": [
+    "breadcrumbs",
+    "main-product",
+    "16623877721f33fb14",
+    "collapsible_content_p4qxPC",
+    "product-recommendations",
+    "1663667029efc274af",
+    "176895637571d9613c"
+  ]
+}
