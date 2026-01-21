@@ -129,7 +129,7 @@
           "settings": {
             "heading": "Print & Frame Specs",
             "open": false,
-            "content": "<p>Both <em>Unframed </em>and <em>Framed Prints </em>are Giclée printed on 260gsm matte paper.</p><p>Inspired by culturally rich Havana, Cuba, this authentic burl veneer evokes the character of gently aged wood.</p><p>The Havana frame measures 28mm on the face and 18mm on the side profile. <br/><br/>All our products are made to order, by hand with love, in our Sydney workshop.</p>",
+            "content": "<p>Both <em>Unframed </em>and <em>Framed Prints </em>are Giclée printed on 260gsm matte paper.</p><p>This aesthetic is favoured by designers and stylists alike and is characterized by its generous Mattboard border and slim line frame.</p>",
             "page": "",
             "custom_liquid": ""
           }
@@ -139,7 +139,7 @@
           "settings": {
             "heading": "Border Option",
             "open": false,
-            "content": "<p>Havana orders are framed with a premium matboard border</p>",
+            "content": "<p>Vignettes are framed with a generous matboard border.</p><p>Please see below to find out the size your image/photo:</p><p>30x30cm  = 12x12cm Image Size</p><p>40x40cm  = 17x17cm Image Size</p><p>50x50cm = 20x20cm Image Size</p><p>60x60cm  = 25x25cm Image Size</p><p>70x70cm  = 30x30cm Image Size<br/><br/></p>",
             "page": "",
             "custom_liquid": ""
           }

@@ -181,6 +181,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "heading": "You May Also Like",
         "heading_left": false,
