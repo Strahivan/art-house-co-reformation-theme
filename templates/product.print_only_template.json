@@ -124,12 +124,12 @@
     "collapsible_content_p4qxPC": {
       "type": "collapsible-content",
       "blocks": {
-        "collapsible_tab_Qe4DKR": {
+        "collapsible_tab_gPknmc": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Print & Frame Specs",
+            "heading": "Printing Service Info",
             "open": false,
-            "content": "<p>Both <em>Unframed </em>and <em>Framed Prints </em>are Giclée printed on 260gsm matte paper. You can choose to include a 5cm Print Border around the image or have it printed 'edge to edge' with no border.<br/><br/><em>Framed Prints </em>are archivally mounted then framed in a high quality, sustainable Australian timber. The timber frame is 4cm in depth and has a 2cm face reveal. <br/><br/><em>Framed Canvas </em>are Giclée printed on 350gsm matte satin canvas and framed in our signature Canvas Float Frame. This specialty moulding has a 7mm face reveal and allows an elegant shadow line between the canvas and the frame. Canvas are printed 'edge to edge', with the image meeting the edge of the canvas.<br/><br/>All our products are made to order, by hand with love, in our Sydney workshop.</p>",
+            "content": "<p>To find out more about our Printing Services, including our full range of paper stocks, click <a href=\"https://arthouseco.com.au/pages/printing-services\" title=\"https://arthouseco.com.au/pages/printing-services\">here</a></p>",
             "page": "",
             "custom_liquid": ""
           }
@@ -137,20 +137,10 @@
         "collapsible_tab_UAGWbF": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Border Option",
+            "heading": "Print Handling and Care",
             "open": false,
-            "content": "<p>Framed Prints come with the option to add a <em>Print Border</em> around your image.</p><p>Canvas products are printed without a border, or 'edge to edge', where the image meets the edge of the canvas.</p>",
+            "content": "<p> All our prints are handled with the utmost of care. From printing to packaging, our prints are scrutinized by our production team to ensure you receive a pristine product.   Your beautiful new print is very delicate and it is our recommendation that it should only be handled and removed from its packaging by your intended professional framer.   Any creases or imperfections are not the responsibility of ARTHOUSEco.<br/><br/></p>",
             "page": "",
-            "custom_liquid": ""
-          }
-        },
-        "collapsible_tab_VYR8he": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Sizing",
-            "open": false,
-            "content": "",
-            "page": "general-print-collection-size-guide",
             "custom_liquid": ""
           }
         },
@@ -176,9 +166,8 @@
         }
       },
       "block_order": [
-        "collapsible_tab_Qe4DKR",
+        "collapsible_tab_gPknmc",
         "collapsible_tab_UAGWbF",
-        "collapsible_tab_VYR8he",
         "collapsible_tab_7VWjyV",
         "collapsible_tab_qKdp7a"
       ],
