@@ -103,7 +103,7 @@
         "enable_sticky_info": false,
         "enable_sticky_add_to_cart": false,
         "show_taxes_included": false,
-        "media_layout": "collage",
+        "media_layout": "list",
         "display_slider_pagination": true,
         "media_aspect_ratio": "square",
         "display_captions": false,
