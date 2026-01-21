@@ -127,30 +127,10 @@
         "collapsible_tab_Qe4DKR": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Print & Frame Specs",
+            "heading": "Wall Acrylics",
             "open": false,
-            "content": "<p>Both <em>Unframed </em>and <em>Framed Prints </em>are Giclée printed on 260gsm matte paper. You can choose to include a 5cm Print Border around the image or have it printed 'edge to edge' with no border.<br/><br/><em>Framed Prints </em>are archivally mounted then framed in a high quality, sustainable Australian timber. The timber frame is 4cm in depth and has a 2cm face reveal. <br/><br/><em>Framed Canvas </em>are Giclée printed on 350gsm matte satin canvas and framed in our signature Canvas Float Frame. This specialty moulding has a 7mm face reveal and allows an elegant shadow line between the canvas and the frame. Canvas are printed 'edge to edge', with the image meeting the edge of the canvas.<br/><br/>All our products are made to order, by hand with love, in our Sydney workshop.</p>",
+            "content": "<p>A seamless and modern finish. The clarity and sparkle of our Acrylic products enhance the deep colours and vibrancy of any image.</p><p>Your photo is printed on a premium archival photographic stock and is specially mounted to an Acrylic panel, setting off the illuminating quality of this specialty product. This mounting process is permanent and archival, providing full UV protection.<br/><br/>Wall Acrylics come complete with hanging system.</p>",
             "page": "",
-            "custom_liquid": ""
-          }
-        },
-        "collapsible_tab_UAGWbF": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Border Option",
-            "open": false,
-            "content": "<p>Framed Prints come with the option to add a <em>Print Border</em> around your image.</p><p>Canvas products are printed without a border, or 'edge to edge', where the image meets the edge of the canvas.</p>",
-            "page": "",
-            "custom_liquid": ""
-          }
-        },
-        "collapsible_tab_VYR8he": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Sizing",
-            "open": false,
-            "content": "",
-            "page": "general-print-collection-size-guide",
             "custom_liquid": ""
           }
         },
@@ -159,7 +139,7 @@
           "settings": {
             "heading": "Shipping",
             "open": false,
-            "content": "<p>All our products are made to order and have a production time of between 5-14 working days not including delivery. Please be aware, as all our products are made to order, turnaround time can be subject to delays related to availability of materials. <br/><br/><em>Print orders</em> ship approximately 5 business days from the order date.</p><p><em>Frame orders </em>ship approximately 14 business days from the order date. Don't hesitate to contact us if your order is time sensitive and we will do our best to accommodate.</p><p></p><p><strong>Transit Times:*</strong></p><p>Metro Areas within Australia: 1-3 business days</p><p>Non-Metro Areas within Australia: 3-10 business days</p><p>International: <a href=\"mailto:store@arthouseco.com.au\">contact our team</a></p><p><strong><br/>Packaging:<br/></strong>Posters, photographs and art prints are carefully rolled with protective paper to protect against dust before being packaged in a tube. </p><p>Framed items and Canvas items are first bubble wrapped then placed in cardboard shipping carton custom fit to each order.</p><p><strong>Tracking:</strong><br/>As soon as your order is dispatched, you will receive a confirmation email that includes a tracking number. Tracking is not provided for international standard shipments. All orders will be labelled with an Authority to Leave notice.</p>",
+            "content": "<p>All our products are made to order and have a production time of between 5-14 working days not including delivery. Please be aware, as all our products are made to order, turnaround time can be subject to delays related to availability of materials. <br/><br/><em>Acrylic Products</em> ship approximately 14-21 days from order date.</p><p>Let us know if you need this item by a certain date as we will try and accommodate.</p><p><strong>Transit Times:*</strong></p><p>Metro Areas within Australia: 1-3 business days</p><p>Non-Metro Areas within Australia: 3-10 business days</p><p>International: <a href=\"mailto:store@arthouseco.com.au\">contact our team</a></p><p><strong><br/>Packaging:<br/></strong>Posters, photographs and art prints are carefully rolled with protective paper to protect against dust before being packaged in a tube. </p><p>Framed items and Canvas items are first bubble wrapped then placed in cardboard shipping carton custom fit to each order.</p><p><strong>Tracking:</strong><br/>As soon as your order is dispatched, you will receive a confirmation email that includes a tracking number. Tracking is not provided for international standard shipments. All orders will be labelled with an Authority to Leave notice.</p>",
             "page": "",
             "custom_liquid": ""
           }
@@ -177,8 +157,6 @@
       },
       "block_order": [
         "collapsible_tab_Qe4DKR",
-        "collapsible_tab_UAGWbF",
-        "collapsible_tab_VYR8he",
         "collapsible_tab_7VWjyV",
         "collapsible_tab_qKdp7a"
       ],
