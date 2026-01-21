@@ -23,36 +23,73 @@
       "blocks": {
         "collapsible_tab_yJnAbM": {
           "type": "collapsible_tab",
+          "name": "Who we are",
           "settings": {
             "heading": "Who we are",
             "open": false,
-            "content": "<p>ARTHOUSEco is a retail gallery space and fine art workshop nestled in the heart of Marrickville, New South Wales.<br/></p><p>With decades of experience collaborating with Industry Creatives, Stylist and Artists, our incredible team are experts in Fine Art Curation and Custom Framing.</p><p>We are proudly Australian owned and operated. Arthouse co was established in September 2018 whilst Art & Framing has proudly been a part of the Newtown and Marrickville community in Sydney for over 20 years.</p>",
+            "content": "<p>ARTHOUSE CO is the art brand and concept store by The Art & Framing Company.</p><p>Housed within a beautiful 300sqm warehouse conversion, our light-filled, inspiring space showcases and exhibits Fine Art from local and International Artists.</p><p>Where interior design and art curation meet, our team specialises in curating bespoke art collections and design pieces that elevate and personalise every space.</p>",
+            "page": "",
+            "custom_liquid": ""
+          }
+        },
+        "collapsible_tab_fHNEyt": {
+          "type": "collapsible_tab",
+          "name": "Get in Touch",
+          "settings": {
+            "heading": "How to Get in Touch",
+            "open": false,
+            "content": "<p>Got a question or want to say hello?Reach us on (02) 9516 1700 or drop us a line at store@arthouseco.com.au — our friendly team will be happy to help.</p>",
             "page": "",
             "custom_liquid": ""
           }
         },
         "collapsible_tab_LmJG4X": {
           "type": "collapsible_tab",
+          "name": "What we do",
           "settings": {
             "heading": "What we do",
             "open": false,
-            "content": "<p>We are one of the leading Picture Framers in Sydney with decades of experience working with local and international Artist and Industry Professionals. </p><p>We are experts in all facets of Archival, Gallery Grade Printing and Framing as well as Art Curation and Styling.</p><p>Here are just a few of our areas of expertise:</p><ul><li>Custom Framing</li><li>Canvas Stretching</li><li>Gallery Grade Printing</li><li>Art Curation & Consultations</li><li>Art Installation & Styling</li></ul><p>All printing and framing is completed on site in our Sydney workshop using only high grade, sustainably sourced materials.</p><p></p><p></p>",
+            "content": "<p>We are one of the leading Picture Framers and Art Curators in Sydney with decades of experience working with local and international Artist and Industry Professionals. </p><p>We are experts in all facets of Archival, Gallery Grade Printing and Framing as well as Art Curation and Styling.</p><p>Here are just a few of our areas of expertise:</p><ul><li>Custom Framing</li><li>Canvas Stretching</li><li>Gallery Grade Printing</li><li>Art Curation & Consultations</li><li>Art Installation & Styling</li></ul><p>All printing and framing is completed on site in our Sydney workshop using only high grade, sustainably sourced materials.</p><p></p><p></p>",
+            "page": "",
+            "custom_liquid": ""
+          }
+        },
+        "collapsible_tab_fw7VaN": {
+          "type": "collapsible_tab",
+          "name": "Complimentary Shipping",
+          "settings": {
+            "heading": "Complimentary Shipping",
+            "open": false,
+            "content": "<p>We offer complimentary shipping on all orders over $129.<br/></p>",
             "page": "",
             "custom_liquid": ""
           }
         },
         "collapsible_tab_AggGnn": {
           "type": "collapsible_tab",
+          "name": "Order info",
           "settings": {
             "heading": "I have put an order through online. What happens next?",
             "open": false,
-            "content": "<p>Once your order has been placed our processing team will send it through for production. Our production team will then get busy printing and framing your order. The production of your order can take between 5-14 working days to complete.</p><p>If you are picking up in store, one of our staff will notify you to let you know when it is ready to collect. If you require shipping, our dispatch team with box your order and organize delivery. You will then be notified by email and will be provided with the shipping information and tracking. Shipping time varies depending on your location.</p>",
+            "content": "<p>Once your order is placed, our processing team reviews it before sending it to production, where our skilled framers and printers begin creating your piece. Production typically takes 5–14 business days, depending on the complexity of your order.</p><ul><li>Print Orders: Ship approximately 5 business days from the order date.</li><li>Framed Orders: Ship approximately 14 business days from the order date.</li><li>Specialist Products (including Artist Print Collections): Allow 2–4 weeks for delivery within Australia, and approximately 4 weeks for international destinations.</li></ul><p>All products are made to order in-house using locally sourced materials, and turnaround times may vary depending on material availability.</p>",
+            "page": "",
+            "custom_liquid": ""
+          }
+        },
+        "collapsible_tab_DGaR6y": {
+          "type": "collapsible_tab",
+          "name": "Shipping Times",
+          "settings": {
+            "heading": "Shipping Times",
+            "open": false,
+            "content": "<p>Delivery timeframes vary depending on your location. Please allow approximately 1–3 business days for Sydney Metro, and 5–7 business days for interstate and regional areas.</p><p>If your order is time-sensitive, please contact us — we’ll do our utmost to accommodate your deadline.</p>",
             "page": "",
             "custom_liquid": ""
           }
         },
         "collapsible_tab_3XYBPk": {
           "type": "collapsible_tab",
+          "name": "How long will my order take?",
           "settings": {
             "heading": "How long will my order take?",
             "open": false,
@@ -63,30 +100,44 @@
         },
         "collapsible_tab_KPKbVk": {
           "type": "collapsible_tab",
+          "name": "Custom framing?",
           "settings": {
             "heading": "Do you provide custom framing?",
             "open": false,
-            "content": "<p>Absolutely! We frame it all; jerseys, memorabilia, photographic prints, art prints, mirrors. There is no framing job too specific or unusual.</p><p></p><p>Learn More about our <a href=\"https://arthouseco.com.au/pages/custom-framing-services\" target=\"_blank\" title=\"Custom Framing Services\">Custom Framing Services</a></p><p>or <a href=\"https://arthouseco.com.au/pages/request-a-quote\" target=\"_blank\" title=\"Request a Quote\">Request a Quote</a></p>",
+            "content": "<p>Absolutely. We frame it all — jerseys, memorabilia, photographic prints, art prints, and mirrors. There’s no framing project too specific or unusual for our experienced team.</p><p>Learn More about our <a href=\"https://arthouseco.com.au/pages/custom-framing-services\" target=\"_blank\" title=\"Custom Framing Services\">Custom Framing Services</a></p><p>or <a href=\"https://arthouseco.com.au/pages/request-a-quote\" target=\"_blank\" title=\"Request a Quote\">Request a Quote</a></p>",
             "page": "",
             "custom_liquid": ""
           }
         },
         "collapsible_tab_mYtLra": {
           "type": "collapsible_tab",
+          "name": "Custom print sizing?",
           "settings": {
             "heading": "Do you offer custom print sizing?",
             "open": false,
-            "content": "<p>Yes we do! We print and frame in house, let us know which print you are interested in changing and what size you desire and we will see what we can do.</p>",
+            "content": "<p>Yes, we do. All printing and framing is done in-house, allowing us to customise sizing to suit your needs. Simply let us know which artwork you’re interested in and the size you require and we’ll do our best to make it happen.</p>",
             "page": "",
             "custom_liquid": ""
           }
         },
         "collapsible_tab_AyjHwR": {
           "type": "collapsible_tab",
+          "name": "Styling Services?",
           "settings": {
-            "heading": "I need help styling my house with my artworks, do you offer styling services?",
+            "heading": "Do You Offer Styling Services?",
             "open": false,
-            "content": "<p>We sure do! We have a dedicated team of in Artwork curators and advisors that will be happy to help you style your space. Learn more about our <a href=\"https://arthouseco.com.au/pages/artwork-curation\" target=\"_blank\" title=\"Artwork Curation\">Artwork Consultation and Curation Service</a></p><p></p><p>We also offer a FREE Mockup Service to all clients and you can access this service <a href=\"https://arthouseco.com.au/pages/mock-up-service\" title=\"FREE Mockup Service\">HERE</a></p>",
+            "content": "<p>We sure do. Our team of artwork curators and advisors can help you style your space with ease.</p><p>We also offer a complimentary Mockup Service to all clients — you can access this service <a href=\"https://arthouseco.com.au/pages/mock-up-service\" title=\"FREE Mockup Service\">HERE</a></p>",
+            "page": "",
+            "custom_liquid": ""
+          }
+        },
+        "collapsible_tab_YGW4Ge": {
+          "type": "collapsible_tab",
+          "name": "Afterpay",
+          "settings": {
+            "heading": "What is Afterpay?",
+            "open": false,
+            "content": "<p>Afterpay lets you purchase your artwork today, receive it right away, and pay it off over four equal fortnightly instalments — interest free.</p><p>Simply select Afterpay at checkout. You’ll be redirected to the Afterpay site to register or log in and complete your purchase. We’ll begin production and ship your order as per our usual terms.</p><ul><li>First-time customers: The first payment is charged at the time of purchase.</li><li>Existing customers: The first instalment is charged 14 days after purchase.</li><li>A detailed payment schedule will be provided by Afterpay at checkout.</li></ul><p>To use Afterpay, you must:</p><ul><li>Live in Australia</li><li>Be over 18 years of age</li><li>Complete your purchase with a debit or credit card</li></ul><p>Shop now — we’ll start creating your order while you pay it off in four easy instalments.</p>",
             "page": "",
             "custom_liquid": ""
           }
@@ -94,12 +145,16 @@
       },
       "block_order": [
         "collapsible_tab_yJnAbM",
+        "collapsible_tab_fHNEyt",
         "collapsible_tab_LmJG4X",
+        "collapsible_tab_fw7VaN",
         "collapsible_tab_AggGnn",
+        "collapsible_tab_DGaR6y",
         "collapsible_tab_3XYBPk",
         "collapsible_tab_KPKbVk",
         "collapsible_tab_mYtLra",
-        "collapsible_tab_AyjHwR"
+        "collapsible_tab_AyjHwR",
+        "collapsible_tab_YGW4Ge"
       ],
       "settings": {
         "heading": "FAQs",
