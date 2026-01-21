@@ -45,8 +45,8 @@
             "sizing_guide_page": "size-guide"
           }
         },
-        "infinite_options_app_block_mzFdB7": {
-          "type": "shopify://apps/infinite-options/blocks/app-block/7e73b6f9-82b0-45f5-9b9b-04f446ba1a9b",
+        "mighty_image_uploader_app_block_6DHtfD": {
+          "type": "shopify://apps/mighty-image-uploader/blocks/app-block/1fd42d45-f36c-4cd4-a281-183fed7894d3",
           "settings": {}
         },
         "buy_buttons": {
@@ -92,7 +92,7 @@
         "e431a79e-9c7b-4a53-a79a-0cb918617ecf",
         "title",
         "variant_picker",
-        "infinite_options_app_block_mzFdB7",
+        "mighty_image_uploader_app_block_6DHtfD",
         "buy_buttons",
         "95b7e00a-0453-4eb0-9cf0-1dae84d8b822",
         "0b3e272b-c86a-4dba-946c-c6912251371c",
@@ -139,7 +139,7 @@
           "settings": {
             "heading": "Border Option",
             "open": false,
-            "content": "<p>Canvas products are printed 'edge to edge' without a border, with the image meeting the edge of the canvas.</p>",
+            "content": "<p>Framed Prints come with the option to add a <em>Print Border</em> around your image.</p><p>Canvas products are printed without a border, or 'edge to edge', where the image meets the edge of the canvas.</p>",
             "page": "",
             "custom_liquid": ""
           }
@@ -192,6 +192,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "heading": "You May Also Like",
         "heading_left": false,
@@ -270,6 +271,10 @@
         "disable_top_spacing": false,
         "disable_bottom_spacing": false
       }
+    },
+    "17689582363de51a04": {
+      "type": "apps",
+      "settings": {}
     }
   },
   "order": [
@@ -278,6 +283,7 @@
     "16623877721f33fb14",
     "collapsible_content_p4qxPC",
     "product-recommendations",
-    "1663667029efc274af"
+    "1663667029efc274af",
+    "17689582363de51a04"
   ]
 }
