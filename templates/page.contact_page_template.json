@@ -57,8 +57,8 @@
           "settings": {
             "pin_image": "shopify://shop_images/Map_Pin.jpg",
             "pin_retina": true,
-            "pin_lat": "-33.910033952644994",
-            "pin_long": "151.16495917037986",
+            "pin_lat": "-33.911384",
+            "pin_long": "151.164953",
             "pin_title": "Visit our Showroom",
             "pin_desc": "Visit our gorgeous Marrickville Showroom"
           }
@@ -70,6 +70,7 @@
       "name": "Map",
       "settings": {
         "googlemaps_api_key": "",
+        "image": "shopify://shop_images/Arthouse_Exterior2_Cleaned2.jpg",
         "desktop_height": "desktop-height-450",
         "mobile_height": "mobile-height-350",
         "map_type": "roadmap",
