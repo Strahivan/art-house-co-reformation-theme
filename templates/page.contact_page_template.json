@@ -52,6 +52,7 @@
     },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "name": "Map (taken from page)",
       "settings": {
         "show_page_title": false,
