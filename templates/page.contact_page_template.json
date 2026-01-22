@@ -18,6 +18,16 @@
         "disable_bottom_spacing": false
       }
     },
+    "single_image_3tmQi4": {
+      "type": "single-image",
+      "name": "Single image",
+      "settings": {
+        "image": "shopify://shop_images/unnamed_large_b0cc18ed-da44-44e6-849b-836b6da3f262.webp",
+        "full_width": false,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
     "contact_form_KmynPt": {
       "type": "contact-form",
       "blocks": {
@@ -87,6 +97,7 @@
   },
   "order": [
     "main",
+    "single_image_3tmQi4",
     "contact_form_KmynPt",
     "map_TKRb8W"
   ]
