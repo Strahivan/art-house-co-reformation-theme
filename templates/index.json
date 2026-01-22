@@ -17,7 +17,7 @@
           "settings": {
             "image": "shopify://shop_images/HM_2026_Slim_1000x2880_d48fe3ed-f366-4a93-8142-afdd18c775f3.jpg",
             "mobile_image": "shopify://shop_images/HM_2026_Mobile_Banner.jpg",
-            "slide_link": "",
+            "slide_link": "shopify://collections/new-releases",
             "video_background": false,
             "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "subheading": "",
@@ -44,7 +44,7 @@
           "settings": {
             "image": "shopify://shop_images/Ombre_Slim_V2.jpg",
             "mobile_image": "shopify://shop_images/Ombre_Hunter_Setting.jpg",
-            "slide_link": "",
+            "slide_link": "shopify://collections/ombre-collectiojn",
             "video_background": false,
             "video": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "subheading": "Tailored Collection",
