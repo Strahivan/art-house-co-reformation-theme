@@ -134,6 +134,16 @@
             "custom_liquid": ""
           }
         },
+        "collapsible_tab_qnMHH4": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Premium Frame Options",
+            "open": false,
+            "content": "",
+            "page": "",
+            "custom_liquid": ""
+          }
+        },
         "collapsible_tab_UAGWbF": {
           "type": "collapsible_tab",
           "settings": {
@@ -177,6 +187,7 @@
       },
       "block_order": [
         "collapsible_tab_Qe4DKR",
+        "collapsible_tab_qnMHH4",
         "collapsible_tab_UAGWbF",
         "collapsible_tab_VYR8he",
         "collapsible_tab_7VWjyV",
