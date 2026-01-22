@@ -67,6 +67,7 @@
       "block_order": [
         "pin_KfFGqF"
       ],
+      "disabled": true,
       "name": "Map",
       "settings": {
         "googlemaps_api_key": "",
