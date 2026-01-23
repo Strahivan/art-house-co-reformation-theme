@@ -250,7 +250,7 @@
           "settings": {
             "heading": "I need help styling my house with my artworks, do you offer styling services?",
             "open": false,
-            "content": "<p>We sure do! We have a dedicated team of in Artwork curators and advisors that will be happy to help you style your space. Learn more about our <a href=\"/pages/artwork-curation\" target=\"_blank\" title=\"Artwork Curation\">Artwork Consultation and Curation Service</a></p><p></p><p>We also offer a FREE Mockup Service to all clients and you can access this service <a href=\"https://arthouseco.com.au/pages/mock-up-service\" title=\"FREE Mockup Service\">HERE</a></p>",
+            "content": "<p>We sure do! We have a dedicated team of in Artwork curators and advisors that will be happy to help you style your space. Learn more about our <a href=\"/pages/artwork-curation\" target=\"_blank\" title=\"Artwork Curation\">Artwork Consultation and Curation Service</a></p><p>We also offer a FREE Mockup Service to all clients and you can access this service <a href=\"https://arthouseco.com.au/pages/mock-up-service\" title=\"FREE Mockup Service\">HERE</a></p>",
             "page": "",
             "custom_liquid": ""
           }
