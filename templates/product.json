@@ -149,8 +149,8 @@
           "settings": {
             "heading": "Sizing",
             "open": false,
-            "content": "",
-            "page": "general-print-collection-size-guide",
+            "content": "<p>The majority of the sizes listed on our website refer to the PRINT or CANVAS SIZE and does not include the frame. Please carefully read the table below to see the finished size of your chosen product before making your selection.</p><p>If you are after a size not listed on our website, <a href=\"https://arthouseco.com.au/pages/contact-us\">get in touch!</a></p>",
+            "page": "size-guide-general",
             "custom_liquid": ""
           }
         },
