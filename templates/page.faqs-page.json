@@ -65,17 +65,6 @@
             "custom_liquid": ""
           }
         },
-        "collapsible_tab_AggGnn": {
-          "type": "collapsible_tab",
-          "name": "Order info",
-          "settings": {
-            "heading": "I have put an order through online. What happens next?",
-            "open": false,
-            "content": "<p>Our processing team will review your order before sending it to our workshop, where our skilled framers and printers begin creating your piece. </p><p>Production typically takes 5–14 business days, depending on the complexity of your order.</p><p>All products are made to order in-house using locally sourced materials, and turnaround times may vary depending on material availability.</p>",
-            "page": "",
-            "custom_liquid": ""
-          }
-        },
         "collapsible_tab_DGaR6y": {
           "type": "collapsible_tab",
           "name": "Shipping Times",
@@ -83,6 +72,17 @@
             "heading": "Shipping Times",
             "open": false,
             "content": "<p>Delivery timeframes vary depending on your location. Please allow approximately 1–3 business days for Sydney Metro, and 5–7 business days for interstate and regional areas.</p><p>If your order is time-sensitive, please contact us — we’ll do our utmost to accommodate your deadline.</p>",
+            "page": "",
+            "custom_liquid": ""
+          }
+        },
+        "collapsible_tab_AggGnn": {
+          "type": "collapsible_tab",
+          "name": "Order info",
+          "settings": {
+            "heading": "I have put an order through online. What happens next?",
+            "open": false,
+            "content": "<p>Our processing team will review your order before sending it to our workshop, where our skilled framers and printers begin creating your piece. </p><p>Production typically takes 5–14 business days, depending on the complexity of your order.</p><p>All products are made to order in-house using locally sourced materials, and turnaround times may vary depending on material availability.</p>",
             "page": "",
             "custom_liquid": ""
           }
@@ -148,8 +148,8 @@
         "collapsible_tab_LmJG4X",
         "collapsible_tab_fHNEyt",
         "collapsible_tab_fw7VaN",
-        "collapsible_tab_AggGnn",
         "collapsible_tab_DGaR6y",
+        "collapsible_tab_AggGnn",
         "collapsible_tab_3XYBPk",
         "collapsible_tab_KPKbVk",
         "collapsible_tab_mYtLra",
