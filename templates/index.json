@@ -958,7 +958,7 @@
             "max_width": 1100,
             "corner_styling": "soft",
             "quote_marks_style": "serif",
-            "card_color": "#F9F9F9",
+            "card_color": "#f9f9f9",
             "stars_and_quote_marks_color": "#108474",
             "text_color": "#000000",
             "arrows_color": "#000000",
@@ -972,6 +972,7 @@
         },
         "judge_me_reviews_review_widget_homepage_y8zX7k": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "disabled": true,
           "settings": {
             "product": "",
             "review_data": "sample_data",
@@ -985,14 +986,49 @@
       ],
       "settings": {}
     },
-    "spacer_kWUeg3": {
-      "type": "spacer",
-      "name": "Spacer",
+    "rich_text_qcaVhj": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_zNz84X": {
+          "type": "heading",
+          "settings": {
+            "text": "Leave a Review",
+            "size": "h3"
+          }
+        },
+        "text_VBWPBk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We would love to hear about your experience with Arthouse co!</p>",
+            "custom_liquid": "",
+            "size": "text-size-regular"
+          }
+        },
+        "button_9EJ46H": {
+          "type": "button",
+          "settings": {
+            "link_label": "WRITE A STORE REVIEW",
+            "link": "shopify://pages/reviews",
+            "button_outline": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_zNz84X",
+        "text_VBWPBk",
+        "button_9EJ46H"
+      ],
+      "name": "Rich text",
       "settings": {
-        "spacer_mobile": 50,
-        "spacer_desktop": 100,
-        "border_separator": true,
-        "border_separator_full": false
+        "section_width": "grid",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "transparent",
+        "color_text": "#151515",
+        "color_links": "#151515",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
       }
     },
     "rich_text_aG6fkQ": {
@@ -1215,7 +1251,7 @@
     "rich_text_4KRFRk",
     "1661539188062a849e",
     "1720397038b6589c80",
-    "spacer_kWUeg3",
+    "rich_text_qcaVhj",
     "rich_text_aG6fkQ",
     "scrolling_images_xnAtiG",
     "17203954955247d757",
