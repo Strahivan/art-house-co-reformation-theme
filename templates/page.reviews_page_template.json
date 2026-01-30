@@ -18,195 +18,56 @@
         "disable_bottom_spacing": false
       }
     },
-    "collapsible_content_KaPjwi": {
-      "type": "collapsible-content",
+    "rich_text_BnXbRR": {
+      "type": "rich-text",
       "blocks": {
-        "collapsible_tab_yJnAbM": {
-          "type": "collapsible_tab",
-          "name": "Who we are",
+        "heading_4Cmh9r": {
+          "type": "heading",
           "settings": {
-            "heading": "Who we are",
-            "open": false,
-            "content": "<p>ARTHOUSE CO is the art brand and concept store by The Art & Framing Company.</p><p>Housed within a beautiful 300sqm warehouse conversion, our light-filled, inspiring space showcases and exhibits Fine Art from local and International Artists.</p><p>Where interior design and art curation meet, our team specialises in curating bespoke art collections and design pieces that elevate and personalise every space.</p>",
-            "page": "",
-            "custom_liquid": ""
-          }
-        },
-        "collapsible_tab_LmJG4X": {
-          "type": "collapsible_tab",
-          "name": "What we do",
-          "settings": {
-            "heading": "What we do",
-            "open": false,
-            "content": "<p>We are one of the leading Picture Framers and Art Curators in Sydney with decades of experience working with Artist and Industry Professionals. </p><p>We are experts in all facets of Archival, Gallery Grade Printing and Framing as well as Art Curation and Styling.</p><p>Here are just a few of our areas of expertise:</p><ul><li>Custom Framing</li><li>Canvas Stretching</li><li>Gallery Grade Printing</li><li>Art Curation & Consultations</li><li>Art Installation & Styling</li></ul><p>All printing and framing is completed on site in our Sydney workshop using only high grade, sustainably sourced materials.</p><p></p><p></p>",
-            "page": "",
-            "custom_liquid": ""
-          }
-        },
-        "collapsible_tab_fHNEyt": {
-          "type": "collapsible_tab",
-          "name": "Get in Touch",
-          "settings": {
-            "heading": "How to Get in Touch",
-            "open": false,
-            "content": "<p>Got a question or want to say hello?Reach us on (02) 9516 1700 or drop us a line at store@arthouseco.com.au — our friendly team will be happy to help.</p>",
-            "page": "",
-            "custom_liquid": ""
-          }
-        },
-        "collapsible_tab_fw7VaN": {
-          "type": "collapsible_tab",
-          "name": "Complimentary Shipping",
-          "settings": {
-            "heading": "Complimentary Shipping",
-            "open": false,
-            "content": "<p>We offer complimentary shipping on all orders over $129.<br/></p>",
-            "page": "",
-            "custom_liquid": ""
-          }
-        },
-        "collapsible_tab_DGaR6y": {
-          "type": "collapsible_tab",
-          "name": "Shipping Times",
-          "settings": {
-            "heading": "Shipping Times",
-            "open": false,
-            "content": "<p>Delivery timeframes vary depending on your location. Please allow approximately 1–3 business days for Sydney Metro, and 5–7 business days for interstate and regional areas.</p><p>If your order is time-sensitive, please contact us — we’ll do our utmost to accommodate your deadline.</p>",
-            "page": "",
-            "custom_liquid": ""
-          }
-        },
-        "collapsible_tab_AggGnn": {
-          "type": "collapsible_tab",
-          "name": "Order info",
-          "settings": {
-            "heading": "I have put an order through online. What happens next?",
-            "open": false,
-            "content": "<p>Our processing team will review your order before sending it to our workshop, where our skilled framers and printers begin creating your piece. </p><p>Production typically takes 5–14 business days, depending on the complexity of your order.</p><p>All products are made to order in-house using locally sourced materials, and turnaround times may vary depending on material availability.</p>",
-            "page": "",
-            "custom_liquid": ""
-          }
-        },
-        "collapsible_tab_3XYBPk": {
-          "type": "collapsible_tab",
-          "name": "How long will my order take?",
-          "settings": {
-            "heading": "How long will my order take?",
-            "open": false,
-            "content": "<p>All products are made to order, in-house using locally sourced materials and have a production time of between 5-14 working days not including delivery. Please be aware, turnaround time can be subject to delays related to availability of materials. </p><p><em>Print orders</em> ship approximately 5 business days from the order date.</p><p><em>Frame orders </em>ship approximately 14 business days from the order date. </p><p>Specialist products, such as our <em>Artist Print Collections</em> take approximately 2-4 weeks for delivery in Australia and approximately 4 weeks for international destinations.</p><p>Shipping times vary depending on your location. Please allow 1-3 days for delivery in Sydney Metro areas and 5-7 for interstate and rural areas. </p><p>If your order is time-sensitive, please contact us — we’ll do our utmost to accommodate your deadline.</p>",
-            "page": "",
-            "custom_liquid": ""
-          }
-        },
-        "collapsible_tab_KPKbVk": {
-          "type": "collapsible_tab",
-          "name": "Custom framing?",
-          "settings": {
-            "heading": "Do you provide custom framing?",
-            "open": false,
-            "content": "<p>Absolutely. We frame it all — jerseys, memorabilia, photographic prints, art prints, and mirrors. There’s no framing project too specific or unusual for our experienced team.</p><p>Learn More about our <a href=\"https://arthouseco.com.au/pages/custom-framing-services\" target=\"_blank\" title=\"Custom Framing Services\">Custom Framing Services </a>or <a href=\"https://arthouseco.com.au/pages/request-a-quote\" target=\"_blank\" title=\"Request a Quote\">Request a Quote</a></p>",
-            "page": "",
-            "custom_liquid": ""
-          }
-        },
-        "collapsible_tab_mYtLra": {
-          "type": "collapsible_tab",
-          "name": "Custom print sizing?",
-          "settings": {
-            "heading": "Do you offer custom print sizing?",
-            "open": false,
-            "content": "<p>Yes, we do. All printing and framing is done in-house, allowing us to customise sizing to suit your needs. Simply let us know which artwork you’re interested in and the size you require and we’ll do our best to make it happen.</p>",
-            "page": "",
-            "custom_liquid": ""
-          }
-        },
-        "collapsible_tab_AyjHwR": {
-          "type": "collapsible_tab",
-          "name": "Styling Services?",
-          "settings": {
-            "heading": "Do You Offer Styling Services?",
-            "open": false,
-            "content": "<p>We sure do! Our team of artwork curators and advisors can help you style your space with ease.</p><p>We also offer a complimentary Mockup Service to all clients — you can access this service <a href=\"https://arthouseco.com.au/pages/mock-up-service\" title=\"FREE Mockup Service\">HERE</a></p>",
-            "page": "",
-            "custom_liquid": ""
-          }
-        },
-        "collapsible_tab_YGW4Ge": {
-          "type": "collapsible_tab",
-          "name": "Afterpay",
-          "settings": {
-            "heading": "What is Afterpay?",
-            "open": false,
-            "content": "<p>Afterpay lets you purchase your artwork today, receive it right away, and pay it off over four equal fortnightly instalments — interest free.</p><p>Simply select Afterpay at checkout. You’ll be redirected to the Afterpay site to register or log in and complete your purchase. We’ll begin production and ship your order as per our usual terms.</p><ul><li>First-time customers: The first payment is charged at the time of purchase.</li><li>Existing customers: The first instalment is charged 14 days after purchase.</li><li>A detailed payment schedule will be provided by Afterpay at checkout.</li></ul><p>To use Afterpay, you must:</p><ul><li>Live in Australia</li><li>Be over 18 years of age</li><li>Complete your purchase with a debit or credit card</li></ul><p>Shop now — we’ll start creating your order while you pay it off in four easy instalments.</p>",
-            "page": "",
-            "custom_liquid": ""
+            "text": "Customer Reviews",
+            "size": "h3"
           }
         }
       },
       "block_order": [
-        "collapsible_tab_yJnAbM",
-        "collapsible_tab_LmJG4X",
-        "collapsible_tab_fHNEyt",
-        "collapsible_tab_fw7VaN",
-        "collapsible_tab_DGaR6y",
-        "collapsible_tab_AggGnn",
-        "collapsible_tab_3XYBPk",
-        "collapsible_tab_KPKbVk",
-        "collapsible_tab_mYtLra",
-        "collapsible_tab_AyjHwR",
-        "collapsible_tab_YGW4Ge"
+        "heading_4Cmh9r"
       ],
+      "name": "Rich text",
       "settings": {
-        "heading": "FAQs",
-        "description": "<p>Below are some of our most frequently asked question as well as some general tips to help you find what you are looking for.</p><p>If you have any further questions, get in touch! </p><p>store@arthouseco.com.au<br/>(02) 9516 1700<br/>79 Sydenham Rd, Marrickville NSW</p><p></p><p></p>",
-        "uppercase_heading": true,
+        "section_width": "grid",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "color_bg": "transparent",
+        "color_text": "#151515",
+        "color_links": "#151515",
         "disable_top_spacing": false,
-        "disable_bottom_spacing": false
+        "disable_bottom_spacing": true
       }
     },
     "17697332561c4b8e4d": {
       "type": "apps",
       "blocks": {
-        "judge_me_reviews_testimonials_carousel_hhERB8": {
-          "type": "shopify://apps/judge-me-reviews/blocks/testimonials_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "judge_me_reviews_all_reviews_page_6mCBYn": {
+          "type": "shopify://apps/judge-me-reviews/blocks/all_reviews_page/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
-            "show_sample_reviews": true,
-            "reviews_selection": "all",
-            "products": [],
-            "star_rating": "all",
-            "max_reviews": 20,
-            "quote_marks_size": "small",
-            "product_name_text_size": "small",
-            "verified_badge_style": "icon",
-            "card_height": "medium",
-            "text_size": "small",
-            "stars_size": "medium",
-            "arrows_position": "bottom",
-            "max_width": 1100,
-            "corner_styling": "soft",
-            "quote_marks_style": "serif",
-            "card_color": "#F9F9F9",
-            "stars_and_quote_marks_color": "#108474",
-            "text_color": "#000000",
-            "arrows_color": "#000000",
-            "show_border": false,
-            "border_color": "#108474",
-            "show_drop_shadow": false,
-            "transition_speed": 5,
-            "header_text": "What our Customers are Saying",
-            "show_average_rating": true
+            "max_width": 1200,
+            "review_source": "all",
+            "show_tabs": false,
+            "show_first": "product",
+            "empty_state": "empty_widget"
           }
         }
       },
       "block_order": [
-        "judge_me_reviews_testimonials_carousel_hhERB8"
+        "judge_me_reviews_all_reviews_page_6mCBYn"
       ],
       "settings": {}
     }
   },
   "order": [
     "main",
-    "collapsible_content_KaPjwi",
+    "rich_text_BnXbRR",
     "17697332561c4b8e4d"
   ]
 }
