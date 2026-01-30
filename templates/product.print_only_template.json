@@ -179,6 +179,56 @@
         "disable_bottom_spacing": false
       }
     },
+    "1769732966e360ed4a": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_cards_carousel_HehHCh": {
+          "type": "shopify://apps/judge-me-reviews/blocks/cards_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "show_sample_reviews": true,
+            "reviews_selection": "all",
+            "products": [],
+            "star_rating": "4_to_5_star",
+            "show_review_media": true,
+            "display_order": "media_first",
+            "no_image_fallback": "review_text_only",
+            "max_reviews": 20,
+            "review_length": "medium",
+            "text_size": "medium",
+            "image_ratio": "1",
+            "reviews_shown": 4,
+            "show_reviewer_name": true,
+            "show_product_name": true,
+            "hide_arrows_mobile": true,
+            "arrows_position": "sides",
+            "max_width": 1100,
+            "corner_styling": "soft",
+            "header_text_color": "#000000",
+            "text_color": "#000000",
+            "card_color": "#F9F9F9",
+            "stars_color": "",
+            "arrows_color": "#000000",
+            "transition_speed": 5,
+            "header_text": "What our Customers are Saying",
+            "show_average_rating": true
+          }
+        },
+        "judge_me_reviews_review_widget_4Ydtbx": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_cards_carousel_HehHCh",
+        "judge_me_reviews_review_widget_4Ydtbx"
+      ],
+      "settings": {}
+    },
     "product-recommendations": {
       "type": "product-recommendations",
       "disabled": true,
@@ -271,6 +321,7 @@
     "main-product",
     "16623877721f33fb14",
     "collapsible_content_p4qxPC",
+    "1769732966e360ed4a",
     "product-recommendations",
     "1663667029efc274af",
     "17689582363de51a04"
