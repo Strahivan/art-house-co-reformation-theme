@@ -88,6 +88,8 @@ class FacetFiltersForm extends HTMLElement {
         FacetFiltersForm.renderProductCount(html);
 
         new FacetsToggle();
+        
+        document.dispatchEvent(new CustomEvent("swym:collections-loaded"));
       });
   }
 
