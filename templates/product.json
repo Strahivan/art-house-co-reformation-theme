@@ -107,7 +107,7 @@
         "display_slider_pagination": true,
         "media_aspect_ratio": "adapt",
         "display_captions": false,
-        "hide_variants": true,
+        "hide_variants": false,
         "lightbox": true,
         "enable_video_looping": false
       }
@@ -297,7 +297,7 @@
             "corner_styling": "soft",
             "header_text_color": "#000000",
             "text_color": "#000000",
-            "card_color": "#F9F9F9",
+            "card_color": "#f9f9f9",
             "stars_color": "",
             "arrows_color": "#000000",
             "transition_speed": 5,
