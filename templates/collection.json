@@ -25,7 +25,7 @@
       "type": "main-collection-product-grid",
       "settings": {
         "full_width": false,
-        "products_per_page": 20,
+        "products_per_page": 48,
         "columns_desktop": 3,
         "pagination_type": "paginated",
         "enable_filtering": true,
