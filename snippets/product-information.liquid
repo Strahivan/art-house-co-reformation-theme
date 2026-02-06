@@ -7,7 +7,13 @@
       {% render block %}
     {%- when 'text' -%}
       <p class="product--text {{ block.settings.text_style }}" {{ block.shopify_attributes }}>
-        {{- block.settings.text -}}
+        {% if block.settings.text_style == 'style_vendor' %}
+          <a href="{{ product.vendor | url_for_vendor }}" title="{{- block.settings.text -}}">
+            {{- block.settings.text -}}
+          </a>
+        {% else %}
+          {{- block.settings.text -}}
+        {% endif %}
       </p>
     {%- when 'custom_liquid' -%}
       {{ block.settings.custom_liquid }}
