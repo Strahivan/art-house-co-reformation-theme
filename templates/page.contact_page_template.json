@@ -63,7 +63,7 @@
       ],
       "name": "Contact",
       "settings": {
-        "heading": "Contact Us",
+        "heading": "Get in Touch",
         "heading_left": false,
         "description": "",
         "full_width": true,
@@ -102,7 +102,7 @@
       ],
       "name": "Contact form",
       "settings": {
-        "heading": "Get in Touch",
+        "heading": "Send us a Message",
         "description": "<p>Send as a message and our team will get back to you!</p>",
         "show_phone_number": true,
         "disable_top_spacing": false,
