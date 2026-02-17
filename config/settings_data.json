@@ -47,6 +47,7 @@
     "show_products_rating": false,
     "size_options_limit": 5,
     "badge_corner_radius": 0,
+    "color_swatches_variant_option": "Frame Choice, Float Frame Colour, Frame choice:, Frame It",
     "color_swatches": "Black and White: Black_and_White.jpg\nNeutral: Neutral_2.jpg\nGrey: Grey.jpg\nPastels: Pastels.jpg\nPeriwinkle: Periwinkle.jpg\nBurgundy: Burgundy.jpg\nRust: Rust.jpg\nLight Blue: Light_Blue.jpg\nDark Blue: Dark_Blue.jpg\nNavy: Navy_Blue.jpg\nMustard: Mustard.jpg\nColourful: Colourful.jpg\nBrown: Brown.jpg\nTaupe: Taupe.jpg\nDark Green: Dark_Green.jpg\nLight Green: Light_Green.jpg\nWhite: #ececec\nOak: Oak.jpg\nSilver: Silver.jpg\nGold: Gold.jpg\nChampagne: Champagne.jpg\nBlack Bamboo: Black_Bamboo.jpg\nBrown Bamboo: Brown_Bamboo.jpg\nSilver Bamboo: Silver_Bamboo.jpg\nGold Bamboo: Gold_Bamboo.jpg\nWhite Bamboo: White_Bamboo.jpg\nWalnut: Walnut.jpg\nUnframed Print on Paper: Unframed_Print.jpg\nN/A: Unframed_Print.jpg",
     "predictive_search_enabled": true,
     "search_menu": "popular-searches",
