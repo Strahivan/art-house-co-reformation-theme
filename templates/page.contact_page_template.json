@@ -112,7 +112,7 @@
       ],
       "name": "Contact form",
       "settings": {
-        "heading": "Send us a Message",
+        "heading": "Send a Message",
         "description": "<p>Send as a message and our team will get back to you!</p>",
         "show_phone_number": true,
         "disable_top_spacing": false,
