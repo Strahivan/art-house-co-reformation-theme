@@ -63,19 +63,29 @@
       ],
       "name": "Contact",
       "settings": {
-        "heading": "Get in Touch",
+        "heading": "",
         "heading_left": false,
         "description": "",
-        "full_width": true,
+        "full_width": false,
         "display_type": "grid",
         "image_ratio": "adapt",
         "columns_desktop": 3,
-        "text_alignment": "left",
+        "text_alignment": "center",
         "heading_size": "h5",
         "mobile_swipe": false,
         "show_progress_bar": true,
         "disable_top_spacing": false,
-        "disable_bottom_spacing": false
+        "disable_bottom_spacing": true
+      }
+    },
+    "spacer_e9ReDp": {
+      "type": "spacer",
+      "name": "Spacer",
+      "settings": {
+        "spacer_mobile": 0,
+        "spacer_desktop": 0,
+        "border_separator": true,
+        "border_separator_full": false
       }
     },
     "contact_form_KmynPt": {
@@ -132,6 +142,7 @@
   "order": [
     "single_image_3tmQi4",
     "multicolumn_metQKW",
+    "spacer_e9ReDp",
     "contact_form_KmynPt",
     "spacer_h8GB8k",
     "main"
