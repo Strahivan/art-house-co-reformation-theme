@@ -19,6 +19,65 @@
         "disable_bottom_spacing": true
       }
     },
+    "multicolumn_metQKW": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_7gemxt": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Get in Touch",
+            "text": "<p><a href=\"https://maps.app.goo.gl/MnDCbMSGjvnXRM6N9\" target=\"_blank\" title=\"https://maps.app.goo.gl/MnDCbMSGjvnXRM6N9\">79 Sydenham Rd, Marrickville NSW</a><br/>store@arthouseco.com.au<br/><a href=\"https://www.google.com/search?q=arthouse+co+sydney&rlz=1C1CHBF_en-GBAU1085AU1085&oq=art&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIGCAEQRRg5MgwIAhAjGCcYgAQYigUyBggDEEUYPDIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMTkwNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#\">(02) 9516 1700</a><br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_B7L8hC": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Visit Us",
+            "text": "<p>Monday to Friday: 9am-5pm<br/>Saturday: 10am-2pm<br/>Sunday: CLOSED</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_gXVNaK": {
+          "type": "column",
+          "settings": {
+            "image_full_width": false,
+            "retina": true,
+            "title": "Stay Updated",
+            "text": "<p><a href=\"https://www.instagram.com/arthouseco/\" target=\"_blank\" title=\"https://www.instagram.com/arthouseco/\">Instagram</a></p><p><a href=\"https://www.facebook.com/arthouseco.com.au\" target=\"_blank\" title=\"https://www.facebook.com/arthouseco.com.au\">Facebook</a></p><p><a href=\"https://au.pinterest.com/arthouse_co/\" target=\"_blank\" title=\"https://au.pinterest.com/arthouse_co/\">Pinterest</a></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_7gemxt",
+        "column_B7L8hC",
+        "column_gXVNaK"
+      ],
+      "name": "Contact",
+      "settings": {
+        "heading": "Contact Us",
+        "heading_left": false,
+        "description": "",
+        "full_width": true,
+        "display_type": "grid",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "text_alignment": "left",
+        "heading_size": "h5",
+        "mobile_swipe": false,
+        "show_progress_bar": true,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
     "contact_form_KmynPt": {
       "type": "contact-form",
       "blocks": {
@@ -50,6 +109,16 @@
         "disable_bottom_spacing": false
       }
     },
+    "spacer_h8GB8k": {
+      "type": "spacer",
+      "name": "Spacer",
+      "settings": {
+        "spacer_mobile": 50,
+        "spacer_desktop": 100,
+        "border_separator": true,
+        "border_separator_full": false
+      }
+    },
     "main": {
       "type": "main-page",
       "name": "Map (taken from page)",
@@ -58,47 +127,13 @@
         "disable_top_spacing": true,
         "disable_bottom_spacing": false
       }
-    },
-    "map_TKRb8W": {
-      "type": "map",
-      "blocks": {
-        "pin_KfFGqF": {
-          "type": "pin",
-          "settings": {
-            "pin_image": "shopify://shop_images/Map_Pin.jpg",
-            "pin_retina": true,
-            "pin_lat": "-33.911384",
-            "pin_long": "151.164953",
-            "pin_title": "Visit our Showroom",
-            "pin_desc": "Visit our gorgeous Marrickville Showroom! We are fully stocked with the latest Fine Art pieces sourced from local and international Artists."
-          }
-        }
-      },
-      "block_order": [
-        "pin_KfFGqF"
-      ],
-      "disabled": true,
-      "name": "Map",
-      "settings": {
-        "googlemaps_api_key": "",
-        "image": "shopify://shop_images/Arthouse_Exterior2_Cleaned2.jpg",
-        "desktop_height": "desktop-height-450",
-        "mobile_height": "mobile-height-350",
-        "map_type": "roadmap",
-        "map_style_select": "default",
-        "map_zoom": 0,
-        "color_bg": "#ffffff",
-        "color_text": "#151515",
-        "color_border": "#151515",
-        "disable_top_spacing": false,
-        "disable_bottom_spacing": false
-      }
     }
   },
   "order": [
     "single_image_3tmQi4",
+    "multicolumn_metQKW",
     "contact_form_KmynPt",
-    "main",
-    "map_TKRb8W"
+    "spacer_h8GB8k",
+    "main"
   ]
 }
