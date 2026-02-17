@@ -1204,7 +1204,7 @@
   "platform_customizations": {
     "custom_css": [
       ".boost-sd__product-image-img {object-fit: contain !important; background: unset !important;}",
-      "fieldset[data-handle=\"canvas-size\"],fieldset[data-handle=\"float-frame-colour\"],fieldset[data-handle=\"size\"],fieldset[data-handle=\"frame-choice\"] {display: flex; flex-wrap: wrap; gap: 15px;}"
+      ".product-form__input--block {display: flex; flex-wrap: wrap; gap: 15px;}"
     ]
   }
 }
