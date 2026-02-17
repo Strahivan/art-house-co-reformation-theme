@@ -1203,7 +1203,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".boost-sd__product-image-img {object-fit: contain !important; background: unset !important;}"
+      ".boost-sd__product-image-img {object-fit: contain !important; background: unset !important;}",
+      "fieldset[data-handle=\"canvas-size\"],fieldset[data-handle=\"float-frame-colour\"] {display: flex; flex-wrap: wrap; gap: 15px;}"
     ]
   }
 }
