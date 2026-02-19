@@ -310,12 +310,13 @@
     },
     "166366563622039b3e": {
       "type": "featured-collection",
+      "name": "Latest by Hayley Michelle",
       "settings": {
         "heading": "Latest by Hayley Michelle",
         "heading_left": false,
         "description": "",
         "full_width": true,
-        "collection": "hayley-michelle",
+        "collection": "latest-by-hayley-michelle",
         "display_type": "carousel",
         "product_limit": 12,
         "columns_desktop": 4,
@@ -328,6 +329,7 @@
     },
     "featured_collection_7PETD6": {
       "type": "featured-collection",
+      "name": "Featured Artist | Alexandra Plim",
       "settings": {
         "heading": "Featured Artist | Alexandra Plim",
         "heading_left": false,
@@ -446,6 +448,7 @@
     },
     "featured_collection_LhFnNH": {
       "type": "featured-collection",
+      "name": "Featured Artist | Dan Hobday",
       "settings": {
         "heading": "Featured Artist | Dan Hobday",
         "heading_left": false,
@@ -464,6 +467,7 @@
     },
     "featured_collection_3FKtUx": {
       "type": "featured-collection",
+      "name": "Featured Collection | Ombré",
       "settings": {
         "heading": "Featured Collection | Ombré",
         "heading_left": false,
@@ -1024,12 +1028,40 @@
         "text_width": "medium",
         "text_position": "center",
         "text_alignment": "center",
-        "color_bg": "transparent",
+        "color_bg": "rgba(0,0,0,0)",
         "color_text": "#151515",
         "color_links": "#151515",
         "disable_top_spacing": false,
         "disable_bottom_spacing": false
       }
+    },
+    "17203954955247d757": {
+      "type": "apps",
+      "blocks": {
+        "instafeed_app_block_9yDfjL": {
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "title_size_v2": 0,
+            "alignment": "center",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
+            "background_color": "",
+            "feed_id": "",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "instafeed_app_block_9yDfjL"
+      ],
+      "name": "Instagram",
+      "settings": {}
     },
     "rich_text_aG6fkQ": {
       "type": "rich-text",
@@ -1144,34 +1176,6 @@
         "disable_top_spacing": false,
         "disable_bottom_spacing": false
       }
-    },
-    "17203954955247d757": {
-      "type": "apps",
-      "blocks": {
-        "instafeed_app_block_9yDfjL": {
-          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
-          "settings": {
-            "title": "",
-            "title_color": "",
-            "title_size_v2": 0,
-            "alignment": "center",
-            "instafeed_margin_top": 0,
-            "instafeed_margin_bottom": 0,
-            "instafeed_margin_sides": 0,
-            "show_instagram_link": false,
-            "link_alignment": "left",
-            "link_color": "#000000",
-            "background_color": "",
-            "feed_id": "",
-            "html_area": ""
-          }
-        }
-      },
-      "block_order": [
-        "instafeed_app_block_9yDfjL"
-      ],
-      "name": "Instagram",
-      "settings": {}
     },
     "16620983071df6eb29": {
       "type": "text-with-icons",
