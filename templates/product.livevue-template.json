@@ -28,7 +28,7 @@
             "threeD_view": false,
             "ar_view": false,
             "measurement": "in",
-            "larf_flow": false,
+            "larf_flow": true,
             "frameSelling": "for-sale",
             "selected_product": ""
           }
