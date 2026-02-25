@@ -330,6 +330,36 @@
           "swym_variant_selector_create_list_placeholder_text": "Enter wishlist name",
           "swym_variant_selector_create_list_title": "Name Your Wishlist"
         }
+      },
+      "11842321875530314702": {
+        "type": "shopify://apps/birse-visual-search/blocks/in-store-image-search/58f4683c-4614-4dbe-9f86-c0463f4b579c",
+        "disabled": false,
+        "settings": {
+          "icon_position": "top-right",
+          "product_link_selector": "",
+          "product_card_selector": "",
+          "product_img_selector": "",
+          "product_img_src_attribute": "",
+          "background_color": "#FFFFFF",
+          "icon_color": "#24343F",
+          "enable_shadow": true,
+          "tooltip_text_color": "#ffffff",
+          "tooltip_bg_color": "#24343F"
+        }
+      },
+      "17707558499264185972": {
+        "type": "shopify://apps/birse-visual-search/blocks/input-image-search/58f4683c-4614-4dbe-9f86-c0463f4b579c",
+        "disabled": false,
+        "settings": {
+          "icon_size": 20,
+          "icon_color": "#000000",
+          "header_margin_right_desktop": 80,
+          "search_page_margin_right_desktop": 80,
+          "header_margin_right_mobile": 80,
+          "search_page_margin_right_mobile": 80,
+          "input_search_icon_background_color": "transparent",
+          "input_selector": ""
+        }
       }
     }
   },
@@ -1204,7 +1234,7 @@
   "platform_customizations": {
     "custom_css": [
       ".boost-sd__product-image-img {object-fit: contain !important; background: unset !important;}",
-      ".product-form__input--block,.product-form__input--color--large{display: flex; flex-wrap: wrap; gap: 15px;}"
+      ".product-form__input--block,.product-form__input--color--large {display: flex; flex-wrap: wrap; gap: 15px;}"
     ]
   }
 }
