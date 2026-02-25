@@ -12,10 +12,36 @@
     "main": {
       "type": "custom-liquid",
       "disabled": true,
+      "settings": {
+        "custom_liquid": ""
+      }
+    },
+    "1772016213d145225f": {
+      "type": "apps",
+      "blocks": {
+        "livearf_lively_art_framing_livearf_livevue_spa_zxqF4m": {
+          "type": "shopify://apps/livearf-lively-art-framing/blocks/LIVEARF-LIVEVUE-SPA/01997fa2-76d0-7ce3-8f7f-c55d3fb456b7",
+          "settings": {
+            "frame_view": true,
+            "room_view": true,
+            "gallery_view": false,
+            "threeD_view": false,
+            "ar_view": false,
+            "measurement": "in",
+            "larf_flow": false,
+            "frameSelling": "for-sale",
+            "selected_product": ""
+          }
+        }
+      },
+      "block_order": [
+        "livearf_lively_art_framing_livearf_livevue_spa_zxqF4m"
+      ],
       "settings": {}
     }
   },
   "order": [
-    "main"
+    "main",
+    "1772016213d145225f"
   ]
 }
