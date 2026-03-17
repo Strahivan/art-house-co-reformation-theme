@@ -141,10 +141,40 @@
         "mobile_promo_link_label": "",
         "mobile_promo_link": ""
       }
+    },
+    "177276042969f19c2a": {
+      "type": "apps",
+      "blocks": {
+        "birse_visual_search_wishlist_button_jtmaQf": {
+          "type": "shopify://apps/birse-visual-search/blocks/wishlist-button/58f4683c-4614-4dbe-9f86-c0463f4b579c",
+          "settings": {
+            "icon_size": 20,
+            "icon_color": "#000000",
+            "badge_bg_color": "#e51045",
+            "badge_text_color": "#ffffff"
+          }
+        },
+        "birse_visual_search_img_search_AXBBdF": {
+          "type": "shopify://apps/birse-visual-search/blocks/img-search/58f4683c-4614-4dbe-9f86-c0463f4b579c",
+          "settings": {
+            "icon_size": 20,
+            "icon_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "birse_visual_search_wishlist_button_jtmaQf",
+        "birse_visual_search_img_search_AXBBdF"
+      ],
+      "custom_css": [
+        ".birse-wishlist-wrap,.birse-img-upload-wrap {display:none !important;}"
+      ],
+      "settings": {}
     }
   },
   "order": [
     "announcement-bar",
-    "header"
+    "header",
+    "177276042969f19c2a"
   ]
 }
