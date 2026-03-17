@@ -25,7 +25,8 @@
 
 	<link rel="canonical" href="{{ canonical_url }}">
 	<link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
-	
+	<link rel="stylesheet" href="{{ 'livearf_custom.css' | asset_url }}" type="text/css">
+
 	{% render 'head-preload' %}
 
 	{% if settings.favicon != blank -%}
@@ -87,6 +88,43 @@
 	<script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');</script>
 	{{ settings.custom_html_head }}
 {% render 'wsg-custom' %}
+{% comment %} BIRSE-CUSTOMIZE-start {% endcomment %}
+
+<style>
+
+/* Hide sold out checkbox */
+wishlist-page .hide-sold-out{
+  display: none !important;
+  }
+
+/* Modify product title and price*/
+:is(wishlist-page,birse-imgsearch-modal,birse-imgsearch-sheet-mobile,birse-sheet-mobile,birse-modal,biggo-relative-product) .search-result-item :is(.item-name,.item-price-wrap){
+  text-align: center !important;
+}
+
+/* Modify recommended product list */
+:is(wishlist-page,birse-imgsearch-modal,birse-imgsearch-sheet-mobile,birse-sheet-mobile,birse-modal,biggo-relative-product) .search-result-item{
+  border:none !important;
+}
+
+/* Add "From " before the price */
+:is(wishlist-page,birse-imgsearch-modal,birse-imgsearch-sheet-mobile,birse-sheet-mobile,birse-modal) .search-result-item:not(.loading) .item-price-wrap .item-price::before {
+  content:"From " !important;
+}
+
+/* Center Title of Product Recommendations */
+biggo-relative-product .biggo-relative-product-title-wrapper{
+  justify-content: center !important;
+}
+
+/* fix BIRSE Popup loading */
+birse-image-search-popover.loading{
+  position: fixed !important;
+}
+</style>
+
+{% comment %} BIRSE-CUSTOMIZE-end {% endcomment %}
+
 </head>
 <body class="animations-{{ settings.animations }} button-uppercase-{{ settings.button_uppercase }} navigation-uppercase-{{ settings.navigation_uppercase }} product-title-uppercase-{{ settings.product_title_uppercase }}{% if customer %} customer-logged-in{% endif %} template-{{ template | replace: '.', ' ' | truncatewords: 1, '' | handle }} template-{{ template | replace: '.', '-' | handle }}">
 	<a class="screen-reader-shortcut" href="#main-content">{{ 'accessibility.skip_to_text' | t }}</a>
