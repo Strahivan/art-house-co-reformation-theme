@@ -1,0 +1,260 @@
+div#livevue-Template product-info {
+  padding: 0px !important;
+}
+div#livevue-Template .pages-width {
+  width: 100% !important;
+}
+.product-form__quantity {
+  display: none !important;
+}
+div#livevue-Template .product {
+  display: flex !important;
+  align-items: start;
+  justify-content: center;
+  float: none !important;
+}
+div#livevue-Template .product .product__media-wrapper {
+  flex: 3;
+  align-items: start;
+}
+div#livevue-Template .product .product__info-wrapper {
+  flex: 1;
+  align-items: start;
+}
+div#livevue-Template
+  .product
+  .product__media-wrapper
+  preview-block
+  ul.product__media-list {
+  display: flex;
+  align-items: start !important;
+}
+div#livevue-Template .product-form__input--pill input[type="radio"] + label {
+  display: inline-block;
+  padding: 10px 15px;
+  color: #000;
+  background-color: #fff;
+  margin: 10px 8px 0 0;
+  cursor: pointer;
+  border: 1px solid rgb(153 153 153);
+  position: relative;
+  font-size: 14px;
+  font-weight: 400;
+  min-width: 34px !important;
+  text-align: center;
+  float: unset !important;
+  outline: 0 !important;
+  line-height: 15px;
+  border-radius: 5px !important;
+}
+#livevue-Template .product-form__input--pill input[type="radio"] + label:hover{
+  background: rgb(223 223 223);
+  color: #000;
+  border: 1px solid rgb(153 153 153);
+}
+div#livevue-Template
+  .product-form__input--pill
+  input[type="radio"]:checked
+  + label {
+  background-color: rgb(223 223 223) !important;
+  color: #000 !important;
+  border-radius: 5px;
+}
+div#livevue-Template .product-form__input--pill input[type="file"] + label,
+#editButton {
+  padding: 10px 20px;
+  height: auto;
+  margin: 0;
+  border-radius: 5px;
+  width: auto !important;
+  height: auto !important;
+}
+#editButton {
+  background-color: #a5a5a5;
+}
+#editButton img {
+  width: 19px !important;
+}
+#livevue-Template .swatch_image{
+    width: 100px;
+    height: 100px;
+    padding: 10px !important;
+    border: 1px solid rgb(223 223 223) !important;
+}
+#livevue-Template .swatch_image .frameNames{
+  font-size: 0.75rem !important;
+  display: none !important;
+  margin-top: 7px !important;
+  height: 15px !important;
+  overflow: hidden;
+}
+/* #cancel_button, #crop_button {
+  font-size: 12px;
+  padding: 10px 20px !important;
+  background-color: #000;
+  color: #fff;
+  border-radius: 5px;
+  width: auto;
+  height: auto;
+} */
+.cropper-section h6{
+  margin-bottom: 1.5em;
+}
+
+@media screen and (max-width: 600px) {
+  div#livevue-Template .product{
+    flex-direction: column !important;
+  }
+  div#livevue-Template .product .product__media-wrapper{
+    width: 100%;
+  }
+  #roomView-preview{
+    height: 300px;
+    max-height: 400px;
+  }
+  .product__media-list{
+    width: 100%;
+    margin: 0px;
+  }
+  .product__media-list li{
+    width: 100%;
+    max-width: 100%;
+  }
+  #room-icons-set li{
+    width: auto !important;
+  }
+}
+.liveraf-toggle-container {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 16px;
+  font-weight: bold;
+  margin-top:1rem;
+}
+.liveraf-toggle-label {
+  transition: color 0.3s;
+  color: #aaa;
+}
+.liveraf-toggle-label.liveraf-active {
+  color: #000;
+}
+
+.liveraf-switch {
+  position: relative;
+  display: inline-block;
+  width: 50px;
+  height: 24px;
+}
+.liveraf-switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+.liveraf-toggle-slider {
+  position: absolute;
+  cursor: pointer;
+  inset: 0;
+  background-color: black;
+  transition: background-color 0.4s;
+  border-radius: 24px;
+}
+.liveraf-toggle-slider:before {
+  content: "";
+  position: absolute;
+  height: 20px;
+  width: 20px;
+  bottom: 2px;
+  left: 2px;
+  background-color: white;
+  transition: transform 0.4s;
+  border-radius: 50%;
+}
+input:checked + .liveraf-toggle-slider:before {
+  transform: translateX(26px);
+}
+input:not(:checked) + .liveraf-toggle-slider {
+  background-color: #ccc;
+}
+#larfsh-varient-form {
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+#livevue-Template .react-tabs__tab-list {
+  border-bottom: 1px solid #f5f5f4;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+#livevue-Template .react-tabs__tab {
+  display: inline-block;
+  border: 1px solid transparent;
+  border-bottom: none;
+  bottom: -1px;
+  position: relative;
+  list-style: none;
+  padding: 8px 16px;
+  cursor: pointer;
+}
+#livevue-Template .react-tabs__tab--selected {
+  background: #f5f5f4;
+  border-color: #f5f5f4;
+  color: black;
+  border-radius: 5px 5px 0 0;
+}
+#livevue-Template #previewModelContent {
+  left: 45% !important;
+}
+.uploadYourImage,.shopify-payment-button__button{
+    display:none !important;
+}
+.cropper-section > span {
+  float: none !important;
+}
+#portrait_button,
+#landscape_button,
+#reset_button,
+#cancel_button {
+  max-width: 20%;
+}
+#crop_button{
+    height: 35px !important;
+}
+@media (min-width: 768px) {
+  #previewIcons .list-inline > li {
+    display: block !important;
+  }
+  #livevue-Template #previewIcons {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+}
+#livevue-Template #frameView-preview::marker{
+  content:'';
+}
+#livevue-Template .product__media-wrapper{
+  max-width: 60%;
+}
+#larfsh-varient-form{
+  max-width: 40%;
+}
+.type_tooltip {
+    position: fixed;
+    transform: translate(-50%) translateY(-100%);
+    width: auto;
+    background-color: #000;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 4px #00000030;
+    color: #fff;
+    text-align: left;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 12px;
+    white-space: pre-line;
+    visibility: hidden;
+    z-index: 999999 !important;
+    pointer-events: none;
+    opacity: 0;
+    transition: all .3s ease-in-out;
+}
