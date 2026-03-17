@@ -7,6 +7,40 @@
 		assign profile_text = 'sections.header.login' | t
 	endif
 -%}
+
+{% comment %} BIRSE-CUSTOMIZE-start {% endcomment %}
+
+<script type="module">
+(function () {
+	window.addEventListener('load', () => {
+		let count=0;
+		const interval = setInterval(() => {
+			if (window.customElements && window.customElements.get('birse-wishlist-button')) {
+				const searchIcon=document.querySelector('.thb-quick-search');
+				const birseWishlistButton=document.querySelector('birse-wishlist-button[data-block-id]');
+				const birseImageSearchButton=document.querySelector('birse-img-upload-button[data-block-id]:not(.float):not(.input-bar)')
+				if(searchIcon && birseWishlistButton && birseImageSearchButton){
+					searchIcon.after(birseWishlistButton);
+					searchIcon.after(birseImageSearchButton);
+					clearInterval(interval);
+				}
+				else{
+					count++;
+					if(count>50){
+						clearInterval(interval);
+					}
+				}
+			}
+		},100)
+	})
+})();
+</script>
+
+{% comment %} BIRSE-CUSTOMIZE-end {% endcomment %}
+
+
+
+
 <div class="thb-secondary-area thb-header-right">
 	{%- unless header_settings.style == 'style4' -%}
 	<div class="no-js-hidden">
