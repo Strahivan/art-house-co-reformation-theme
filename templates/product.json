@@ -190,8 +190,31 @@
         "disable_bottom_spacing": false
       }
     },
+    "1772067835a7dc4b09": {
+      "type": "apps",
+      "blocks": {
+        "birse_visual_search_product_recommendations_WiUhPU": {
+          "type": "shopify://apps/birse-visual-search/blocks/product-recommendations/58f4683c-4614-4dbe-9f86-c0463f4b579c",
+          "settings": {
+            "tooltip_text_color": "#ffffff",
+            "tooltip_bg_color": "#24343F",
+            "desktop_columns": 5,
+            "desktop_display_quantity": 5,
+            "desktop_total_items": 100,
+            "mobile_columns": 2,
+            "mobile_display_quantity": 2,
+            "mobile_total_items": 100
+          }
+        }
+      },
+      "block_order": [
+        "birse_visual_search_product_recommendations_WiUhPU"
+      ],
+      "settings": {}
+    },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "heading": "You May Also Like",
         "heading_left": false,
@@ -327,6 +350,7 @@
     "main-product",
     "16623877721f33fb14",
     "collapsible_content_p4qxPC",
+    "1772067835a7dc4b09",
     "product-recommendations",
     "1663667029efc274af",
     "1769731774788ca4f7"
